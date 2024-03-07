@@ -6,7 +6,7 @@ async function scrapeData(url) {
   const page = await browser.newPage();
   await page.goto(url, { waitUntil: "networkidle2" });
 
-  // Scrape fixture information with added checks
+  // Scrape fixture information
   const fixtureInfo = await page.evaluate(() => {
     const courseNameElement = document.querySelector(
       ".header-wrap__title.page-title span"
@@ -19,7 +19,7 @@ async function scrapeData(url) {
     return { courseName, date };
   });
 
-  // Scrape race details with added checks
+  // Scrape race details
   const raceDetails = await page.evaluate(() => {
     const detailsElements = document.querySelectorAll(".info-list .meta-entry");
     const details = Array.from(detailsElements).reduce((acc, element) => {
@@ -35,28 +35,72 @@ async function scrapeData(url) {
     return details;
   });
 
-  // Scrape race entries with added checks
+  // Scrape race entries with detailed information
   const raceEntries = await page.evaluate(() => {
     const entries = [];
-    const entryElements = document.querySelectorAll(
-      "#raceentries-ui .table-entry"
-    );
-    entryElements.forEach((entry) => {
-      const horseJockeyElement = entry.querySelector(
-        ".name .table-link--horse"
-      );
-      const trainerOwnerElement = entry.querySelector(
-        ".trainer .table-link--trainer"
-      );
-      const horseJockey = horseJockeyElement
-        ? horseJockeyElement.innerText.trim()
-        : "N/A";
-      const trainerOwner = trainerOwnerElement
-        ? trainerOwnerElement.innerText.trim()
-        : "N/A";
-      // Add more fields as needed
-      entries.push({ horseJockey, trainerOwner });
-    });
+    document
+      .querySelectorAll("#raceentries-ui .table-entry")
+      .forEach((entry) => {
+        const noDraw = entry.querySelector(".no-draw .silk-wrap")
+          ? entry.querySelector(".no-draw .silk-wrap").innerText.trim()
+          : "N/A";
+        const horseJockeyElement = entry.querySelector(
+          ".name .table-link--horse"
+        );
+        const jockeyLinkElement = entry.querySelector(
+          ".name .table-link--jockey"
+        );
+        const trainerLinkElement = entry.querySelector(
+          ".trainer .table-link--trainer"
+        );
+        const age = entry.querySelector(".age")
+          ? entry.querySelector(".age").innerText.trim()
+          : "N/A";
+        const formType = entry.querySelector(".form")
+          ? entry.querySelector(".form").innerText.trim()
+          : "N/A";
+        const bhaRating = entry.querySelector(".rating")
+          ? entry.querySelector(".rating").innerText.trim()
+          : "N/A";
+        const weight = entry.querySelector(".weight")
+          ? entry.querySelector(".weight").innerText.trim()
+          : "N/A";
+        const odds = entry.querySelector(".odds")
+          ? entry.querySelector(".odds").innerText.trim()
+          : "N/A";
+
+        const horseJockey = horseJockeyElement
+          ? horseJockeyElement.innerText.trim()
+          : "N/A";
+        const horseUrl = horseJockeyElement
+          ? horseJockeyElement.href
+          : "No URL";
+        const jockeyName = jockeyLinkElement
+          ? jockeyLinkElement.innerText.trim()
+          : "N/A";
+        const jockeyUrl = jockeyLinkElement ? jockeyLinkElement.href : "No URL";
+        const trainerName = trainerLinkElement
+          ? trainerLinkElement.innerText.trim()
+          : "N/A";
+        const trainerUrl = trainerLinkElement
+          ? trainerLinkElement.href
+          : "No URL";
+
+        entries.push({
+          noDraw,
+          horseName: horseJockey,
+          horseUrl,
+          jockeyName,
+          jockeyUrl,
+          trainerName,
+          trainerUrl,
+          age,
+          formType,
+          bhaRating,
+          weight,
+          odds,
+        });
+      });
     return entries;
   });
 
@@ -71,7 +115,7 @@ async function saveDataToFile(data, filename) {
 
 (async () => {
   const url =
-    "https://www.britishhorseracing.com/racing/fixtures/upcoming/racecard/race/#!/2024/1048/11614/0/"; // Replace this with the actual URL
+    "https://www.britishhorseracing.com/racing/fixtures/upcoming/racecard/race/#!/2024/1048/11614/0/"; // Make sure to replace this with the actual URL
   const data = await scrapeData(url);
   await saveDataToFile(data, "fixture.json");
   console.log("Data has been saved to fixture.json");

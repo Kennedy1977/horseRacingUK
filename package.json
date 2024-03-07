@@ -4,9 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@tensorflow/tfjs": "^4.17.0",
     "axios": "^1.6.7",
-    "brain.js": "^2.0.0-beta.23",
     "cheerio": "^1.0.0-rc.12",
+    "node-gyp": "^10.0.1",
     "puppeteer": "^22.4.0"
   }
 }
