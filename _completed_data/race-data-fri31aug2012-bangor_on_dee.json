@@ -1,0 +1,330 @@
+[
+  {
+    "TIME": "2:30PM",
+    "NAME": "THE RACING UK MAIDEN HURDLE RACE (CLASS 5)",
+    "DISTANCE": "2m 4f",
+    "WINNER": "Clarion Call (GB)",
+    "URL": "result/#!/2012/487/921/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£2,600.00",
+      "Race Distance:": "2m 4f",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "MAIDEN"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Clarion Call (GB)\nPaul Moloney",
+        "TRAINER/OWNER": "Evan Williams\nMr M. D. Jones",
+        "DISTANCES/TIMES": "4m 57.1s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Emrani (USA)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nMr T. G. Leslie",
+        "DISTANCES/TIMES": "4m 58.03s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Wild West (IRE)\nA. P. McCoy",
+        "TRAINER/OWNER": "Jonjo O'Neill\nMr John P. McManus",
+        "DISTANCES/TIMES": "4m 58.73s",
+        "SP": "4/6"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Icanmotor (GB)\nAndrew Tinkler",
+        "TRAINER/OWNER": "Claire Dyson\nMr Keith Elvins",
+        "DISTANCES/TIMES": "5m 3.52s",
+        "SP": "200/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Mr Squirrel (IRE)\nMark Grant",
+        "TRAINER/OWNER": "Christopher Kellett\nD. H. & Exors of the Late Mrs R. E. Muir",
+        "DISTANCES/TIMES": "5m 7.26s",
+        "SP": "150/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:00PM",
+    "NAME": "THE AMI SYSTEMS HANDICAP STEEPLE CHASE (CLASS 4)",
+    "DISTANCE": "2m 4f 110y",
+    "WINNER": "Colditz (IRE)",
+    "URL": "result/#!/2012/487/919/0/",
+    "details": {
+      "Runners:": "4 RUNNERS",
+      "Prize Money:": "£4,700.00",
+      "Race Distance:": "2m 4f 110y",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-105",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "3lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Colditz (IRE)\nRichard Johnson",
+        "TRAINER/OWNER": "Richard Ford\nMr R. J. Hewitt",
+        "DISTANCES/TIMES": "5m 12.1s",
+        "SP": "7/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Molinero (IRE)\nPeter Carberry",
+        "TRAINER/OWNER": "J. R. Finn\nMrs. William Larkin",
+        "DISTANCES/TIMES": "5m 12.42s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Go Get Em Kid (IRE)\nA. P. McCoy",
+        "TRAINER/OWNER": "Jonjo O'Neill\nMr John P. McManus",
+        "DISTANCES/TIMES": "5m 12.95s",
+        "SP": "13/8"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Zhukov (IRE)\nKevin Jones",
+        "TRAINER/OWNER": "Kevin Tork\nMr K. Tork",
+        "DISTANCES/TIMES": "5m 14.86s",
+        "SP": "3/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:35PM",
+    "NAME": "THE RACING WELFARE NOVICES' HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 1f",
+    "WINNER": "Churchfield Champ (IRE)",
+    "URL": "result/#!/2012/487/22312/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£3,900.00",
+      "Race Distance:": "2m 1f",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Tackswop (IRE)\nSean Quinlan",
+        "TRAINER/OWNER": "Michael Mullineaux\nMr Michael Mullineaux",
+        "SP": "33/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Spade (GB)\nHenry Oliver",
+        "TRAINER/OWNER": "John Spearing\nMrs Heather Oliver",
+        "SP": "66/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Churchfield Champ (IRE)\nA. P. McCoy",
+        "TRAINER/OWNER": "Paul John Gilligan\nMr Sean Conroy",
+        "DISTANCES/TIMES": "4m 3.5s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Battlecat (GB)\nAdam Wedge",
+        "TRAINER/OWNER": "Evan Williams\nTywi Syndicate",
+        "DISTANCES/TIMES": "4m 3.61s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sud Pacifique (IRE)\nCallum Whillans",
+        "TRAINER/OWNER": "Donald McCain\nMr Tony Bloom",
+        "DISTANCES/TIMES": "4m 5.5s",
+        "SP": "4/5"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Reflect (IRE)\nRichard Johnson",
+        "TRAINER/OWNER": "Tim Vaughan\nMr Carl Hinchy",
+        "DISTANCES/TIMES": "4m 13.18s",
+        "SP": "9/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:10PM",
+    "NAME": "THE bangorBET NOVICES' HANDICAP HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 1f",
+    "WINNER": "Finch Flyer (IRE)",
+    "URL": "result/#!/2012/487/21571/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£3,900.00",
+      "Race Distance:": "2m 1f",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Rating:": "0-105",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Finch Flyer (IRE)\nA. P. McCoy",
+        "TRAINER/OWNER": "Aytach Sadik\nMr A. Sadik",
+        "DISTANCES/TIMES": "4m 5.8s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Peaks of Fire (IRE)\nRichard Johnson",
+        "TRAINER/OWNER": "Tim Vaughan\nMr C. Davies",
+        "DISTANCES/TIMES": "4m 6.05s",
+        "SP": "Evens"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Lulu's Gift (IRE)\nSean Quinlan",
+        "TRAINER/OWNER": "Michael Mullineaux\nThe Weaver Group",
+        "DISTANCES/TIMES": "4m 9.79s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Generous Kenny (GB)\nLee Edwards",
+        "TRAINER/OWNER": "Tony Carroll\nMrs Ann Trotman",
+        "DISTANCES/TIMES": "4m 11.3s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Sharp And Chic (GB)\nHarry Challoner",
+        "TRAINER/OWNER": "Richard Ford\nMiss N. C. Taylor",
+        "DISTANCES/TIMES": "4m 23.4s",
+        "SP": "33/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:45PM",
+    "NAME": "THE DUNDEE PARTNERSHIP HANDICAP STEEPLE CHASE (CLASS 3)",
+    "DISTANCE": "3m 110y",
+    "WINNER": "Wellforth (IRE)",
+    "URL": "result/#!/2012/487/922/0/",
+    "details": {
+      "Runners:": "3 RUNNERS",
+      "Prize Money:": "£7,000.00",
+      "Race Distance:": "3m 110y",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-135",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "5lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Lamboro Lad (IRE)\nJamie Moore",
+        "TRAINER/OWNER": "Peter Bowen\nMargaret and Raymond John",
+        "SP": "7/4"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Wellforth (IRE)\nAlain Cawley",
+        "TRAINER/OWNER": "Paul John Gilligan\nMiss Clare Louise Ellam",
+        "DISTANCES/TIMES": "6m 20.9s",
+        "SP": "7/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Shadow Dancer (IRE)\nA. P. McCoy",
+        "TRAINER/OWNER": "Jonjo O'Neill\nMr John P. McManus",
+        "DISTANCES/TIMES": "6m 27.34s",
+        "SP": "2/1"
+      }
+    ]
+  },
+  {
+    "TIME": "5:15PM",
+    "NAME": "THE BANGOR HANDICAP HURDLE RACE (CLASS 5)",
+    "DISTANCE": "2m 4f",
+    "WINNER": "Hit The Switch (GB)",
+    "URL": "result/#!/2012/487/908/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£2,600.00",
+      "Race Distance:": "2m 4f",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-100",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Ut Love (FR)\nRobert Thornton",
+        "TRAINER/OWNER": "M. Palussiere\nNicholas Teehan",
+        "SP": "28/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Boomtown (GB)\nAndrew Tinkler",
+        "TRAINER/OWNER": "Claire Dyson\nMiss C. Dyson",
+        "SP": "80/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Hit The Switch (GB)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nMr M. M. Allen",
+        "DISTANCES/TIMES": "4m 50.8s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Ruttan Lake (IRE)\nAidan Coleman",
+        "TRAINER/OWNER": "Tim Vaughan\nMr B Jones & Mr N Wright",
+        "DISTANCES/TIMES": "4m 51.64s",
+        "SP": "5/6"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sacco d'Oro (GB)\nSean Quinlan",
+        "TRAINER/OWNER": "Michael Mullineaux\nMr Paul D'Amato",
+        "DISTANCES/TIMES": "4m 52.04s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Ravi River (IRE)\nCallum Whillans",
+        "TRAINER/OWNER": "Alistair Whillans\nGold Tooth Racing",
+        "DISTANCES/TIMES": "4m 55.17s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Factotum (GB)\nA. P. McCoy",
+        "TRAINER/OWNER": "Jonjo O'Neill\nMr John P. McManus",
+        "DISTANCES/TIMES": "4m 55.94s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Kenaleck (GER)\nRichard Johnson",
+        "TRAINER/OWNER": "Tim Vaughan\nMr J. M. Duggan & Mr T. P. Duggan",
+        "DISTANCES/TIMES": "5m 5.78s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Brunston (GB)\nDave Crosse",
+        "TRAINER/OWNER": "Brendan Powell\nMr Paul Frank Barry",
+        "DISTANCES/TIMES": "5m 8.28s",
+        "SP": "14/1"
+      }
+    ]
+  }
+]

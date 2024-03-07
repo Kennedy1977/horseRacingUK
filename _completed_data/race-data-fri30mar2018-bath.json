@@ -1,0 +1,311 @@
+[
+  {
+    "TIME": "1:50PM",
+    "NAME": "THE BETWAY NOVICE STAKES (CLASS 4) (PLUS 10 RACE)",
+    "DISTANCE": "5f 160y",
+    "WINNER": "Dan's Dream",
+    "URL": "result/#!/2018/17291/28088/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£7,750.00",
+      "Race Distance:": "5f 160y",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "3YO",
+      "Horse Type:": "NOVICE",
+      "Handicapper:": "Stewart Copeland"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Dan's Dream (GB)\nFranny Norton",
+        "TRAINER/OWNER": "Mick Channon\nHunscote,Watt,Peckham,Botham & Edwards",
+        "DISTANCES/TIMES": "1m 19.06s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Grandma Tilly (GB)\nToby Eley",
+        "TRAINER/OWNER": "Steph Hollinshead\nDebbie Hodson",
+        "DISTANCES/TIMES": "4 ½ lengths\n1m 20.01s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Little Boy Blue (GB)\nJason Watson\nCurrent handicap mark: T:78",
+        "TRAINER/OWNER": "Bill Turner\nMrs Tracy Turner",
+        "DISTANCES/TIMES": "neck\n1m 20.06s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Gower Gold (GB)\nFergus Sweeney",
+        "TRAINER/OWNER": "John Gallagher\nMr J. Gallagher",
+        "DISTANCES/TIMES": "1½ length\n1m 20.35s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "White Feather (GB)\nJohn Fahy",
+        "TRAINER/OWNER": "Jo Hughes\nMr Joseph Smith",
+        "DISTANCES/TIMES": "4 ½ lengths\n1m 21.25s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "General Jack (IRE)\nKieran Shoemark",
+        "TRAINER/OWNER": "Eve Johnson Houghton\nElaine Chivers & Merlin Racing",
+        "DISTANCES/TIMES": "13 lengths\n1m 23.79s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Javelin (GB)\nMartin Dwyer",
+        "TRAINER/OWNER": "William Muir\nG O Leach & Mrs J M Leach",
+        "DISTANCES/TIMES": "½ length\n1m 23.9s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Ellen Gates (GB)\nShane Kelly",
+        "TRAINER/OWNER": "Richard Hughes\nPrime Suspects",
+        "DISTANCES/TIMES": "¾ length\n1m 24.06s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Ticktocks (GB)\nKieran O'Neill",
+        "TRAINER/OWNER": "Ronald Harris\nRidge House Stables Ltd",
+        "DISTANCES/TIMES": "56 lengths\n1m 35.27s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Roman River (GB)\nNon Runner",
+        "TRAINER/OWNER": "Martin Smith\nM B S Racing",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "2:20PM",
+    "NAME": "THE BETWAY CONDITIONS STAKES (CLASS 2) (PLUS 10 RACE)",
+    "DISTANCE": "5f 10y",
+    "WINNER": "Izzer (IRE)",
+    "URL": "result/#!/2018/17291/28087/0/",
+    "details": {
+      "Runners:": "7 RUNNERS",
+      "Prize Money:": "£20,000.00",
+      "Race Distance:": "5f 10y",
+      "Race Going:": "Heavy",
+      "Horse Age:": "2YO",
+      "Handicapper:": "Graeme D. Smith"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Izzer (IRE)\nFranny Norton\nBHA Performance Figure: 83",
+        "TRAINER/OWNER": "Mick Channon\nDavid Hudd, Chris Wright & Ann Black",
+        "DISTANCES/TIMES": "1m 11.13s",
+        "SP": "5/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "John Betjeman (GB)\nWilliam Carson\nBHA Performance Figure: 76\nCurrent handicap mark: T:55",
+        "TRAINER/OWNER": "Bill Turner\nMr Ronald Rivers",
+        "DISTANCES/TIMES": "1 length\n1m 11.32s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Deep Intrigue (GB)\nSilvestre De Sousa\nBHA Performance Figure: 69",
+        "TRAINER/OWNER": "Mark Johnston\nClipper Logistics",
+        "DISTANCES/TIMES": "*2½ lengths\n1m 11.93s",
+        "SP": "5/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Ynys Mon (IRE)\nCallum Shepherd\nBHA Performance Figure: 61",
+        "TRAINER/OWNER": "Charles Hills\nJulie Martin & David R. Martin & Partner",
+        "DISTANCES/TIMES": "3 lengths\n1m 12.53s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Nakakande (IRE)\nKieran O'Neill\nBHA Performance Figure: 54",
+        "TRAINER/OWNER": "J. S. Moore\nMr Kieron Badger & J S Moore",
+        "DISTANCES/TIMES": "½ length\n1m 12.65s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Arbuckle (GB)\nLiam Keniry\nBHA Performance Figure: 32",
+        "TRAINER/OWNER": "Michael Madgwick\nMrs L. N. Harmes",
+        "DISTANCES/TIMES": "11 lengths\n1m 14.94s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Wolf Hunter (IRE)\nShane Kelly\nBHA Performance Figure: 2",
+        "TRAINER/OWNER": "Richard Hughes\nMr Jaber Abdullah",
+        "DISTANCES/TIMES": "15 lengths\n1m 17.9s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Dixieland (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Richard Hannon\nMr Chris Giles & Sullivan Bloodstock Ltd",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "3:30PM",
+    "NAME": "THE LEGG FAMILY CELEBRATION CONDITIONS STAKES (CLASS 2)",
+    "DISTANCE": "5f 160y",
+    "WINNER": "Under The Covers",
+    "URL": "result/#!/2018/17291/28085/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£20,000.00",
+      "Race Distance:": "5f 160y",
+      "Race Going:": "Heavy",
+      "Horse Age:": "3YO+",
+      "Handicapper:": "Stewart Copeland"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Under The Covers (GB)\nFranny Norton\nBHA Performance Figure: 86",
+        "TRAINER/OWNER": "Ronald Harris\nRidge House Stables Ltd",
+        "DISTANCES/TIMES": "1m 20.96s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Arrogant (IRE)\nRaul Da Silva\nBHA Performance Figure: 88",
+        "TRAINER/OWNER": "Jose Santos\nJose Santos Racing Ltd",
+        "DISTANCES/TIMES": "1 length\n1m 21.18s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Quench Dolly (GB)\nFergus Sweeney\nBHA Performance Figure: 83",
+        "TRAINER/OWNER": "John Gallagher\nQuench Racing Partnership",
+        "DISTANCES/TIMES": "*neck\n1m 21.25s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Spoof (GB)\nCallum Shepherd\nBHA Performance Figure: 79\nCurrent handicap mark: T:93",
+        "TRAINER/OWNER": "Charles Hills\nGary and Linnet Woodward",
+        "DISTANCES/TIMES": "3¼ lengths\n1m 21.88s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Joegogo (IRE)\nSilvestre De Sousa\nBHA Performance Figure: 41",
+        "TRAINER/OWNER": "David Evans\nMr W. Clifford",
+        "DISTANCES/TIMES": "19 lengths\n1m 25.6s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Hyperfocus (IRE)\nLouis Steward\nBHA Performance Figure: 25\nCurrent handicap mark: T:88",
+        "TRAINER/OWNER": "Hugo Palmer\nMPH Racing - II",
+        "DISTANCES/TIMES": "8 lengths\n1m 27.11s",
+        "SP": "13/8"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Here's Two (GB)\nNon Runner",
+        "TRAINER/OWNER": "Ron Hodges\nK Corcoran, C E Weare, R J Hodges",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "5:05PM",
+    "NAME": "THE ANDERSONS HANDICAP STAKES (CLASS 4)",
+    "DISTANCE": "5f 10y",
+    "WINNER": "The Daley Express (IRE)",
+    "URL": "result/#!/2018/17291/28089/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£9,450.00",
+      "Race Distance:": "5f 10y",
+      "Race Going:": "Heavy",
+      "Horse Age:": "4YO+",
+      "Rating:": "71-85",
+      "Min Weight:": "8st 7lbs",
+      "Handicapper:": "Stewart Copeland"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "The Daley Express (IRE)\nFranny Norton\nHandicap Ran Off:83\nBHA Performance Figure: 88\nCurrent handicap mark: T:50",
+        "TRAINER/OWNER": "Ronald Harris\nThe W.H.O. Society",
+        "DISTANCES/TIMES": "1m 8.93s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Glory of Paris (IRE)\nWilliam Carson\nHandicap Ran Off:73\nBHA Performance Figure: 77",
+        "TRAINER/OWNER": "Rod Millman\nDavid Little The Links Partnership",
+        "DISTANCES/TIMES": "neck\n1m 8.99s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Major Pusey (GB)\nFergus Sweeney\nHandicap Ran Off:87\nBHA Performance Figure: 82",
+        "TRAINER/OWNER": "John Gallagher\nC. R. Marks (Banbury)",
+        "DISTANCES/TIMES": "3¾ lengths\n1m 9.74s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Belledesert (GB)\nLiam Keniry\nHandicap Ran Off:81\nBHA Performance Figure: 71",
+        "TRAINER/OWNER": "Steph Hollinshead\nK Meredith, D Hodson, The Ocean Four",
+        "DISTANCES/TIMES": "2 lengths\n1m 10.14s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Waseem Faris (IRE)\nHector Crouch\nHandicap Ran Off:77\nBHA Performance Figure: 67",
+        "TRAINER/OWNER": "Ken Cunningham-Brown\nDanebury Racing Stables",
+        "DISTANCES/TIMES": "neck\n1m 10.19s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Wahaab (IRE)\nCallum Shepherd\nHandicap Ran Off:74\nBHA Performance Figure: 32",
+        "TRAINER/OWNER": "Sophie Leech\nOut Of Bounds & Mike Harris Racing Club",
+        "DISTANCES/TIMES": "16 lengths\n1m 13.41s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Delagate This Lord (GB)\nNon Runner\nCurrent handicap mark: T:72",
+        "TRAINER/OWNER": "Michael Attwater\nMrs M. S. Teversham",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "September Issue (GB)\nNon Runner",
+        "TRAINER/OWNER": "Gay Kelleway\nShort, Moore, Buy & Kerr",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Red Alert (GB)\nNon Runner\nCurrent handicap mark: T:46",
+        "TRAINER/OWNER": "Tony Carroll\nMr A. A. Byrne",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Jashma (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Richard Hughes\nM Clarke, S Geraghty, J Jeffries",
+        "SP": "--"
+      }
+    ]
+  }
+]
