@@ -1,5 +1,33 @@
+const tf = require("@tensorflow/tfjs-node");
 const fs = require("fs");
 const path = require("path");
+
+// Define and compile the model (place this code before calling trainModel)
+const model = tf.sequential();
+model.add(
+  tf.layers.dense({
+    units: 50,
+    activation: "relu",
+    inputShape: [2],
+  })
+);
+model.add(
+  tf.layers.dense({
+    units: 30,
+    activation: "relu",
+  })
+);
+model.add(
+  tf.layers.dense({
+    units: 1,
+    activation: "sigmoid",
+  })
+);
+model.compile({
+  optimizer: "adam",
+  loss: "binaryCrossentropy",
+  metrics: ["accuracy"],
+});
 
 // Helper function to load JSON data from a file
 function loadJson(filePath) {
@@ -14,7 +42,9 @@ function convertSpToNumeric(sp) {
 }
 
 function loadAndPreprocessData(directory) {
-  const trainingData = [];
+  let inputs = [];
+  let labels = [];
+
   const fileNames = fs.readdirSync(directory);
 
   fileNames.forEach((fileName) => {
@@ -34,26 +64,52 @@ function loadAndPreprocessData(directory) {
           // Define a simple output: 1 for a win, 0 otherwise
           const output = horse.POS === "1st" ? 1 : 0;
 
-          trainingData.push({
-            input: [spNumeric, bhaPerformance],
-            output: [output],
-          });
+          inputs.push([spNumeric, bhaPerformance]);
+          labels.push([output]);
         }
       });
     });
   });
 
-  return trainingData;
+  // Convert inputs and labels to tensors
+  inputs = tf.tensor2d(inputs);
+  labels = tf.tensor2d(labels);
+
+  return { inputs, labels };
 }
 
-const historicalDataDir = path.join(__dirname, './_completed_data');
-const preprocessedData = loadAndPreprocessData(historicalDataDir);
+const historicalDataDir = path.join(__dirname, "./_completed_data");
+const { inputs, labels } = loadAndPreprocessData(historicalDataDir);
 
-function savePreprocessedData(data, filePath) {
-  const dataString = JSON.stringify(data, null, 2);
-  fs.writeFileSync(filePath, dataString);
+// Training the model (this function should be async to await the fit call)
+async function trainModel(inputs, labels) {
+  // Now include the training logic here
+  const history = await model.fit(inputs, labels, {
+    epochs: 100,
+    validationSplit: 0.2,
+    shuffle: true,
+  });
+
+  console.log("Training Complete");
+
+  // Save the model
+  const savePath = "file://" + path.join(__dirname, "my-model");
+  await model.save(savePath);
+  console.log(`Model saved to ${savePath}`);
 }
 
-// Example usage (choose an appropriate file path)
-const outputFile = path.join(__dirname, 'preprocessedData.json');
-savePreprocessedData(preprocessedData, outputFile);
+// Assuming you have your inputs and labels ready
+trainModel(inputs, labels).then(() => {
+  console.log("Model trained and saved successfully");
+});
+
+// Function to load the model (you may call this in a different file or after training)
+async function loadModel() {
+  const model = await tf.loadLayersModel(
+    "file://" + path.join(__dirname, "my-model/model.json")
+  );
+  console.log("Model loaded successfully.");
+  // Now you can use model.predict, model.evaluate, or any other method
+}
+
+// Call loadModel() as needed

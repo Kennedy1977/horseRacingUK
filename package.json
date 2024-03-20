@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@tensorflow/tfjs": "^4.17.0",
+    "@tensorflow/tfjs-node": "^4.17.0",
     "axios": "^1.6.7",
     "cheerio": "^1.0.0-rc.12",
     "node-gyp": "^10.0.1",
