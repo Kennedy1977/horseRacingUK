@@ -1,0 +1,382 @@
+[
+  {
+    "TIME": "12:55PM",
+    "NAME": "THE LEICESTER RACECOURSE IDEAL SELF-HIRE WEDDING VENUE JUVENILE MAIDEN HURDLE RACE (CLASS 4) (GBB RACE)",
+    "DISTANCE": "1m 7f 113y",
+    "WINNER": "Parliament Hill",
+    "URL": "result/#!/2021/995/49191/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£9,000.00",
+      "Race Distance:": "1m 7f 113y",
+      "Race Going:": "Good to Soft, Soft on home st",
+      "Horse Age:": "3YO",
+      "Horse Type:": "MAIDEN",
+      "Handicapper:": "Andrew Mealor"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Parliament Hill (GB)\nAidan Coleman",
+        "TRAINER/OWNER": "Olly Murphy\nMrs Diana L. Whateley",
+        "DISTANCES/TIMES": "3m 52.65s",
+        "SP": "15/8"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Krypton Gold (IRE)\nCharlie Hammond",
+        "TRAINER/OWNER": "Stuart Edmunds\nThe Danum Partnership",
+        "DISTANCES/TIMES": "5½ lengths\n3m 53.97s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Book of Secrets (IRE)\nHarry Skelton",
+        "TRAINER/OWNER": "Dan Skelton\nCraig & Laura Buckingham",
+        "DISTANCES/TIMES": "3¾ lengths\n3m 54.91s",
+        "SP": "Evens"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Trusty Scout (IRE)\nPhilip Armson\nCurrent handicap mark: H:88",
+        "TRAINER/OWNER": "David Pipe\nMrs Lynne Webb",
+        "DISTANCES/TIMES": "18 lengths\n3m 59.46s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Cuban Cigar (GB)\nTom Scudamore\nCurrent handicap mark: H:114",
+        "TRAINER/OWNER": "Richard Hannon\nMr Richard Hannon",
+        "DISTANCES/TIMES": "2¼ lengths\n4m 0.01s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Crestwood (GB)\nNick Scholfield",
+        "TRAINER/OWNER": "Joseph Parr\nTeam Lodge Racing",
+        "DISTANCES/TIMES": "11 lengths\n4m 2.87s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Outback Boy (IRE)\nRobert Dunne",
+        "TRAINER/OWNER": "Oliver Greenall\nThe Zigzaggers",
+        "DISTANCES/TIMES": "12 lengths\n4m 5.95s",
+        "SP": "80/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Agent Empire (GER)\nCharlie Deutsch",
+        "TRAINER/OWNER": "Oliver Signy\nDunkley, Gumienny, Mackenzie & Signy",
+        "SP": "80/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Sabre Jet (IRE)\nJack Quinlan",
+        "TRAINER/OWNER": "Amy Murphy\nLadas",
+        "SP": "28/1"
+      },
+      {
+        "POS": "WD",
+        "HORSE/JOCKEY": "Many Words (IRE)\nHarry Bannister\nCurrent handicap mark: H:82",
+        "TRAINER/OWNER": "Tony Carroll\nNorthway Lodge Racing",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Buxted Too (GB)\nNon Runner",
+        "TRAINER/OWNER": "Ian Williams\nBuxted Partnership",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "1:25PM",
+    "NAME": "THE VISIT leicester-racecourse.co.uk FOR TICKETS SELLING HURDLE RACE (CLASS 4)",
+    "DISTANCE": "1m 7f 113y",
+    "WINNER": "Gaia Vallis (FR)",
+    "URL": "result/#!/2021/995/3817/0/",
+    "details": {
+      "Runners:": "4 RUNNERS",
+      "Prize Money:": "£7,500.00",
+      "Race Distance:": "1m 7f 113y",
+      "Race Going:": "Good to Soft, Soft on home st",
+      "Horse Age:": "4-7YO",
+      "Handicapper:": "Andrew Mealor"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Gaia Vallis (FR)\nMitchell Bastyan\nCurrent handicap mark: H:78",
+        "TRAINER/OWNER": "David Bridgwater\nDavid Bridgwater Racing",
+        "DISTANCES/TIMES": "3m 59.75s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Colonel Lesley (IRE)\nPeter Kavanagh\nCurrent handicap mark: H:80",
+        "TRAINER/OWNER": "Barry Leavy\nPrincipal Horse Racing",
+        "DISTANCES/TIMES": "*1 length\n3m 59.96s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Jewari of Saints (IRE)\nPhilip Armson",
+        "TRAINER/OWNER": "David Pipe\nDavid Pipe Racing Club",
+        "DISTANCES/TIMES": "1¼ length\n4m 0.26s",
+        "SP": "16/5"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Robeam (IRE)\nSam Coltherd\nCurrent handicap mark: H:73",
+        "TRAINER/OWNER": "Brian Ellison\nBrian Ellison Racing Club",
+        "DISTANCES/TIMES": "Head\n4m 0.29s",
+        "SP": "13/8"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Olly's Folly (GB)\nNon Runner",
+        "TRAINER/OWNER": "Mark Gillard\nMrs Pippa Gillard",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Dolly McQueen (GB)\nNon Runner",
+        "TRAINER/OWNER": "Barry Brennan\nMrs L. Osborne",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Karakoram (GB)\nNon Runner\nCurrent handicap mark: H:81",
+        "TRAINER/OWNER": "Grace Harris\nGrace Harris Racing",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "1:55PM",
+    "NAME": "THE CHRISTMAS MEETING @leicesterraces 28TH DECEMBER BOOK NOW NOVICES' HURDLE RACE (CLASS 3) (GBB RACE)",
+    "DISTANCE": "2m 4f 110y",
+    "WINNER": "Surrey Quest (IRE)",
+    "URL": "result/#!/2021/995/3818/0/",
+    "details": {
+      "Runners:": "3 RUNNERS",
+      "Prize Money:": "£11,000.00",
+      "Race Distance:": "2m 4f 110y",
+      "Race Going:": "Good to Soft, Soft on home st",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Handicapper:": "Mark Olley"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Surrey Quest (IRE)\nJames Bowen\nCurrent handicap mark: S:133",
+        "TRAINER/OWNER": "Nicky Henderson\nSurrey Racing (SQ)",
+        "DISTANCES/TIMES": "5m 22.05s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Reilly (IRE)\nHarry Skelton",
+        "TRAINER/OWNER": "Dan Skelton\nMr John J Reilly",
+        "DISTANCES/TIMES": "*2¼ lengths\n5m 22.52s",
+        "SP": "4/11"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Pitch It Up (GB)\nTom Bellamy",
+        "TRAINER/OWNER": "Emma Lavelle\nMrs Sarah Metcalfe",
+        "DISTANCES/TIMES": "14 lengths\n5m 26.13s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Marble Sands (FR)\nNon Runner\nCurrent handicap mark: S:147",
+        "TRAINER/OWNER": "Fergal O'Brien\nDL Adams, JA Adams & G McPherson",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "2:30PM",
+    "NAME": "THE LEICESTERSHIRE NOVICES' HANDICAP HURDLE RACE (CLASS 5)",
+    "DISTANCE": "1m 7f 113y",
+    "WINNER": "Ace Time",
+    "URL": "result/#!/2021/995/58845/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£5,779.00",
+      "Race Distance:": "1m 7f 113y",
+      "Race Going:": "Good to Soft, Soft on home st",
+      "Horse Age:": "3YO+",
+      "Horse Type:": "NOVICE",
+      "Rating:": "0-100",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Andrew Mealor"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Ace Time (GB)\nBen Godfrey\nHandicap Ran Off:74\nBHA Performance Figure: 85\nCurrent handicap mark: S:68 H:68",
+        "TRAINER/OWNER": "J. R. Jenkins\nMr B. Dowling",
+        "DISTANCES/TIMES": "3m 54.86s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Presuming Ed (IRE)\nLee Edwards\nHandicap Ran Off:101\nBHA Performance Figure: 105",
+        "TRAINER/OWNER": "Adam West\nAll Seasons Racing",
+        "DISTANCES/TIMES": "7½ lengths\n3m 56.73s",
+        "SP": "7/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Lonimoss Bareliere (FR)\nHarry Skelton\nHandicap Ran Off:95\nBHA Performance Figure: 87\nCurrent handicap mark: S:67",
+        "TRAINER/OWNER": "Dan Skelton\nMr Nick Skelton",
+        "DISTANCES/TIMES": "9½ lengths\n3m 59.14s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Fast Deal (GB)\nAlison Clarke\nHandicap Ran Off:74\nBHA Performance Figure: 57\nCurrent handicap mark: S:64 H:64",
+        "TRAINER/OWNER": "Michael Chapman\nMr G. Nolan",
+        "DISTANCES/TIMES": "8½ lengths\n4m 1.24s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Baliyad (IRE)\nStan Sheppard\nHandicap Ran Off:91\nBHA Performance Figure: 73",
+        "TRAINER/OWNER": "Matt Sheppard\nVeronica Silber and Marcus Jordan",
+        "DISTANCES/TIMES": "*½ length\n4m 1.4s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Joint Account (IRE)\nBen Poste\nHandicap Ran Off:74\nBHA Performance Figure: 56",
+        "TRAINER/OWNER": "Derek Frankland\nD. S. Frankland & D. J. Trott",
+        "DISTANCES/TIMES": "Neck\n4m 1.45s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Taqwaa (IRE)\nAdam Wedge\nHandicap Ran Off:88\nBHA Performance Figure: 69",
+        "TRAINER/OWNER": "L J Morgan\nMr Robert Jenkinson",
+        "DISTANCES/TIMES": "½ length\n4m 1.54s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Bold Red (GB)\nMitchell Bastyan\nHandicap Ran Off:75\nBHA Performance Figure: 33",
+        "TRAINER/OWNER": "David Bridgwater\nMrs Anne Lee-Warner",
+        "DISTANCES/TIMES": "23 lengths\n4m 7.37s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "On The Rise (IRE)\nJames Best\nHandicap Ran Off:92\nBHA Performance Figure: 33",
+        "TRAINER/OWNER": "Max Young\nMax Young Racing Club",
+        "DISTANCES/TIMES": "17 lengths\n4m 11.72s",
+        "SP": "11/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:00PM",
+    "NAME": "THE NELSON PANORAMIC RESTAURANT FOR DINING @leicesterraces HANDICAP HURDLE RACE (CLASS 4)",
+    "DISTANCE": "1m 7f 113y",
+    "WINNER": "Made For You",
+    "URL": "result/#!/2021/995/3815/0/",
+    "details": {
+      "Runners:": "7 RUNNERS",
+      "Prize Money:": "£7,500.00",
+      "Race Distance:": "1m 7f 113y",
+      "Race Going:": "Good to Soft, Soft on home st",
+      "Horse Age:": "3YO+",
+      "Rating:": "0-120",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Andrew Mealor"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Made For You (GB)\nDaire Davis\nHandicap Ran Off:113\nBHA Performance Figure: 111\nCurrent handicap mark: H:114",
+        "TRAINER/OWNER": "Olly Murphy\nMr Aiden Murphy",
+        "DISTANCES/TIMES": "4m 11.1s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Tinnahalla (IRE)\nLewis Stones\nHandicap Ran Off:120\nBHA Performance Figure: 116",
+        "TRAINER/OWNER": "Olly Murphy\nMrs J. A. Wakefield",
+        "DISTANCES/TIMES": "½ length\n4m 11.22s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Begin The Luck (IRE)\nRobert Dunne\nHandicap Ran Off:105\nBHA Performance Figure: 100\nCurrent handicap mark: S:107",
+        "TRAINER/OWNER": "Caroline Bailey\nVaughan-Jones, Bailey & Mellor",
+        "DISTANCES/TIMES": "*¾ length\n4m 11.37s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "The Dancing Poet (GB)\nSam Coltherd\nHandicap Ran Off:117\nBHA Performance Figure: 111",
+        "TRAINER/OWNER": "Brian Ellison\nSPRING COTTAGE SYNDICATE",
+        "DISTANCES/TIMES": "1¼ length\n4m 11.65s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Prairie Town (IRE)\nLee Edwards\nHandicap Ran Off:105\nBHA Performance Figure: 92",
+        "TRAINER/OWNER": "Tony Carroll\nCooke & Millen",
+        "DISTANCES/TIMES": "7 lengths\n4m 13.34s",
+        "SP": "22/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "One For Billy (GB)\nTristan Durrell\nHandicap Ran Off:118\nBHA Performance Figure: 104",
+        "TRAINER/OWNER": "Dan Skelton\nMr D. W. Fox",
+        "DISTANCES/TIMES": "*¾ length\n4m 13.49s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Floki (GB)\nHarry Skelton\nHandicap Ran Off:117\nBHA Performance Figure: 85",
+        "TRAINER/OWNER": "Dan Skelton\nDerek Coles & Langley's",
+        "DISTANCES/TIMES": "18 lengths\n4m 17.9s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Al Kherb (GB)\nNon Runner",
+        "TRAINER/OWNER": "Sarah Bowen\nMrs S. Bowen",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Inn The Bull (GER)\nNon Runner",
+        "TRAINER/OWNER": "Alastair Ralph\nLoose Cannon Racing",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Fanfan du Seuil (FR)\nNon Runner\nCurrent handicap mark: S:104",
+        "TRAINER/OWNER": "Tom George\nCrossed Fingers Partnership",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Seaborough (IRE)\nNon Runner\nCurrent handicap mark: H:81",
+        "TRAINER/OWNER": "Derek Shaw\nMr Jordan Souster",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Sid Hoodie (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Alex Hales\nMr Dominic Christian",
+        "SP": "--"
+      }
+    ]
+  }
+]

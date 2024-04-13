@@ -1,0 +1,525 @@
+[
+  {
+    "TIME": "2:20PM",
+    "NAME": "THE bet365 EMPRESS STAKES (CLASS 1) (Listed Race)",
+    "DISTANCE": "6f",
+    "WINNER": "Fig Roll (GB)",
+    "URL": "result/#!/2013/1228/5267/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£26,000.00",
+      "Race Distance:": "6f",
+      "Race Going:": "Good",
+      "Horse Age:": "2YO",
+      "Horse Sex:": "FILLIES & MARES"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Fig Roll (GB)\nRichard Hughes",
+        "TRAINER/OWNER": "Richard Hannon\nMr Des Anderson",
+        "DISTANCES/TIMES": "1m 11.62s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Ventura Mist (GB)\nDuran Fentiman",
+        "TRAINER/OWNER": "Tim Easterby\nMiddleham Park Racing XXIV",
+        "DISTANCES/TIMES": "1m 11.74s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Love In The Desert (GB)\nPat Cosgrave",
+        "TRAINER/OWNER": "Noel Quinlan\nMr Ibrahim Rachid",
+        "DISTANCES/TIMES": "1m 11.76s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Disko (IRE)\nJames McDonald",
+        "TRAINER/OWNER": "Daniel Kubler\nDiskovery Partnership",
+        "DISTANCES/TIMES": "1m 11.78s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Majeyda (USA)\nMickael Barzalona",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "DISTANCES/TIMES": "1m 11.8s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Rough Courte (IRE)\nFrederik Tylicki",
+        "TRAINER/OWNER": "Mick Channon\nMr Billy Parish",
+        "DISTANCES/TIMES": "1m 12.06s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Lady Chantilly (IRE)\nCathy Gannon",
+        "TRAINER/OWNER": "Jo Hughes\nD Mossop, J Henderson, P Hanly",
+        "DISTANCES/TIMES": "1m 12.21s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Hoku (IRE)\nJamie Spencer",
+        "TRAINER/OWNER": "Olly Stevens\nSheikh Suhaim Al Thani",
+        "DISTANCES/TIMES": "1m 12.3s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Sunny Harbor (IRE)\nRyan Moore",
+        "TRAINER/OWNER": "David O'Meara\nMr C Maxsted & Miss S Iggulden",
+        "DISTANCES/TIMES": "1m 13.36s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Lady Lydia (IRE)\nFrankie Dettori",
+        "TRAINER/OWNER": "Michael Wigham\nMr V. Smith",
+        "DISTANCES/TIMES": "1m 13.41s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Sweet Alibi (IRE)\nLiam Jones",
+        "TRAINER/OWNER": "J. S. Moore\nMr G V March & J S Moore",
+        "DISTANCES/TIMES": "1m 13.58s",
+        "SP": "100/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:55PM",
+    "NAME": "THE bet365.com FRED ARCHER STAKES (CLASS 1) (Listed Race)",
+    "DISTANCE": "1m 4f",
+    "WINNER": "Lost In The Moment (IRE)",
+    "URL": "result/#!/2013/1228/5266/0/",
+    "details": {
+      "Runners:": "4 RUNNERS",
+      "Prize Money:": "£37,000.00",
+      "Race Distance:": "1m 4f",
+      "Race Going:": "Good",
+      "Horse Age:": "4YO+"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Lost In The Moment (IRE)\nMickael Barzalona",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "DISTANCES/TIMES": "2m 28.93s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "I'm Your Man (FR)\nAntoine Hamelin",
+        "TRAINER/OWNER": "A. de Royer Dupre\nSalinity Stables",
+        "DISTANCES/TIMES": "2m 28.95s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Harris Tweed (GB)\nRichard Hughes",
+        "TRAINER/OWNER": "William Haggas\nMr B. Haggas",
+        "DISTANCES/TIMES": "2m 29.44s",
+        "SP": "11/8"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Cameron Highland (IRE)\nFrankie Dettori",
+        "TRAINER/OWNER": "Roger Varian\nH.R.H. Sultan Ahmad Shah",
+        "DISTANCES/TIMES": "2m 29.48s",
+        "SP": "7/2"
+      }
+    ]
+  },
+  {
+    "TIME": "3:30PM",
+    "NAME": "THE bet365 CRITERION STAKES (CLASS 1) (Group 3)",
+    "DISTANCE": "7f",
+    "WINNER": "Producer (GB)",
+    "URL": "result/#!/2013/1228/5265/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£60,000.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Good",
+      "Horse Age:": "3YO+"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Producer (GB)\nRichard Hughes",
+        "TRAINER/OWNER": "Richard Hannon\nMr J. Palmer-Brown",
+        "DISTANCES/TIMES": "1m 23.09s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Red Jazz (USA)\nJames McDonald",
+        "TRAINER/OWNER": "Charles Hills\nThe Hon R J Arculli",
+        "DISTANCES/TIMES": "1m 23.23s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Pastoral Player (GB)\nGeorge Baker",
+        "TRAINER/OWNER": "Hughie Morrison\nThe Pursuits Partnership",
+        "DISTANCES/TIMES": "1m 23.44s",
+        "SP": "10/3"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Ultrasonic (USA)\nRyan Moore",
+        "TRAINER/OWNER": "Sir Michael Stoute\nMr K. Abdullah",
+        "DISTANCES/TIMES": "1m 23.6s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Hawkeyethenoo (IRE)\nJamie Spencer",
+        "TRAINER/OWNER": "Jim Goldie\nJohnnie Delta Racing",
+        "DISTANCES/TIMES": "1m 23.72s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Instance (GB)\nFrankie Dettori",
+        "TRAINER/OWNER": "Jeremy Noseda\nThe Hon William Vestey",
+        "DISTANCES/TIMES": "1m 23.9s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Libranno (GB)\nPat Cosgrave",
+        "TRAINER/OWNER": "Richard Hannon\nMcDowell Racing",
+        "DISTANCES/TIMES": "1m 24s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "The Taj (USA)\nDane O'Neill",
+        "TRAINER/OWNER": "Richard Hannon\nMr Hamdan Al Maktoum",
+        "DISTANCES/TIMES": "1m 24.55s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Cocozza (USA)\nSaleem Golam",
+        "TRAINER/OWNER": "K. F. Clutterbuck\nJohn Turner Charlie Pigram",
+        "DISTANCES/TIMES": "1m 27.09s",
+        "SP": "100/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:05PM",
+    "NAME": "THE CASINO AT bet365 HANDICAP STAKES (CLASS 2)",
+    "DISTANCE": "1m 2f",
+    "WINNER": "Nabucco (GB)",
+    "URL": "result/#!/2013/1228/5268/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£20,000.00",
+      "Race Distance:": "1m 2f",
+      "Race Going:": "Good",
+      "Horse Age:": "3YO+",
+      "Rating:": "81-100",
+      "Min Weight:": "8st 9lbs",
+      "Weights Raised:": "-2lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Nabucco (GB)\nRyan Moore",
+        "TRAINER/OWNER": "John Gosden\nH. R. H. Princess Haya of Jordan",
+        "DISTANCES/TIMES": "2m 3.89s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Strictly Silver (IRE)\nRobert Tart",
+        "TRAINER/OWNER": "Alan Bailey\nA. J. H.",
+        "DISTANCES/TIMES": "2m 4.07s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Awake My Soul (IRE)\nPat Cosgrave",
+        "TRAINER/OWNER": "David O'Meara\nMr K. Nicholson",
+        "DISTANCES/TIMES": "2m 4.09s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Viewpoint (IRE)\nRichard Hughes",
+        "TRAINER/OWNER": "Richard Hannon\nThe Heffer Syndicate",
+        "DISTANCES/TIMES": "2m 4.37s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Come On Blue Chip (IRE)\nFrederik Tylicki",
+        "TRAINER/OWNER": "Paul D'Arcy\nBlue Chip Feed Ltd",
+        "DISTANCES/TIMES": "2m 4.42s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Proud Chieftain (GB)\nJamie Spencer",
+        "TRAINER/OWNER": "Clifford Lines\nPrima Racing Partnership",
+        "DISTANCES/TIMES": "2m 4.5s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Spifer (IRE)\nDane O'Neill",
+        "TRAINER/OWNER": "Marco Botti\nOp Center One",
+        "DISTANCES/TIMES": "2m 4.59s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Beaufort Twelve (GB)\nFrankie Dettori",
+        "TRAINER/OWNER": "William Jarvis\nTony Foster & John Kelsey-Fry",
+        "DISTANCES/TIMES": "2m 4.73s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Forgotten Hero (IRE)\nJames McDonald",
+        "TRAINER/OWNER": "Charles Hills\nMrs Julie Martin and David R. Martin",
+        "DISTANCES/TIMES": "2m 4.86s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Cry Fury (GB)\nGeorge Baker",
+        "TRAINER/OWNER": "Roger Charlton\nMr K. Abdullah",
+        "DISTANCES/TIMES": "2m 5.02s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Resurge (IRE)\nMickael Barzalona",
+        "TRAINER/OWNER": "Stuart Kittow\nChris & David Stam",
+        "DISTANCES/TIMES": "2m 5.74s",
+        "SP": "16/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:35PM",
+    "NAME": "THE bet365.com MAIDEN STAKES (CLASS 4)",
+    "DISTANCE": "7f",
+    "WINNER": "Kingman (GB)",
+    "URL": "result/#!/2013/1228/5270/0/",
+    "details": {
+      "Runners:": "10 RUNNERS",
+      "Prize Money:": "£6,000.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Good",
+      "Horse Age:": "2YO",
+      "Horse Type:": "MAIDEN"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Kingman (GB)\nRyan Moore",
+        "TRAINER/OWNER": "John Gosden\nMr K. Abdullah",
+        "DISTANCES/TIMES": "1m 24.3s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Adhwaa (GB)\nFrankie Dettori",
+        "TRAINER/OWNER": "J. W. Hills\nMr Hamdan Al Maktoum",
+        "DISTANCES/TIMES": "1m 25.34s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sea The Skies (GB)\nFrederik Tylicki",
+        "TRAINER/OWNER": "Gerard Butler\nMr A. D. Spence",
+        "DISTANCES/TIMES": "1m 26.17s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Citizen Kaine (IRE)\nCathy Gannon",
+        "TRAINER/OWNER": "Jo Hughes\nChester Racing, J Henderson, I Phillips",
+        "DISTANCES/TIMES": "1m 26.45s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Shepherd Gate (USA)\nLiam Jones",
+        "TRAINER/OWNER": "J. S. Moore\nMr P Twomey & J S Moore",
+        "DISTANCES/TIMES": "1m 26.64s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Mutawathea (GB)\nDane O'Neill",
+        "TRAINER/OWNER": "Richard Hannon\nMr Hamdan Al Maktoum",
+        "DISTANCES/TIMES": "1m 26.75s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Man Amongst Men (IRE)\nJamie Spencer",
+        "TRAINER/OWNER": "Brian Meehan\nQatar Racing Limited",
+        "DISTANCES/TIMES": "1m 27.33s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Squire (GB)\nMickael Barzalona",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "DISTANCES/TIMES": "1m 27.81s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Jeremos (IRE)\nRichard Hughes",
+        "TRAINER/OWNER": "Richard Hannon\nMr Gerald Moss",
+        "DISTANCES/TIMES": "1m 28.18s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Motamayezah (GB)\nPat Cosgrave",
+        "TRAINER/OWNER": "Ismail Mohammed\nSheikh Juma Dalmook Al Maktoum",
+        "DISTANCES/TIMES": "1m 29.7s",
+        "SP": "50/1"
+      }
+    ]
+  },
+  {
+    "TIME": "5:05PM",
+    "NAME": "THE bet365 FILLIES' HANDICAP STAKES (CLASS 3)",
+    "DISTANCE": "1m 4f",
+    "WINNER": "Alta Lilea (IRE)",
+    "URL": "result/#!/2013/1228/24851/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£13,000.00",
+      "Race Distance:": "1m 4f",
+      "Race Going:": "Good",
+      "Horse Age:": "3YO+",
+      "Horse Sex:": "FILLIES & MARES",
+      "Rating:": "76-95",
+      "Min Weight:": "8st 9lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Alta Lilea (IRE)\nLiam Jones",
+        "TRAINER/OWNER": "Mark Johnston\nMrs S Bianco & Ms J Bianco",
+        "DISTANCES/TIMES": "2m 29.96s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Pompeia (GB)\nCathy Gannon",
+        "TRAINER/OWNER": "Ralph Beckett\nMr J. L. Rowsell",
+        "DISTANCES/TIMES": "2m 30.67s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Heading North (GB)\nRichard Hughes",
+        "TRAINER/OWNER": "Richard Hannon\nMr P. T. Tellwright",
+        "DISTANCES/TIMES": "2m 31.23s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Princess Caetani (IRE)\nJamie Spencer",
+        "TRAINER/OWNER": "David Simcock\nFavourites Racing (Syndication) Ltd",
+        "DISTANCES/TIMES": "2m 31.41s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Mama Quilla (USA)\nRyan Moore",
+        "TRAINER/OWNER": "William Haggas\nMr & Mrs G. Middlebrook",
+        "DISTANCES/TIMES": "2m 31.42s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Abilene (GB)\nKirsty Milczarek",
+        "TRAINER/OWNER": "Luca Cumani\nWildenstein Stables Limited",
+        "DISTANCES/TIMES": "2m 31.5s",
+        "SP": "7/2"
+      }
+    ]
+  },
+  {
+    "TIME": "5:35PM",
+    "NAME": "THE POKER AT bet365 E.B.F. FILLIES' HANDICAP STAKES (CLASS 3)",
+    "DISTANCE": "1m",
+    "WINNER": "Great Timing (USA)",
+    "URL": "result/#!/2013/1228/5264/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£13,000.00",
+      "Race Distance:": "1m",
+      "Race Going:": "Good",
+      "Horse Age:": "3YO+",
+      "Horse Sex:": "FILLIES & MARES",
+      "Rating:": "76-95",
+      "Min Weight:": "8st 9lbs",
+      "Weights Raised:": "2lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Great Timing (USA)\nRyan Moore",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "DISTANCES/TIMES": "1m 38.5s",
+        "SP": "11/10"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Forgive (GB)\nLiam Jones",
+        "TRAINER/OWNER": "Richard Hannon\nHighclere Thoroughbred Racing -Spearmint",
+        "DISTANCES/TIMES": "1m 38.77s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Ghanaian (FR)\nMickael Barzalona",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "DISTANCES/TIMES": "1m 38.8s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Sharqawiyah (GB)\nKirsty Milczarek",
+        "TRAINER/OWNER": "Luca Cumani\nSheikh Mohammed Obaid Al Maktoum",
+        "DISTANCES/TIMES": "1m 39.17s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Majestic Oasis (GB)\nJamie Spencer",
+        "TRAINER/OWNER": "Robert Cowell\nSheikh Fahad Al Thani",
+        "DISTANCES/TIMES": "1m 41.6s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Tosca (GER)\nFrankie Dettori",
+        "TRAINER/OWNER": "Mrs Ilka Gansera-Leveque\nMrs I. Gansera-Leveque",
+        "DISTANCES/TIMES": "1m 42.08s",
+        "SP": "16/1"
+      }
+    ]
+  }
+]

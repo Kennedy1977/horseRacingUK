@@ -1,0 +1,499 @@
+[
+  {
+    "TIME": "1:25PM",
+    "NAME": "THE BetBright FESTIVAL BETTING NOVICES' HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 3f 110y",
+    "WINNER": "Cardinal Walter (IRE)",
+    "URL": "result/#!/2015/710/2129/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£5,000.00",
+      "Race Distance:": "2m 3f 110y",
+      "Race Going:": "Good",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Cardinal Walter (IRE)\nAndrew Tinkler",
+        "TRAINER/OWNER": "Nicky Henderson\nMrs Fitri Hay",
+        "DISTANCES/TIMES": "4m 35.7s",
+        "SP": "1/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Tinos Tank (IRE)\nMr S. Drinkwater",
+        "TRAINER/OWNER": "Hilary Parrott\nMr T. J. Parrott",
+        "DISTANCES/TIMES": "4m 38.65s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Royalraise (IRE)\nThomas Garner",
+        "TRAINER/OWNER": "Oliver Sherwood\nIan Barratt, Stephen Short & Adam Signy",
+        "DISTANCES/TIMES": "4m 41.13s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Luccombe Down (GB)\nJames Cowley",
+        "TRAINER/OWNER": "Donald McCain\nPaul & Clare Rooney",
+        "DISTANCES/TIMES": "4m 41.19s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Copperfacejack (IRE)\nCharlie Poste",
+        "TRAINER/OWNER": "Paul Webber\nMr R. W. Barnett",
+        "DISTANCES/TIMES": "4m 44.05s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Midnight Monty (GB)\nJames Reveley",
+        "TRAINER/OWNER": "Keith Reveley\nMr & Mrs W. J. Williams",
+        "DISTANCES/TIMES": "4m 45.76s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Kinari (IRE)\nDonal Devereux",
+        "TRAINER/OWNER": "Peter Bowen\nMr John Andrews",
+        "DISTANCES/TIMES": "4m 49.77s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Heated Debate (IRE)\nDavy Russell",
+        "TRAINER/OWNER": "Charlie Longsdon\nThe Jesters",
+        "DISTANCES/TIMES": "4m 56.84s",
+        "SP": "11/2"
+      }
+    ]
+  },
+  {
+    "TIME": "2:00PM",
+    "NAME": "THE BetBright RISK FREE BET HANDICAP STEEPLE CHASE (CLASS 2)",
+    "DISTANCE": "2m 110y",
+    "WINNER": "Dresden (IRE)",
+    "URL": "result/#!/2015/710/2125/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£25,000.00",
+      "Race Distance:": "2m 110y",
+      "Race Going:": "Good",
+      "Horse Age:": "5YO+",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Kings Grey (IRE)\nTom Scudamore\nHandicap Ran Off:132\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "John Wade\nMr John Wade",
+        "SP": "4/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Dresden (IRE)\nJames Davies\nHandicap Ran Off:130\nBHA Performance Figure: 137",
+        "TRAINER/OWNER": "Henry Oliver\nMr Dan Lloyd",
+        "DISTANCES/TIMES": "3m 54.3s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Ifandbutwhynot (IRE)\nDavy Russell\nHandicap Ran Off:137\nBHA Performance Figure: 137",
+        "TRAINER/OWNER": "David O'Meara\nClaire Hollowood & Henry Dean",
+        "DISTANCES/TIMES": "3m 55.27s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Robbie (GB)\nJames Reveley\nHandicap Ran Off:144\nBHA Performance Figure: 144",
+        "TRAINER/OWNER": "Keith Reveley\nMrs Susan McDonald",
+        "DISTANCES/TIMES": "3m 55.38s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Quicuyo (GER)\nDale Irving\nHandicap Ran Off:119\nBHA Performance Figure: 82",
+        "TRAINER/OWNER": "James Ewart\nD Coppola J Ewart",
+        "DISTANCES/TIMES": "4m 3.02s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Indian Voyage (IRE)\nDaragh Bourke\nHandicap Ran Off:128\nBHA Performance Figure: 63",
+        "TRAINER/OWNER": "Maurice Barnes\nMr D Carr & Mr M Carlyle",
+        "DISTANCES/TIMES": "4m 8.39s",
+        "SP": "8/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:35PM",
+    "NAME": "THE BetBright CHELTENHAM FESTIVAL FUND MARES' NOVICES' HURDLE RACE (CLASS 1) (Listed Race)",
+    "DISTANCE": "3m 110y",
+    "WINNER": "Balmusette",
+    "URL": "result/#!/2015/710/24621/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£20,000.00",
+      "Race Distance:": "3m 110y",
+      "Race Going:": "Good",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Horse Sex:": "FILLIES & MARES"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Balmusette (GB)\nJames Reveley",
+        "TRAINER/OWNER": "Keith Reveley\nMr & Mrs W. J. Williams",
+        "DISTANCES/TIMES": "5m 50.2s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "A Doll In Milan (IRE)\nA. P. McCoy",
+        "TRAINER/OWNER": "Nigel Twiston-Davies\nMr Simon Munir & Mr Isaac Souede",
+        "DISTANCES/TIMES": "5m 52.28s",
+        "SP": "10/3"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Princess Tara (IRE)\nDonal Devereux",
+        "TRAINER/OWNER": "Peter Bowen\nDavid Perkins & Kate Perkins",
+        "DISTANCES/TIMES": "5m 53.81s",
+        "SP": "15/8"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Golan Road (IRE)\nDavy Russell",
+        "TRAINER/OWNER": "Michael. C. Griffin (Ireland)\nMr S. P. Neville",
+        "DISTANCES/TIMES": "5m 59.63s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Maypole Lass (GB)\nRichie McLernon",
+        "TRAINER/OWNER": "Stuart Edmunds\nMr Ben Turner",
+        "DISTANCES/TIMES": "5m 59.94s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Degenerous (IRE)\nPeter Carberry",
+        "TRAINER/OWNER": "Mrs Sarah Dawson (Ireland)\nDr J. F. Dawson",
+        "DISTANCES/TIMES": "5m 59.96s",
+        "SP": "50/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:10PM",
+    "NAME": "THE BetBright MOBILE APP HANDICAP HURDLE RACE (CLASS 2)",
+    "DISTANCE": "3m 110y",
+    "WINNER": "Call The Cops (IRE)",
+    "URL": "result/#!/2015/710/2127/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£15,000.00",
+      "Race Distance:": "3m 110y",
+      "Race Going:": "Good",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-145",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "6lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Call The Cops (IRE)\nAndrew Tinkler\nHandicap Ran Off:133\nBHA Performance Figure: 145",
+        "TRAINER/OWNER": "Nicky Henderson\nMatt & Lauren Morgan",
+        "DISTANCES/TIMES": "5m 52.2s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Waltz Darling (IRE)\nJames Reveley\nHandicap Ran Off:122\nBHA Performance Figure: 123",
+        "TRAINER/OWNER": "Keith Reveley\nMrs M B Thwaites & Mr M E Foxton",
+        "DISTANCES/TIMES": "5m 53.2s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Al Co (FR)\nSean Bowen\nHandicap Ran Off:135\nBHA Performance Figure: 124",
+        "TRAINER/OWNER": "Peter Bowen\nMr F. Lloyd",
+        "DISTANCES/TIMES": "5m 55.94s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Kelvingrove (IRE)\nA. P. McCoy\nHandicap Ran Off:130\nBHA Performance Figure: 118",
+        "TRAINER/OWNER": "Jonjo O'Neill\nThe All In Syndicate",
+        "DISTANCES/TIMES": "5m 56.27s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Seldom Inn (GB)\nDougie Costello\nHandicap Ran Off:130\nBHA Performance Figure: 113",
+        "TRAINER/OWNER": "Sandy Thomson\nMr Bill A. Walker",
+        "DISTANCES/TIMES": "5m 57.22s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Batavir (FR)\nTom Scudamore\nHandicap Ran Off:132\nBHA Performance Figure: 106",
+        "TRAINER/OWNER": "David Pipe\nThe Angove Family",
+        "DISTANCES/TIMES": "5m 59.5s",
+        "SP": "6/4"
+      }
+    ]
+  },
+  {
+    "TIME": "3:45PM",
+    "NAME": "THE BetBright GRIMTHORPE CHASE (A HANDICAP STEEPLE CHASE) (CLASS 2)",
+    "DISTANCE": "3m 2f",
+    "WINNER": "Wayward Prince",
+    "URL": "result/#!/2015/710/2124/0/",
+    "details": {
+      "Runners:": "12 RUNNERS",
+      "Prize Money:": "£50,000.00",
+      "Race Distance:": "3m 2f",
+      "Race Going:": "Good",
+      "Horse Age:": "5YO+",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "William Money (IRE)\nPeter Carberry\nHandicap Ran Off:122\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Chris Grant\nD&D Armstrong Ltd",
+        "SP": "33/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Farbreaga (IRE)\nJeremiah McGrath\nHandicap Ran Off:129\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Jamie Poulton\nMiss V. Markowiak",
+        "SP": "16/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Aachen (GB)\nLiam Treadwell\nHandicap Ran Off:126\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Venetia Williams\nMr Tony Bloom",
+        "SP": "14/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Streams of Whiskey (IRE)\nTom Scudamore\nHandicap Ran Off:130\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Nicky Richards\nMr & Mrs R. Kelvin-Hughes",
+        "SP": "9/2"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Wayward Prince (GB)\nRobert Dunne\nHandicap Ran Off:126\nBHA Performance Figure: 137",
+        "TRAINER/OWNER": "Hilary Parrott\nMr T. J. & Mrs H. Parrott",
+        "DISTANCES/TIMES": "6m 23.2s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Drop Out Joe (GB)\nDavy Russell\nHandicap Ran Off:132\nBHA Performance Figure: 134",
+        "TRAINER/OWNER": "Charlie Longsdon\nThe Jesters",
+        "DISTANCES/TIMES": "6m 24.56s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Night In Milan (IRE)\nJames Reveley\nHandicap Ran Off:146\nBHA Performance Figure: 144",
+        "TRAINER/OWNER": "Keith Reveley\nMr Richard Collins",
+        "DISTANCES/TIMES": "6m 25.34s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Theatre Queen (IRE)\nMr M. Wall\nHandicap Ran Off:129\nBHA Performance Figure: 121",
+        "TRAINER/OWNER": "Mark Wall\nDatrack",
+        "DISTANCES/TIMES": "6m 26.8s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Mon Parrain (FR)\nSean Bowen\nHandicap Ran Off:148\nBHA Performance Figure: 131",
+        "TRAINER/OWNER": "Paul Nicholls\nMr and Mrs J. D. Cotton",
+        "DISTANCES/TIMES": "6m 28.46s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Samingarry (FR)\nDave Crosse\nHandicap Ran Off:134\nBHA Performance Figure: 110",
+        "TRAINER/OWNER": "Nigel Hawke\nMr D. R. Mead",
+        "DISTANCES/TIMES": "6m 29.87s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Super Duty (IRE)\nWilliam Kennedy\nHandicap Ran Off:141\nBHA Performance Figure: 110",
+        "TRAINER/OWNER": "Ian Williams\nBrannon, Dick, Hernon & Holden",
+        "DISTANCES/TIMES": "6m 31.31s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Caulfields Venture (IRE)\nRichie McLernon\nHandicap Ran Off:127\nBHA Performance Figure: 51",
+        "TRAINER/OWNER": "Emma Lavelle\nMr C. F. Colquhoun",
+        "DISTANCES/TIMES": "6m 40.54s",
+        "SP": "20/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:20PM",
+    "NAME": "THE SAINT GOBAIN WEBER HANDICAP STEEPLE CHASE (CLASS 3)",
+    "DISTANCE": "2m 3f",
+    "WINNER": "Bobcatbilly (IRE)",
+    "URL": "result/#!/2015/710/31983/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "2m 3f",
+      "Race Going:": "Good",
+      "Horse Age:": "5YO+",
+      "Rating:": "0-140",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "5lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Bobcatbilly (IRE)\nRob McCarth\nHandicap Ran Off:133\nBHA Performance Figure: 137",
+        "TRAINER/OWNER": "Ian Williams\nMr P. J. Vogt",
+        "DISTANCES/TIMES": "4m 41.1s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Wings of Smoke (IRE)\nAlan Johns\nHandicap Ran Off:132\nBHA Performance Figure: 134",
+        "TRAINER/OWNER": "Tim Vaughan\nPearn's Pharmacies Ltd",
+        "DISTANCES/TIMES": "4m 41.36s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Shadrack (IRE)\nJames Reveley\nHandicap Ran Off:133\nBHA Performance Figure: 133",
+        "TRAINER/OWNER": "Keith Reveley\nMrs Susan Granger",
+        "DISTANCES/TIMES": "4m 41.81s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Benefit Cut (IRE)\nA. P. McCoy\nHandicap Ran Off:135\nBHA Performance Figure: 125",
+        "TRAINER/OWNER": "Stuart Edmunds\nAsphalt R S Ltd & Terence Jenner",
+        "DISTANCES/TIMES": "4m 43.8s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Distime (IRE)\nDougie Costello\nHandicap Ran Off:127\nBHA Performance Figure: 73",
+        "TRAINER/OWNER": "John Quinn\nMiddleham Park Racing & Cosyseal Racing",
+        "DISTANCES/TIMES": "4m 52.62s",
+        "SP": "5/2"
+      }
+    ]
+  },
+  {
+    "TIME": "4:50PM",
+    "NAME": "THE BetBright CASINO STANDARD NATIONAL HUNT FLAT RACE (CLASS 6) (Conditional Jockeys' and Amateur Riders' Race)",
+    "DISTANCE": "2m 110y",
+    "WINNER": "Score Card (IRE)",
+    "URL": "result/#!/2015/710/24611/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£2,400.00",
+      "Race Distance:": "2m 110y",
+      "Race Going:": "Good",
+      "Horse Age:": "4-6YO",
+      "Rider Type:": "AMATEUR"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Score Card (IRE)\nKieron Edgar",
+        "TRAINER/OWNER": "Henry Daly\nMrs D. J. Ralph",
+        "DISTANCES/TIMES": "3m 53.6s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "The Last Cavalier (IRE)\nHarry Bannister",
+        "TRAINER/OWNER": "Mick Channon\nMrs T. P. Radford",
+        "DISTANCES/TIMES": "3m 53.66s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Oh Land Abloom (IRE)\nTrevor Whelan",
+        "TRAINER/OWNER": "Neil King\nReefer Distribution Services Ltd",
+        "DISTANCES/TIMES": "3m 54.02s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Lawless Island (IRE)\nAlan Johns",
+        "TRAINER/OWNER": "Tim Vaughan\nPearn's Pharmacies Ltd",
+        "DISTANCES/TIMES": "3m 55.58s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Leading Score (IRE)\nDale Irving",
+        "TRAINER/OWNER": "James Ewart\nDrew, Palmer, Carruthers & Sperling",
+        "DISTANCES/TIMES": "3m 57.71s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Mr K (IRE)\nTom Bellamy",
+        "TRAINER/OWNER": "Paul Webber\nMr C. M. Budgett",
+        "DISTANCES/TIMES": "3m 59.02s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Murray Mount (IRE)\nTommy Dowling",
+        "TRAINER/OWNER": "Charlie Mann\nMr Mark Hitchcroft",
+        "DISTANCES/TIMES": "3m 59.19s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Windy Writer (IRE)\nPeter Carberry",
+        "TRAINER/OWNER": "Shaun Lycett\nWorcester Racing Club",
+        "DISTANCES/TIMES": "3m 59.44s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "The Big Dipper (GB)\nShane Quinlan",
+        "TRAINER/OWNER": "David Dennis\nThe Lucky Seven",
+        "DISTANCES/TIMES": "3m 59.57s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Moss Valley Way (IRE)\nLizzie Kelly",
+        "TRAINER/OWNER": "Neil King\nThe Ridgeway Racing For Fun Partnership",
+        "DISTANCES/TIMES": "4m 5.29s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Emperor Sakhee (GB)\nSean Bowen",
+        "TRAINER/OWNER": "Karen McLintock\n06 Zoo Ltd",
+        "DISTANCES/TIMES": "4m 9.34s",
+        "SP": "6/1"
+      }
+    ]
+  }
+]

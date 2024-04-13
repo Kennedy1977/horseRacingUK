@@ -1,0 +1,413 @@
+[
+  {
+    "TIME": "1:10PM",
+    "NAME": "THE YEAR OF THE HORSE CONDITIONAL JOCKEYS' SELLING HURDLE RACE (CLASS 5)",
+    "DISTANCE": "2m 3f",
+    "WINNER": "Makhzoon (USA)",
+    "URL": "result/#!/2014/599/1494/0/",
+    "details": {
+      "Runners:": "3 RUNNERS",
+      "Prize Money:": "£4,000.00",
+      "Race Distance:": "2m 3f",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "4YO+",
+      "Rider Type:": "CONDITIONAL"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Makhzoon (USA)\nDiarmuid O'Regan",
+        "TRAINER/OWNER": "N. W. Alexander\nThe Ladies Who",
+        "DISTANCES/TIMES": "4m 59.1s",
+        "SP": "4/6"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Hunters Belt (IRE)\nGraham Watters",
+        "TRAINER/OWNER": "Barry Murtagh\nMr R. A. Fisher",
+        "DISTANCES/TIMES": "4m 59.77s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Belle de Fontenay (FR)\nConor Shoemark",
+        "TRAINER/OWNER": "Conor Dore\nBoston Park Racing Club",
+        "DISTANCES/TIMES": "5m 7.54s",
+        "SP": "4/1"
+      }
+    ]
+  },
+  {
+    "TIME": "1:40PM",
+    "NAME": "THE BHEST RACING TO SCHOOL JUVENILE HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m",
+    "WINNER": "Aalim (GB)",
+    "URL": "result/#!/2014/599/1497/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£5,000.00",
+      "Race Distance:": "2m",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "4YO"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Aalim (GB)\nDenis O'Regan",
+        "TRAINER/OWNER": "John Ferguson\nBloomfields",
+        "DISTANCES/TIMES": "4m 12.4s",
+        "SP": "1/9"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Kolonel Kirkup (GB)\nBarry Keniry",
+        "TRAINER/OWNER": "Michael Dods\nMr Kevin Kirkup",
+        "DISTANCES/TIMES": "4m 12.67s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Marlborough House (GB)\nHenry Brooke",
+        "TRAINER/OWNER": "Chris Grant\nD&D Armstrong Ltd,I Henderson,R Oliver",
+        "DISTANCES/TIMES": "4m 12.71s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Spencers Lad (GB)\nJake Greenall",
+        "TRAINER/OWNER": "Michael Easterby\nMr David Standring",
+        "DISTANCES/TIMES": "4m 17.64s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Great Demeanor (USA)\nRyan Mania",
+        "TRAINER/OWNER": "Dianne Sayer\nMr Dennis J. Coppola",
+        "DISTANCES/TIMES": "4m 22.83s",
+        "SP": "33/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:10PM",
+    "NAME": "THE FREE RACEDAYS WITH THE RACEGOERS CLUB NOVICES' HANDICAP STEEPLE CHASE (CLASS 4)",
+    "DISTANCE": "2m",
+    "WINNER": "Proud Times (USA)",
+    "URL": "result/#!/2014/599/27893/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£7,000.00",
+      "Race Distance:": "2m",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "5YO+",
+      "Horse Type:": "NOVICE",
+      "Rating:": "0-110",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Easydoesit (IRE)\nColm McCormack",
+        "TRAINER/OWNER": "Tony Carroll\nMr T. R. Pearson",
+        "SP": "13/2"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Proud Times (USA)\nJack Doyle",
+        "TRAINER/OWNER": "Ali Stronge\nCrowcombe Racing & Mrs Ali Stronge",
+        "DISTANCES/TIMES": "4m 6.9s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Hotgrove Boy (GB)\nBrian Harding",
+        "TRAINER/OWNER": "Stuart Coltherd\nColtherd Cawkwell",
+        "DISTANCES/TIMES": "4m 7.68s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Blackwater King (IRE)\nHenry Brooke",
+        "TRAINER/OWNER": "Donald McCain\nPaul & Clare Rooney",
+        "DISTANCES/TIMES": "4m 10.77s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Fitandproperjob (GB)\nPaul Moloney",
+        "TRAINER/OWNER": "Anthony Middleton\nS.E.D Racing Partnership",
+        "DISTANCES/TIMES": "4m 13.87s",
+        "SP": "5/2"
+      }
+    ]
+  },
+  {
+    "TIME": "2:45PM",
+    "NAME": "THE EUROPEAN BREEDERS' FUND 'NATIONAL HUNT' NOVICES' HURDLE RACE (QUALIFIER) (CLASS 4)",
+    "DISTANCE": "2m 3f",
+    "WINNER": "Classic Move (IRE)",
+    "URL": "result/#!/2014/599/1496/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£6,000.00",
+      "Race Distance:": "2m 3f",
+      "Race Going:": "Heavy",
+      "Horse Age:": "4-7YO",
+      "Horse Type:": "NOVICE"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Well Related (GB)\nRichie McGrath",
+        "TRAINER/OWNER": "Henry Hogarth\nHogarth Racing",
+        "SP": "100/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Classic Move (IRE)\nHenry Brooke",
+        "TRAINER/OWNER": "Donald McCain\nMr T. G. Leslie",
+        "DISTANCES/TIMES": "5m 4.6s",
+        "SP": "5/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "River Bollin (GB)\nDougie Costello",
+        "TRAINER/OWNER": "Tim Easterby\nMr C. H. Stevens",
+        "DISTANCES/TIMES": "5m 10.34s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Mister Jones (GB)\nRyan Mania",
+        "TRAINER/OWNER": "Sue Smith\nMcGoldrick Racing Syndicates",
+        "DISTANCES/TIMES": "5m 10.65s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Vice Et Vertu (FR)\nRichard Johnson",
+        "TRAINER/OWNER": "Henry Daly\nNeville Statham & Family",
+        "DISTANCES/TIMES": "5m 10.75s",
+        "SP": "6/5"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Oorayvic (IRE)\nJonathan England",
+        "TRAINER/OWNER": "Sue Smith\nMrs S. Smith",
+        "DISTANCES/TIMES": "5m 16.48s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Thatildee (IRE)\nDenis O'Regan",
+        "TRAINER/OWNER": "Chris Grant\nPeacock Boys Partnership",
+        "DISTANCES/TIMES": "5m 17.77s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Devil At Midnight (IRE)\nSamantha England",
+        "TRAINER/OWNER": "Richard Drake\nMrs J. Drake",
+        "DISTANCES/TIMES": "5m 35s",
+        "SP": "80/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:20PM",
+    "NAME": "THE WATT FENCES HANDICAP HURDLE RACE (CLASS 3)",
+    "DISTANCE": "3m 1f 110y",
+    "WINNER": "Hartforth (GB)",
+    "URL": "result/#!/2014/599/1500/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "3m 1f 110y",
+      "Race Going:": "Heavy",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-125",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Pudsey House (GB)\nMr John Dawson",
+        "TRAINER/OWNER": "John Wade\nMr John Wade",
+        "SP": "16/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Romany Ryme (GB)\nJonathon Bewley",
+        "TRAINER/OWNER": "George Bewley\nmartingrayracing",
+        "SP": "16/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Hartforth (GB)\nCallum Whillans",
+        "TRAINER/OWNER": "Donald Whillans\nThe Brave Lads Partnership",
+        "DISTANCES/TIMES": "6m 52.8s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "American Life (FR)\nPaul Moloney",
+        "TRAINER/OWNER": "Anthony Middleton\nRacing Roses Partnership",
+        "DISTANCES/TIMES": "6m 58.48s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Moscow Presents (IRE)\nAdam Nicol",
+        "TRAINER/OWNER": "Philip Kirby\nNojab & Tony Sadler",
+        "DISTANCES/TIMES": "7m 4.28s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Campbonnais (FR)\nAdam Wedge",
+        "TRAINER/OWNER": "Ali Stronge\nMrs Ali Stronge",
+        "DISTANCES/TIMES": "7m 6.14s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Big Sound (GB)\nGrant Cockburn",
+        "TRAINER/OWNER": "Tim Walford\nHanson & Hamilton",
+        "DISTANCES/TIMES": "7m 7.37s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Duke of Monmouth (IRE)\nMark Grant",
+        "TRAINER/OWNER": "Charlie Mann\nBryan & Philippa Burrough",
+        "DISTANCES/TIMES": "7m 18.25s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Alderley Rover (IRE)\nHenry Brooke",
+        "TRAINER/OWNER": "Donald McCain\nAlec Craig & Andrew Dick",
+        "DISTANCES/TIMES": "7m 43.46s",
+        "SP": "20/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:55PM",
+    "NAME": "THE NEW RACING UK ANYWHERE AVAILABLE NOW HANDICAP STEEPLE CHASE (CLASS 3)",
+    "DISTANCE": "2m 3f",
+    "WINNER": "Granville Island (IRE)",
+    "URL": "result/#!/2014/599/1492/0/",
+    "details": {
+      "Runners:": "7 RUNNERS",
+      "Prize Money:": "£12,000.00",
+      "Race Distance:": "2m 3f",
+      "Race Going:": "Heavy",
+      "Horse Age:": "5YO+",
+      "Rating:": "0-125",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "3lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Chicklemix (GB)\nMiss Gina Andrews",
+        "TRAINER/OWNER": "Pam Sly\nMichael H. Sly Dr T. Davies Mrs Pam Sly",
+        "SP": "4/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Granville Island (IRE)\nSean Quinlan",
+        "TRAINER/OWNER": "Jennie Candlish\nMr P. And Mrs G. A. Clarke",
+        "DISTANCES/TIMES": "5m 11.7s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Pearls Legend (GB)\nJamie Moore",
+        "TRAINER/OWNER": "John Spearing\nThe Corsairs",
+        "DISTANCES/TIMES": "5m 11.96s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Billy Cuckoo (IRE)\nJake Greenall",
+        "TRAINER/OWNER": "Tony Coyle\nGary Dewhurst & Tony Coyle",
+        "DISTANCES/TIMES": "5m 13.1s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Qoubilai (FR)\nDougie Costello",
+        "TRAINER/OWNER": "Tony Coyle\nMr Brian Kerr",
+        "DISTANCES/TIMES": "5m 13.56s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Kykate (GB)\nRyan Mahon",
+        "TRAINER/OWNER": "William Kinsey\nDavid Bithell Racing",
+        "DISTANCES/TIMES": "5m 15.14s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Arctic Ben (IRE)\nRichard Johnson",
+        "TRAINER/OWNER": "Henry Daly\nMrs A. Timpson",
+        "DISTANCES/TIMES": "5m 30.39s",
+        "SP": "5/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:25PM",
+    "NAME": "THE yorkshire-outdoors.co.uk MARES' STANDARD OPEN NATIONAL HUNT FLAT RACE (CLASS 6)",
+    "DISTANCE": "2m",
+    "WINNER": "Philosofy (GB)",
+    "URL": "result/#!/2014/599/18054/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£3,000.00",
+      "Race Distance:": "2m",
+      "Race Going:": "Heavy",
+      "Horse Age:": "4-6YO",
+      "Horse Sex:": "FILLIES & MARES"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Who's Emma (GB)\nBarry Keniry",
+        "TRAINER/OWNER": "Chris Fairhurst\nMrs Shirley France",
+        "SP": "33/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Philosofy (GB)\nRichard Johnson",
+        "TRAINER/OWNER": "David O'Meara\nDirect Racing Partnership",
+        "DISTANCES/TIMES": "4m 17.7s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Bulas Belle (GB)\nCraig Nichol",
+        "TRAINER/OWNER": "Edwin Tuer\nMr E. Tuer",
+        "DISTANCES/TIMES": "4m 17.72s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Oleohneh (IRE)\nBrian Hughes",
+        "TRAINER/OWNER": "Malcolm Jefferson\nMr T A Stephenson & Mrs S Jefferson",
+        "DISTANCES/TIMES": "4m 22.49s",
+        "SP": "8/15"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Money Maid (IRE)\nGerard Tumelty",
+        "TRAINER/OWNER": "Simon Earle\nEPDS Racing Partnership 5",
+        "DISTANCES/TIMES": "4m 22.54s",
+        "SP": "9/1"
+      }
+    ]
+  }
+]

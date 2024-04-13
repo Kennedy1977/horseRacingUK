@@ -1,0 +1,456 @@
+[
+  {
+    "TIME": "2:10PM",
+    "NAME": "THE HOUSE RESTAURANT & BAR CHESTER NOVICE STAKES (CLASS 4)",
+    "DISTANCE": "5f 16y",
+    "WINNER": "Suzi's Connoisseur (GB)",
+    "URL": "result/#!/2013/681/1962/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "5f 16y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "2YO",
+      "Horse Type:": "NOVICE"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Suzi's Connoisseur (GB)\nFranny Norton",
+        "TRAINER/OWNER": "Mark Johnston\nGreenstead Hall Racing Ltd",
+        "DISTANCES/TIMES": "1m 3.88s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Salford Red Devil (GB)\nLee Topliss",
+        "TRAINER/OWNER": "Richard Fahey\nDr Marwan Koukash",
+        "DISTANCES/TIMES": "1m 3.94s",
+        "SP": "Evens"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Orton Park (IRE)\nHarry Bentley",
+        "TRAINER/OWNER": "Tobias B. P. Coles\nQatar Racing Limited",
+        "DISTANCES/TIMES": "1m 4.12s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Rosebay Coral (IRE)\nAmy Ryan",
+        "TRAINER/OWNER": "Tony Coyle\nMr John L. Marriott",
+        "DISTANCES/TIMES": "1m 4.52s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Money Team (IRE)\nRyan While",
+        "TRAINER/OWNER": "Bill Turner\nMr A. C. Elliott",
+        "DISTANCES/TIMES": "1m 4.76s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Limegrove (GB)\nMartin Lane",
+        "TRAINER/OWNER": "David Evans\nMr J. E. Abbey",
+        "DISTANCES/TIMES": "1m 4.96s",
+        "SP": "9/2"
+      }
+    ]
+  },
+  {
+    "TIME": "2:45PM",
+    "NAME": "THE MA KELLY'S BLACKPOOL HANDICAP STAKES (CLASS 3)",
+    "DISTANCE": "5f 16y",
+    "WINNER": "Rusty Rocket (IRE)",
+    "URL": "result/#!/2013/681/1957/0/",
+    "details": {
+      "Runners:": "10 RUNNERS",
+      "Prize Money:": "£12,000.00",
+      "Race Distance:": "5f 16y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO+",
+      "Rating:": "71-90",
+      "Min Weight:": "8st 7lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Rusty Rocket (IRE)\nMartin Lane",
+        "TRAINER/OWNER": "Paul Green\nSeven Stars Racing",
+        "DISTANCES/TIMES": "1m 2.81s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Sir Maximilian (IRE)\nLuke Morris",
+        "TRAINER/OWNER": "Ian Williams\nMr Paul Wildes",
+        "DISTANCES/TIMES": "1m 2.97s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Secret Look (GB)\nSean Levey",
+        "TRAINER/OWNER": "Ed McMahon\nMr S. L. Edwards",
+        "DISTANCES/TIMES": "1m 3.3s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Storm Moon (USA)\nFranny Norton",
+        "TRAINER/OWNER": "Mark Johnston\nSheikh Hamdan Bin Mohammed Al Maktoum",
+        "DISTANCES/TIMES": "1m 3.48s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Decision By One (GB)\nStephen Craine",
+        "TRAINER/OWNER": "Tom Dascombe\nManor House Racing Club",
+        "DISTANCES/TIMES": "1m 3.54s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Cruise Tothelimit (IRE)\nRyan Powell",
+        "TRAINER/OWNER": "Ian Williams\nOdysian Ltd T/A Cruise Nightspot",
+        "DISTANCES/TIMES": "1m 3.66s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Chooseday (IRE)\nAmy Ryan",
+        "TRAINER/OWNER": "Kevin Ryan\nMrs S. J. Barker",
+        "DISTANCES/TIMES": "1m 3.72s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Doctor Parkes (GB)\nHarry Bentley",
+        "TRAINER/OWNER": "Stuart Williams\nThe Doctor Parkes Partnership",
+        "DISTANCES/TIMES": "1m 3.82s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Silvanus (IRE)\nRuss Kennemore",
+        "TRAINER/OWNER": "Paul Midgley\nMr Colin Alton",
+        "DISTANCES/TIMES": "1m 4.02s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Lady Ibrox (GB)\nDale Swift",
+        "TRAINER/OWNER": "Alan Brown\nRangers Racing",
+        "DISTANCES/TIMES": "1m 4.42s",
+        "SP": "8/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:20PM",
+    "NAME": "THE WRO WEST KIRBY HANDICAP STAKES (CLASS 2)",
+    "DISTANCE": "7f 2y",
+    "WINNER": "Correspondent (GB)",
+    "URL": "result/#!/2013/681/1959/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£20,000.00",
+      "Race Distance:": "7f 2y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO",
+      "Rating:": "81-100",
+      "Min Weight:": "8st 2lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Correspondent (GB)\nMartin Lane",
+        "TRAINER/OWNER": "Brian Meehan\nMrs P. Good",
+        "DISTANCES/TIMES": "1m 29.09s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Rene Mathis (GER)\nPaddy Mathers",
+        "TRAINER/OWNER": "Richard Fahey\nDr Marwan Koukash",
+        "DISTANCES/TIMES": "1m 29.2s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Queen Aggie (IRE)\nLuke Morris",
+        "TRAINER/OWNER": "David Evans\nShropshire Wolves 4",
+        "DISTANCES/TIMES": "1m 29.59s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Penny Garcia (GB)\nAmy Ryan",
+        "TRAINER/OWNER": "Tim Easterby\nJim & Helen Bowers",
+        "DISTANCES/TIMES": "1m 29.6s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Lord Ashley (IRE)\nHarry Bentley",
+        "TRAINER/OWNER": "Tom Dascombe\nMr D. R. Passant",
+        "DISTANCES/TIMES": "1m 29.87s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Chelwood Gate (IRE)\nChris Catlin",
+        "TRAINER/OWNER": "Roger Varian\nMrs Fitri Hay",
+        "DISTANCES/TIMES": "1m 30.02s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Duke Cosimo (GB)\nJimmy Quinn",
+        "TRAINER/OWNER": "Sir Michael Stoute\nCheveley Park Stud",
+        "DISTANCES/TIMES": "1m 30.46s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Lady Phill (GB)\nKieren Fox",
+        "TRAINER/OWNER": "Bill Turner\nMrs M. S. Teversham",
+        "DISTANCES/TIMES": "1m 31.86s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Heavy Metal (GB)\nFranny Norton",
+        "TRAINER/OWNER": "Mark Johnston\nSheikh Hamdan Bin Mohammed Al Maktoum",
+        "DISTANCES/TIMES": "1m 35.77s",
+        "SP": "10/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:55PM",
+    "NAME": "THE MILL HOTEL & SPA CHESTER HANDICAP STAKES (CLASS 4)",
+    "DISTANCE": "1m 3f 79y",
+    "WINNER": "Kiwayu (GB)",
+    "URL": "result/#!/2013/681/22466/0/",
+    "details": {
+      "Runners:": "7 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "1m 3f 79y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "4YO+",
+      "Rating:": "66-85",
+      "Min Weight:": "8st 2lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Kiwayu (GB)\nLuke Morris",
+        "TRAINER/OWNER": "Ian Williams\nMr Paul Wildes",
+        "DISTANCES/TIMES": "2m 31.47s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Sir Boss (IRE)\nRyan Clark",
+        "TRAINER/OWNER": "Michael Mullineaux\nMiss M Mullineaux,Mr P Lawton,Mr I Ross",
+        "DISTANCES/TIMES": "2m 31.7s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Assizes (GB)\nFranny Norton",
+        "TRAINER/OWNER": "Mark Johnston\nSheikh Hamdan Bin Mohammed Al Maktoum",
+        "DISTANCES/TIMES": "2m 32.03s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Watts Up Son (GB)\nHarry Bentley",
+        "TRAINER/OWNER": "Declan Carroll\nL. Ibbotson, D. Watts & J. Syme",
+        "DISTANCES/TIMES": "2m 32.12s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Pintrada (GB)\nTed Durcan",
+        "TRAINER/OWNER": "James Bethell\nScotyork Partnership I",
+        "DISTANCES/TIMES": "2m 32.39s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Kiama Bay (IRE)\nSean Levey",
+        "TRAINER/OWNER": "John Quinn\nDr Marwan Koukash",
+        "DISTANCES/TIMES": "2m 34.05s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Duaiseoir (IRE)\nSteve Drowne",
+        "TRAINER/OWNER": "Venetia Williams\nMezzone Family",
+        "DISTANCES/TIMES": "2m 36.51s",
+        "SP": "12/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:25PM",
+    "NAME": "THE ALBERT SQUARE CHOPHOUSE MAIDEN STAKES (CLASS 4)",
+    "DISTANCE": "1m 2f 75y",
+    "WINNER": "Ducab (IRE)",
+    "URL": "result/#!/2013/681/1961/0/",
+    "details": {
+      "Runners:": "4 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "1m 2f 75y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO+",
+      "Horse Type:": "MAIDEN"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Ducab (IRE)\nSean Levey",
+        "TRAINER/OWNER": "Roger Varian\nMr Sultan Ali",
+        "DISTANCES/TIMES": "2m 16.99s",
+        "SP": "6/5"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Khudoua (GB)\nNicky Mackay",
+        "TRAINER/OWNER": "John Gosden\nMr Hamdan Al Maktoum",
+        "DISTANCES/TIMES": "2m 17.43s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Bushel (USA)\nFranny Norton",
+        "TRAINER/OWNER": "Mark Johnston\nSheikh Hamdan Bin Mohammed Al Maktoum",
+        "DISTANCES/TIMES": "2m 18.11s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Speedy Utmost Meg (GB)\nShelley Birkett",
+        "TRAINER/OWNER": "William Kinsey\nLeods Contracts Limited",
+        "DISTANCES/TIMES": "2m 23.19s",
+        "SP": "16/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:55PM",
+    "NAME": "THE RED ALERT HANDICAP STAKES (CLASS 4)",
+    "DISTANCE": "1m 4f 66y",
+    "WINNER": "Muthmera (USA)",
+    "URL": "result/#!/2013/681/1958/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "1m 4f 66y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO",
+      "Rating:": "66-85",
+      "Min Weight:": "8st 2lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Muthmera (USA)\nSean Levey",
+        "TRAINER/OWNER": "Roger Varian\nMr Hamdan Al Maktoum",
+        "DISTANCES/TIMES": "2m 46.33s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Dali's Lover (IRE)\nSteve Drowne",
+        "TRAINER/OWNER": "Charles Hills\nTriermore Stud",
+        "DISTANCES/TIMES": "2m 46.79s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Street Artist (IRE)\nFranny Norton",
+        "TRAINER/OWNER": "Mark Johnston\nSheikh Hamdan Bin Mohammed Al Maktoum",
+        "DISTANCES/TIMES": "2m 46.89s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Gabrial The Master (IRE)\nLee Topliss",
+        "TRAINER/OWNER": "Richard Fahey\nDr Marwan Koukash",
+        "DISTANCES/TIMES": "2m 47.03s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Interior Minister (GB)\nMartin Lane",
+        "TRAINER/OWNER": "Jo Hughes\nEastwind Racing Ltd and Martha Trussell",
+        "DISTANCES/TIMES": "2m 48.25s",
+        "SP": "5/1"
+      }
+    ]
+  },
+  {
+    "TIME": "5:25PM",
+    "NAME": "THE STELLA CIDRE HANDICAP STAKES (CLASS 4)",
+    "DISTANCE": "1m 7f 195y",
+    "WINNER": "Kashgar (GB)",
+    "URL": "result/#!/2013/681/1960/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "1m 7f 195y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "4YO+",
+      "Rating:": "66-85",
+      "Min Weight:": "8st 2lbs",
+      "Weights Raised:": "5lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Kashgar (GB)\nMartin Lane",
+        "TRAINER/OWNER": "Bernard Llewellyn\nMr Alex James & Mr B J Llewellyn",
+        "DISTANCES/TIMES": "3m 41.51s",
+        "SP": "10/3"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Gabrial's King (IRE)\nFranny Norton",
+        "TRAINER/OWNER": "David Simcock\nDr Marwan Koukash",
+        "DISTANCES/TIMES": "3m 42.26s",
+        "SP": "5/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Montaff (GB)\nSam Hitchcott",
+        "TRAINER/OWNER": "Mick Channon\nBarry Walters Catering",
+        "DISTANCES/TIMES": "3m 42.5s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Hallstatt (IRE)\nRaul Da Silva",
+        "TRAINER/OWNER": "John Mackie\nMr A. B. Hill",
+        "DISTANCES/TIMES": "3m 42.74s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "L Frank Baum (IRE)\nOisin Murphy",
+        "TRAINER/OWNER": "Bernard Llewellyn\nMr Alex James",
+        "DISTANCES/TIMES": "3m 43.15s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Lifetime (IRE)\nSean Levey",
+        "TRAINER/OWNER": "Brian Ellison\nKoo's Racing Club",
+        "DISTANCES/TIMES": "3m 45.44s",
+        "SP": "10/1"
+      }
+    ]
+  }
+]

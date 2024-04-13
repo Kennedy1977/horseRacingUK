@@ -1,0 +1,432 @@
+[
+  {
+    "TIME": "1:50PM",
+    "NAME": "THE LAND & POWER LTD. NOVICES' LIMITED HANDICAP STEEPLE CHASE (CLASS 3) (FOR THE JOSH GIFFORD CUP) (GBB RACE)",
+    "DISTANCE": "2m 3f 128y",
+    "WINNER": "Nassalam (FR)",
+    "URL": "result/#!/2022/811/2710/0/",
+    "details": {
+      "Runners:": "4 RUNNERS",
+      "Prize Money:": "£13,400.00",
+      "Race Distance:": "2m 3f 128y",
+      "Race Going:": "Soft, Good to Soft in places",
+      "Horse Age:": "5YO+",
+      "Horse Type:": "NOVICE",
+      "Min Weight:": "10st 3lbs",
+      "Handicapper:": "Martin Greenwood"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Nassalam (FR)\nJamie Moore\nHandicap Ran Off:144\nBHA Performance Figure: 145\nCurrent handicap mark: S:161",
+        "TRAINER/OWNER": "Gary Moore\nJohn and Yvonne Stone",
+        "DISTANCES/TIMES": "5m 9.8s",
+        "SP": "8/15"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Railway Hurricane (IRE)\nBrendan Powell\nHandicap Ran Off:127\nBHA Performance Figure: 125",
+        "TRAINER/OWNER": "Gavin Cromwell\nMiss Susan Barton/S. O'Brien/John Mahon",
+        "DISTANCES/TIMES": "2½ lengths\n5m 10.43s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Brewers Project (IRE)\nHarry Cobden\nHandicap Ran Off:121\nBHA Performance Figure: 115",
+        "TRAINER/OWNER": "Paul Nicholls\nThe Hon Mrs Townshend",
+        "DISTANCES/TIMES": "4¼ lengths\n5m 11.47s",
+        "SP": "10/3"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Menapian (IRE)\nCharlie Price\nHandicap Ran Off:121\nBHA Performance Figure: 71\nCurrent handicap mark: H:70",
+        "TRAINER/OWNER": "Helen Nelmes\nT M W Partnership",
+        "DISTANCES/TIMES": "49 lengths\n5m 23.69s",
+        "SP": "150/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:20PM",
+    "NAME": "THE ROYAL EQUESTRIAN BEDDING HANDICAP STEEPLE CHASE (CLASS 4) (For The Certain Justice Challenge Trophy)",
+    "DISTANCE": "2m 5f 159y",
+    "WINNER": "Alkopop (GER)",
+    "URL": "result/#!/2022/811/2709/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£10,600.00",
+      "Race Distance:": "2m 5f 159y",
+      "Race Going:": "Soft, Good to Soft in places",
+      "Horse Age:": "5YO+",
+      "Rating:": "0-110",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Michael Harris"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Alkopop (GER)\nTom Cannon\nHandicap Ran Off:110\nBHA Performance Figure: 115\nCurrent handicap mark: S:100",
+        "TRAINER/OWNER": "Toby Lawes\nAndrew & Sarah Wates",
+        "DISTANCES/TIMES": "5m 52.5s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Concrete King (IRE)\nBrendan Powell\nHandicap Ran Off:104\nBHA Performance Figure: 105\nCurrent handicap mark: S:81",
+        "TRAINER/OWNER": "Neil Mulholland\nMr O. S. Harris",
+        "DISTANCES/TIMES": "2 lengths\n5m 52.96s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Guguss Collonges (FR)\nJamie Moore\nHandicap Ran Off:101\nBHA Performance Figure: 96\nCurrent handicap mark: S:90 H:90",
+        "TRAINER/OWNER": "Gary Moore\nMr David Gilmour & Mr James Dellaway",
+        "DISTANCES/TIMES": "7½ lengths\n5m 54.81s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Surdoue De Ballon (FR)\nPaul O'Brien\nHandicap Ran Off:97\nBHA Performance Figure: 76",
+        "TRAINER/OWNER": "Kayley Woollacott\n4Racing Owners Club",
+        "DISTANCES/TIMES": "20 lengths\n5m 59.9s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Oxwich Bay (IRE)\nMr Lewis Gordon\nHandicap Ran Off:105\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Evan Williams\nT Hywel Jones Racing",
+        "SP": "18/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Graces Order (IRE)\nDavid England\nHandicap Ran Off:110\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Olly Murphy\nPeaky Blinders",
+        "SP": "8/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:50PM",
+    "NAME": "THE ROYALEQUESTRIAN BEDDING AND MANOR ELITE HORSEBOX NATIONAL SPIRIT HURDLE RACE (CLASS 1) (Grade 2) (GBB RACE)",
+    "DISTANCE": "2m 3f 73y",
+    "WINNER": "Botox Has (FR)",
+    "URL": "result/#!/2022/811/2711/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£90,000.00",
+      "Race Distance:": "2m 3f 73y",
+      "Race Going:": "Good to Soft, Good in places",
+      "Horse Age:": "4YO+",
+      "Handicapper:": "Graeme D. Smith"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Botox Has (FR)\nJoshua Moore\nBHA Performance Figure: 142\nCurrent handicap mark: H:152",
+        "TRAINER/OWNER": "Gary Moore\nJohn and Yvonne Stone",
+        "DISTANCES/TIMES": "4m 47.35s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Brewin'upastorm (IRE)\nAidan Coleman\nBHA Performance Figure: 147\nCurrent handicap mark: H:149",
+        "TRAINER/OWNER": "Olly Murphy\nMrs Barbara Hester",
+        "DISTANCES/TIMES": "Head\n4m 47.38s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Guard Your Dreams (GB)\nJordan Nailor\nBHA Performance Figure: 141\nCurrent handicap mark: H:135",
+        "TRAINER/OWNER": "Nigel Twiston-Davies\nGraham and Alison Jelley",
+        "DISTANCES/TIMES": "7 lengths\n4m 48.97s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Monmiral (FR)\nHarry Cobden\nBHA Performance Figure: 135\nCurrent handicap mark: H:144",
+        "TRAINER/OWNER": "Paul Nicholls\nSir A Ferguson G Mason J Hales & L Hales",
+        "DISTANCES/TIMES": "4 lengths\n4m 49.87s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Darver Star (IRE)\nKeith Donoghue\nBHA Performance Figure: 125",
+        "TRAINER/OWNER": "Gavin Cromwell\nSSP Number Twenty Two Syndicate",
+        "DISTANCES/TIMES": "7½ lengths\n4m 51.55s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Allmankind (GB)\nHarry Skelton\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Dan Skelton\nThe Gredley Family",
+        "SP": "3/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:20PM",
+    "NAME": "THE MANOR ELITE HORSEBOX NOVICES' HURDLE RACE (CLASS 4) (GBB RACE)",
+    "DISTANCE": "2m 3f 73y",
+    "WINNER": "Jerrash",
+    "URL": "result/#!/2022/811/2714/0/",
+    "details": {
+      "Runners:": "3 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "2m 3f 73y",
+      "Race Going:": "Good to Soft, Good in places",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Handicapper:": "Graeme D. Smith"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Jerrash (GB)\nJamie Moore\nCurrent handicap mark: S:117 H:117",
+        "TRAINER/OWNER": "Gary Moore\nMr Jerry Hinds & Mr Ashley Head",
+        "DISTANCES/TIMES": "5m 5.45s",
+        "SP": "1/5"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Make My Day (IRE)\nJoshua Moore",
+        "TRAINER/OWNER": "Gary Moore\nMr Steven Packham",
+        "DISTANCES/TIMES": "1¼ length\n5m 5.71s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Merchant In Milan (IRE)\nCharlie Price",
+        "TRAINER/OWNER": "Helen Nelmes\nMr L. J. Burden",
+        "DISTANCES/TIMES": "10 lengths\n5m 7.96s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Gelino Bello (FR)\nNon Runner",
+        "TRAINER/OWNER": "Paul Nicholls\nMr and Mrs J. D. Cotton",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "3:50PM",
+    "NAME": "THE ROYALEQUESTRIAN BEDDING AND MANOR ELITE HORSEBOX HANDICAP HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 5f 188y",
+    "WINNER": "Legal Rights (GER)",
+    "URL": "result/#!/2022/811/18366/0/",
+    "details": {
+      "Runners:": "10 RUNNERS",
+      "Prize Money:": "£9,400.00",
+      "Race Distance:": "2m 5f 188y",
+      "Race Going:": "Good to Soft, Good in places",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-115",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "1lbs",
+      "Handicapper:": "Mark Olley"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Legal Rights (GER)\nJoshua Moore\nHandicap Ran Off:102\nBHA Performance Figure: 107\nCurrent handicap mark: H:91",
+        "TRAINER/OWNER": "Gary Moore\nHeart of the South Racing 126",
+        "DISTANCES/TIMES": "5m 38.25s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Buckhorn George (GB)\nBrendan Powell\nHandicap Ran Off:114\nBHA Performance Figure: 115",
+        "TRAINER/OWNER": "Colin Tizzard\nThe Buckhorn Racing Team",
+        "DISTANCES/TIMES": "3¼ lengths\n5m 38.96s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Mont Saint Vincent (FR)\nTom Cannon\nHandicap Ran Off:114\nBHA Performance Figure: 111",
+        "TRAINER/OWNER": "Neil Mulholland\nWalters Plant Hire Ltd",
+        "DISTANCES/TIMES": "4½ lengths\n5m 39.98s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Delgany Monarch (IRE)\nNiall Houlihan\nHandicap Ran Off:100\nBHA Performance Figure: 94\nCurrent handicap mark: S:91",
+        "TRAINER/OWNER": "Richard Rowe\nEncore Partnership V11",
+        "DISTANCES/TIMES": "3 lengths\n5m 40.62s",
+        "SP": "16/5"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Del Duque (IRE)\nDavid England\nHandicap Ran Off:114\nBHA Performance Figure: 108",
+        "TRAINER/OWNER": "Olly Murphy\nDeva Racing (DD)",
+        "DISTANCES/TIMES": "Head\n5m 40.65s",
+        "SP": "22/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Game Socks (IRE)\nCillin Leonard\nHandicap Ran Off:111\nBHA Performance Figure: 102\nCurrent handicap mark: S:93 H:93",
+        "TRAINER/OWNER": "Dr Richard Newland\nChris Stedman & Mark Albon",
+        "DISTANCES/TIMES": "3¾ lengths\n5m 41.47s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Especially So (GB)\nLiam Harrison\nHandicap Ran Off:105\nBHA Performance Figure: 87",
+        "TRAINER/OWNER": "Michael Scudamore\nWink N' A Drink",
+        "DISTANCES/TIMES": "10 lengths\n5m 43.66s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Walkonthewildside (FR)\nAidan Coleman\nHandicap Ran Off:106\nBHA Performance Figure: 83",
+        "TRAINER/OWNER": "Olly Murphy\nMrs Diana L. Whateley & Mr Aiden Murphy",
+        "DISTANCES/TIMES": "5½ lengths\n5m 44.86s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Reallyradical (IRE)\nPage Fuller\nHandicap Ran Off:103\nBHA Performance Figure: 51",
+        "TRAINER/OWNER": "Pat Murphy\nMrs B. Chantler",
+        "DISTANCES/TIMES": "34 lengths\n5m 52.36s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Martin Spirit (IRE)\nJamie Moore\nHandicap Ran Off:112\nBHA Performance Figure: 0\nCurrent handicap mark: S:88 H:88",
+        "TRAINER/OWNER": "Paddy Butler\nMrs E. Lucey-Butler",
+        "SP": "33/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Getaweapon (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Kim Bailey\nMr J. Perriss",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "4:20PM",
+    "NAME": "THE MANOR ELITE HORSE BOX OPEN HUNTERS' STEEPLE CHASE (CLASS 6) (For The Whitelaw Challenge Cup)",
+    "DISTANCE": "3m 2f 26y",
+    "WINNER": "Shantou Flyer (IRE)",
+    "URL": "result/#!/2022/811/2743/0/",
+    "details": {
+      "Runners:": "4 RUNNERS",
+      "Prize Money:": "£4,000.00",
+      "Race Distance:": "3m 2f 26y",
+      "Race Going:": "Soft, Good to Soft in places",
+      "Horse Age:": "5YO+",
+      "Handicapper:": "Martin Greenwood",
+      "Rider Type:": "AMATEUR"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Shantou Flyer (IRE)\nMr David Maxwell\nBHA Performance Figure: 139\nCurrent handicap mark: S:128",
+        "TRAINER/OWNER": "Paul Nicholls\nMr David Maxwell",
+        "DISTANCES/TIMES": "7m 18.2s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Jett (IRE)\nMr Sam Waley-Cohen\nBHA Performance Figure: 134",
+        "TRAINER/OWNER": "Robert Waley-Cohen\nMr Robert Waley-Cohen",
+        "DISTANCES/TIMES": "5½ lengths\n7m 19.51s",
+        "SP": "8/15"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sam Red (FR)\nMiss Lucy Turner\nBHA Performance Figure: 87",
+        "TRAINER/OWNER": "A. B. Leyshon\nMr A. B. Leyshon",
+        "DISTANCES/TIMES": "56 lengths\n7m 33.53s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Robin Is Ready (IRE)\nMr James Rawdon-Mogg\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Ms Hannah Grissell\nMrs D. M. Grissell",
+        "SP": "80/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:50PM",
+    "NAME": "THE ROYALEQUESTRIAN BEDDING SUPPORTS LITTLE PRINCESS TRUST OPEN MAIDEN NATIONAL HUNT FLAT RACE (CLASS 5) (Category 3 Elimination) (GBB RACE)",
+    "DISTANCE": "2m 1f 186y",
+    "WINNER": "Record High (IRE)",
+    "URL": "result/#!/2022/811/18604/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£4,800.00",
+      "Race Distance:": "2m 1f 186y",
+      "Race Going:": "Good to Soft, Good in places",
+      "Horse Age:": "4-6YO",
+      "Horse Type:": "MAIDEN",
+      "Handicapper:": "Adam Barnes"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Record High (IRE)\nMicheal Nolan",
+        "TRAINER/OWNER": "Suzy Smith\nWallace Racing",
+        "DISTANCES/TIMES": "4m 33.1s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "I Shut That d'Or (FR)\nBrendan Powell\nCurrent handicap mark: S:102",
+        "TRAINER/OWNER": "Colin Tizzard\nJ. K. Powell Racing",
+        "DISTANCES/TIMES": "1½ length\n4m 33.43s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Mount South (IRE)\nHarry Skelton",
+        "TRAINER/OWNER": "Ian Williams\nNoel Fehily Racing Syndicate-Mount South",
+        "DISTANCES/TIMES": "*3¾ lengths\n4m 34.38s",
+        "SP": "5/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "French Bumper (IRE)\nJoshua Moore",
+        "TRAINER/OWNER": "Gary Moore\nRocbrook Racing Club",
+        "DISTANCES/TIMES": "4 lengths\n4m 35.27s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Halondo (FR)\nAidan Coleman\nCurrent handicap mark: H:121",
+        "TRAINER/OWNER": "Olly Murphy\nMrs Diana L. Whateley",
+        "DISTANCES/TIMES": "1¼ length\n4m 35.55s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Boro Lass (GB)\nJamie Moore",
+        "TRAINER/OWNER": "Gay Kelleway\nMrs Kay Deveney & Winterbeck Manor Stud",
+        "DISTANCES/TIMES": "Head\n4m 35.59s",
+        "SP": "80/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Prince des Malvaux (FR)\nJoe Anderson",
+        "TRAINER/OWNER": "Katharine Davis\nMr D. White",
+        "DISTANCES/TIMES": "2¼ lengths\n4m 36.08s",
+        "SP": "28/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "All About Logan (GB)\nTom Cannon",
+        "TRAINER/OWNER": "John Best & Karen Jewell\nSmarden Thoroughbreds",
+        "DISTANCES/TIMES": "4½ lengths\n4m 37.11s",
+        "SP": "18/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Dunatara (GB)\nMarc Goldstein",
+        "TRAINER/OWNER": "Diana Grissell\nB Cockerell & Mrs D Grissell",
+        "DISTANCES/TIMES": "34 lengths\n4m 44.75s",
+        "SP": "100/1"
+      }
+    ]
+  }
+]

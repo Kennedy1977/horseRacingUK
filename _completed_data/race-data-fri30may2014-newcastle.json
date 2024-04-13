@@ -1,0 +1,694 @@
+[
+  {
+    "TIME": "2:10PM",
+    "NAME": "THE LAFARGE TARMAC ULTIMATE/BRITISH STALLION STUDS EBF MAIDEN STAKES (CLASS 4) (BOBIS RACE)",
+    "DISTANCE": "6f",
+    "WINNER": "Dragon King (IRE)",
+    "URL": "result/#!/2014/651/1209/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£6,300.00",
+      "Race Distance:": "6f",
+      "Race Going:": "Soft",
+      "Horse Age:": "2YO",
+      "Horse Type:": "MAIDEN"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Dragon King (IRE)\nPaul Mulrennan",
+        "TRAINER/OWNER": "Michael Dods\nMr & Mrs Paul Gaffney",
+        "DISTANCES/TIMES": "1m 18.29s",
+        "SP": "11/8"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Split The Atom (IRE)\nR. P. Whelan",
+        "TRAINER/OWNER": "J. P. Shanahan (Ireland)\nThistle Bloodstock Limited",
+        "DISTANCES/TIMES": "1m 18.43s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Danny O'Ruairc (IRE)\nTom Eaves",
+        "TRAINER/OWNER": "James Moffatt\nBowes Lodge Stables",
+        "DISTANCES/TIMES": "1m 18.59s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Our Kylie (IRE)\nBarry McHugh",
+        "TRAINER/OWNER": "Tony Coyle\nMorecool & Cool Racing",
+        "DISTANCES/TIMES": "1m 18.66s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Subversive (IRE)\nJoe Fanning",
+        "TRAINER/OWNER": "Mark Johnston\nSheikh Hamdan Bin Mohammed Al Maktoum",
+        "DISTANCES/TIMES": "1m 19.29s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Sandgate (GB)\nTony Hamilton",
+        "TRAINER/OWNER": "Richard Fahey\nHavelock Racing & Partner",
+        "DISTANCES/TIMES": "1m 19.89s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Autumn Revue (GB)\nDuran Fentiman",
+        "TRAINER/OWNER": "Tim Easterby\nMr S. A. Heley",
+        "DISTANCES/TIMES": "1m 20.36s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Shamkhani (GB)\nSlade O'Hara",
+        "TRAINER/OWNER": "Alan Berry\nDo Well Racing",
+        "DISTANCES/TIMES": "1m 20.76s",
+        "SP": "80/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:40PM",
+    "NAME": "THE MITIE MAIDEN STAKES (CLASS 5)",
+    "DISTANCE": "7f",
+    "WINNER": "Wilde Inspiration (IRE)",
+    "URL": "result/#!/2014/651/1211/0/",
+    "details": {
+      "Runners:": "12 RUNNERS",
+      "Prize Money:": "£4,000.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Soft",
+      "Horse Age:": "3YO",
+      "Horse Type:": "MAIDEN"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Clabare (GB)\nTom Eaves",
+        "TRAINER/OWNER": "Ian Semple\nMr Neil Anderson",
+        "SP": "0/0"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Wilde Inspiration (IRE)\nPaul Mulrennan",
+        "TRAINER/OWNER": "Julie Camacho\nJudy & Richard Peck",
+        "DISTANCES/TIMES": "1m 29.65s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Percy's Gal (GB)\nGemma Tutty",
+        "TRAINER/OWNER": "Karen Tutty\nArrand & Tutty",
+        "DISTANCES/TIMES": "1m 29.86s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Lince Suertudo (FR)\nDale Swift",
+        "TRAINER/OWNER": "Brian Ellison\nJ Pierce & B Dunn",
+        "DISTANCES/TIMES": "1m 30.58s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Dancin Alpha (GB)\nBen Curtis",
+        "TRAINER/OWNER": "Alan Swinbank\nElm Row Racing Syndicate I",
+        "DISTANCES/TIMES": "1m 30.87s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Yard of Ale (GB)\nGraham Gibbons",
+        "TRAINER/OWNER": "Kristin Stubbs\nMr O. J. Williams",
+        "DISTANCES/TIMES": "1m 31.11s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Queens Park (FR)\nP. J. McDonald",
+        "TRAINER/OWNER": "John Davies\nMr & Mrs R. Scott",
+        "DISTANCES/TIMES": "1m 31.38s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Mr McLaren (GB)\nDaniel Tudhope",
+        "TRAINER/OWNER": "David O'Meara\nMiddleham Park Racing LXIV & Partner",
+        "DISTANCES/TIMES": "1m 31.96s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Saltire (IRE)\nR. P. Whelan",
+        "TRAINER/OWNER": "J. P. Shanahan (Ireland)\nThistle Bloodstock Limited",
+        "DISTANCES/TIMES": "1m 32.35s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Patron of Explores (USA)\nAndrew Mullen",
+        "TRAINER/OWNER": "Patrick Holmes\nFPR Syndicate 3",
+        "DISTANCES/TIMES": "1m 33.1s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Saranta (GB)\nTony Hamilton",
+        "TRAINER/OWNER": "Richard Fahey\nMiddleham Park Racing LXXIII",
+        "DISTANCES/TIMES": "1m 33.8s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Tancred (IRE)\nBarry McHugh",
+        "TRAINER/OWNER": "Tony Coyle\nThe End Of The Beginning Partnership",
+        "DISTANCES/TIMES": "1m 34.85s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Silver Duke (IRE)\nRob J. Fitzpatrick",
+        "TRAINER/OWNER": "K. R. Burke\nMac Asphalt Ltd",
+        "DISTANCES/TIMES": "1m 35.22s",
+        "SP": "7/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:15PM",
+    "NAME": "THE AIS OFFSHORE TRAINING HANDICAP STAKES (CLASS 6)",
+    "DISTANCE": "1m 4f 93y",
+    "WINNER": "Kathlatino",
+    "URL": "result/#!/2014/651/1213/0/",
+    "details": {
+      "Runners:": "15 RUNNERS",
+      "Prize Money:": "£3,000.00",
+      "Race Distance:": "1m 4f 93y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "46-60",
+      "Min Weight:": "8st 7lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Kathlatino (GB)\nDuran Fentiman",
+        "TRAINER/OWNER": "Micky Hammond\n50/50 Racing Club",
+        "DISTANCES/TIMES": "2m 50.24s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "My Destination (IRE)\nJason Hart",
+        "TRAINER/OWNER": "Declan Carroll\nMrs Sarah Bryan",
+        "DISTANCES/TIMES": "2m 50.37s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Politbureau (GB)\nBarry McHugh",
+        "TRAINER/OWNER": "Michael Easterby\nW. H. & Mrs J. A. Tinning",
+        "DISTANCES/TIMES": "2m 50.39s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Amazing Blue Sky (GB)\nP. J. McDonald",
+        "TRAINER/OWNER": "Ruth Carr\nG Scruton, D Williamson & R Carr",
+        "DISTANCES/TIMES": "2m 50.97s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Rainford Glory (IRE)\nDavid Nolan",
+        "TRAINER/OWNER": "Richard Fahey\nDr Marwan Koukash",
+        "DISTANCES/TIMES": "2m 50.99s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "District Attorney (IRE)\nMichael Stainton",
+        "TRAINER/OWNER": "Chris Fairhurst\nThe PQD Partnership",
+        "DISTANCES/TIMES": "2m 51.41s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Bold And Free (GB)\nStevie Donohoe",
+        "TRAINER/OWNER": "David Thompson\nThe Perfect Mix Racing Club",
+        "DISTANCES/TIMES": "2m 51.6s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Captain Rhyric (GB)\nJoe Fanning",
+        "TRAINER/OWNER": "James Moffatt\nBowes Lodge Stables",
+        "DISTANCES/TIMES": "2m 53.73s",
+        "SP": "22/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Samoan (IRE)\nPaddy Mathers",
+        "TRAINER/OWNER": "Alan Berry\nMr A. B. Parr",
+        "DISTANCES/TIMES": "2m 53.9s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Comical (GB)\nBen Curtis",
+        "TRAINER/OWNER": "George Moore\nThe Comedians",
+        "DISTANCES/TIMES": "2m 55.53s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Slip of A Girl (IRE)\nJack Garritty",
+        "TRAINER/OWNER": "Patrick Holmes\nFPR Syndicate 2",
+        "DISTANCES/TIMES": "2m 56.8s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Authentication (GB)\nDavid Allan",
+        "TRAINER/OWNER": "Mel Brittain\nMr Mel Brittain",
+        "DISTANCES/TIMES": "2m 57.67s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "13th",
+        "HORSE/JOCKEY": "Yorkshireman (IRE)\nPaddy Aspell",
+        "TRAINER/OWNER": "Lynn Siddall\nMiss J. M. Slater",
+        "DISTANCES/TIMES": "3m 0.04s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "14th",
+        "HORSE/JOCKEY": "Frank's Folly (IRE)\nGraham Gibbons",
+        "TRAINER/OWNER": "Mark Walford\nMrs F Horsfield, D Dickson & J Walford",
+        "DISTANCES/TIMES": "3m 5.79s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "15th",
+        "HORSE/JOCKEY": "Mrs Gorsky (GB)\nAndrew Mullen",
+        "TRAINER/OWNER": "Patrick Holmes\nFoulrice Park Racing Limited",
+        "DISTANCES/TIMES": "3m 17.56s",
+        "SP": "100/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:50PM",
+    "NAME": "THE O'BRIEN WASTE RECYLING SOLUTIONS HANDICAP STAKES (CLASS 4)",
+    "DISTANCE": "2m 19y",
+    "WINNER": "Moidore",
+    "URL": "result/#!/2014/651/21230/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£7,250.00",
+      "Race Distance:": "2m 19y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "66-85",
+      "Min Weight:": "8st 5lbs",
+      "Weights Raised:": "2lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Moidore (GB)\nI. J. Brennan",
+        "TRAINER/OWNER": "John Quinn\nEstio Pinnacle Racing",
+        "DISTANCES/TIMES": "3m 41.68s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Nashville (IRE)\nDavid Nolan",
+        "TRAINER/OWNER": "Richard Fahey\nDr Marwan Koukash",
+        "DISTANCES/TIMES": "3m 41.78s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Rosairlie (IRE)\nP. J. McDonald",
+        "TRAINER/OWNER": "Micky Hammond\nLate Night Drinkers & Wishful Thinkers",
+        "DISTANCES/TIMES": "3m 42s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Mr Snoozy (GB)\nJason Hart",
+        "TRAINER/OWNER": "Mark Walford\nMr T. W. Heseltine",
+        "DISTANCES/TIMES": "3m 42.32s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Cape Tribulation (GB)\nDaniel Tudhope",
+        "TRAINER/OWNER": "Malcolm Jefferson\nMr J. David Abell",
+        "DISTANCES/TIMES": "3m 42.79s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Albonny (IRE)\nRob J. Fitzpatrick",
+        "TRAINER/OWNER": "Timothy Jarvis\nMohamed Alhameli & Partners",
+        "DISTANCES/TIMES": "3m 44.35s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Nafaath (IRE)\nConnor Beasley",
+        "TRAINER/OWNER": "Donald McCain\nSarah & Wayne Dale",
+        "DISTANCES/TIMES": "3m 44.37s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Arr' Kid (USA)\nGraham Gibbons",
+        "TRAINER/OWNER": "Keith Dalgleish\nWeldspec Glasgow Limited",
+        "DISTANCES/TIMES": "3m 45.75s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Categorical (GB)\nMiss Emma Sayer",
+        "TRAINER/OWNER": "Keith Reveley\nRug, Grub & Pub Partnership",
+        "DISTANCES/TIMES": "3m 46.16s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Man of Plenty (GB)\nPaul Mulrennan",
+        "TRAINER/OWNER": "Ed Dunlop\nBluehills Racing Limited",
+        "DISTANCES/TIMES": "4m 1.07s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Sir Frank Morgan (IRE)\nJoe Fanning",
+        "TRAINER/OWNER": "Mark Johnston\nMr Paul Dean",
+        "DISTANCES/TIMES": "4m 5.7s",
+        "SP": "11/2"
+      }
+    ]
+  },
+  {
+    "TIME": "4:25PM",
+    "NAME": "THE KNIGHT FRANK CUP FILLIES' HANDICAP STAKES (CLASS 5)",
+    "DISTANCE": "1m 3y",
+    "WINNER": "Polar Eyes",
+    "URL": "result/#!/2014/651/1210/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£4,000.00",
+      "Race Distance:": "1m 3y",
+      "Race Going:": "Soft",
+      "Horse Age:": "3YO",
+      "Horse Sex:": "FILLIES & MARES",
+      "Rating:": "61-75",
+      "Min Weight:": "8st 7lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Polar Eyes (GB)\nJordan Nason",
+        "TRAINER/OWNER": "Peter Chapple-Hyam\nThe Illusionists",
+        "DISTANCES/TIMES": "1m 45.15s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Maiden Approach (GB)\nGeorge Chaloner",
+        "TRAINER/OWNER": "Richard Fahey\nMiddleham Park Racing LXVII",
+        "DISTANCES/TIMES": "1m 45.54s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Irondale Express (GB)\nBarry McHugh",
+        "TRAINER/OWNER": "Tony Coyle\nMr W. P. Flynn",
+        "DISTANCES/TIMES": "1m 46s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Thatchereen (IRE)\nLouis Steward",
+        "TRAINER/OWNER": "Michael Bell\nMr T Redman And Mr P Philipps",
+        "DISTANCES/TIMES": "1m 46.17s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Dalmarella Dancer (IRE)\nJoey Haynes",
+        "TRAINER/OWNER": "K. R. Burke\nDr M E Glaze & Mr I Mcinnes",
+        "DISTANCES/TIMES": "1m 46.53s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Coin Broker (IRE)\nDaniel Tudhope",
+        "TRAINER/OWNER": "David O'Meara\nMichael Tabor & Mrs John Magnier",
+        "DISTANCES/TIMES": "1m 48.61s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "L'Artiste (IRE)\nI. J. Brennan",
+        "TRAINER/OWNER": "John Quinn\nMr & Mrs Paul Gaffney",
+        "DISTANCES/TIMES": "1m 51.3s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Tiffany Bay (IRE)\nR. P. Whelan",
+        "TRAINER/OWNER": "J. P. Shanahan (Ireland)\nThistle Bloodstock Limited",
+        "DISTANCES/TIMES": "1m 52.78s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Lady Red Oak (GB)\nGraham Gibbons",
+        "TRAINER/OWNER": "Tom Dascombe\nMr D. R. Passant",
+        "DISTANCES/TIMES": "1m 54.85s",
+        "SP": "7/1"
+      }
+    ]
+  },
+  {
+    "TIME": "5:00PM",
+    "NAME": "THE NRG FAVOURITES IN RECRUITMENT nrgplc.com HANDICAP STAKES (CLASS 6) (DIV I)",
+    "DISTANCE": "1m 3y",
+    "WINNER": "Tortoise",
+    "URL": "result/#!/2014/651/1212/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£3,000.00",
+      "Race Distance:": "1m 3y",
+      "Race Going:": "Soft",
+      "Horse Age:": "3YO",
+      "Rating:": "46-60",
+      "Min Weight:": "8st 7lbs",
+      "Weights Raised:": "1lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Tortoise (GB)\nConnor Beasley",
+        "TRAINER/OWNER": "Richard Guest\nResdev",
+        "DISTANCES/TIMES": "1m 47.07s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Vosne Romanee (GB)\nJoe Fanning",
+        "TRAINER/OWNER": "Keith Dalgleish\nStraightline Construction Ltd",
+        "DISTANCES/TIMES": "1m 47.99s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Dutch Lady (GB)\nStevie Donohoe",
+        "TRAINER/OWNER": "John Holt\nDavid Botterill & John Guest",
+        "DISTANCES/TIMES": "1m 48.1s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Marlismamma (FR)\nJulie Burke",
+        "TRAINER/OWNER": "David O'Meara\nTrendy Ladies",
+        "DISTANCES/TIMES": "1m 49s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Gee Sharp (GB)\nBarry McHugh",
+        "TRAINER/OWNER": "Julie Camacho\nAxom XLIV",
+        "DISTANCES/TIMES": "1m 49.15s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Oriental Dream (IRE)\nAndrew Mullen",
+        "TRAINER/OWNER": "Nigel Tinkler\nLeeds Plywood and Doors Ltd",
+        "DISTANCES/TIMES": "1m 49.66s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Ofelia (IRE)\nDale Swift",
+        "TRAINER/OWNER": "Brian Ellison\nMr Dan Gilbert",
+        "DISTANCES/TIMES": "1m 49.94s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Winter Picnic (IRE)\nDuran Fentiman",
+        "TRAINER/OWNER": "Tim Easterby\nMr P. Bamford",
+        "DISTANCES/TIMES": "1m 50.61s",
+        "SP": "10/1"
+      }
+    ]
+  },
+  {
+    "TIME": "5:35PM",
+    "NAME": "THE NRG FAVOURITES IN RECRUITMENT nrgplc.com HANDICAP STAKES (CLASS 6) (DIV II)",
+    "DISTANCE": "1m 3y",
+    "WINNER": "It's All A Game",
+    "URL": "result/#!/2014/651/1212/1/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£3,000.00",
+      "Race Distance:": "1m 3y",
+      "Race Going:": "Soft",
+      "Horse Age:": "3YO",
+      "Rating:": "46-60",
+      "Min Weight:": "8st 7lbs",
+      "Weights Raised:": "1lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "It's All A Game (GB)\nConnor Beasley",
+        "TRAINER/OWNER": "Richard Guest\nViscount Environmental Ltd",
+        "DISTANCES/TIMES": "1m 45.02s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Green Zone (IRE)\nAndrew Mullen",
+        "TRAINER/OWNER": "Nigel Tinkler\nSunrise",
+        "DISTANCES/TIMES": "1m 45.68s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sicilian Bay (IRE)\nPaul Mulrennan",
+        "TRAINER/OWNER": "Paul Midgley\nSandfield Racing",
+        "DISTANCES/TIMES": "1m 46.4s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Halloween Moon (GB)\nShirley Teasdale",
+        "TRAINER/OWNER": "James Bethell\nClarendon Thoroughbred Racing",
+        "DISTANCES/TIMES": "1m 46.88s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Notts So Blue (GB)\nDale Swift",
+        "TRAINER/OWNER": "Shaun Harris\nwww.nottinghamshireracing.co.uk (2)",
+        "DISTANCES/TIMES": "1m 46.88s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Bourbon Prince (GB)\nLouis Steward",
+        "TRAINER/OWNER": "Michael Bell\nMr Robert Frosell",
+        "DISTANCES/TIMES": "1m 47.26s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Skinny Latte (GB)\nPaddy Mathers",
+        "TRAINER/OWNER": "Micky Hammond\nMocachino",
+        "DISTANCES/TIMES": "1m 47.98s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Modify (GB)\nDaniel Tudhope",
+        "TRAINER/OWNER": "David O'Meara\nMrs F. Denniff",
+        "DISTANCES/TIMES": "1m 49.79s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Moxey (GB)\nP. J. McDonald",
+        "TRAINER/OWNER": "John Davies\nMr & Mrs R. Scott",
+        "DISTANCES/TIMES": "1m 56.13s",
+        "SP": "14/1"
+      }
+    ]
+  },
+  {
+    "TIME": "6:05PM",
+    "NAME": "THE TSG IT & TELECOMS HANDICAP STAKES (CLASS 5)",
+    "DISTANCE": "5f",
+    "WINNER": "Harrogate Fair",
+    "URL": "result/#!/2014/651/1207/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£4,000.00",
+      "Race Distance:": "5f",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "56-70",
+      "Min Weight:": "8st 7lbs",
+      "Weights Raised:": "1lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Harrogate Fair (GB)\nJoe Fanning",
+        "TRAINER/OWNER": "Michael Squance\nMiss K. Squance",
+        "DISTANCES/TIMES": "1m 2.13s",
+        "SP": "4/5"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Windforpower (IRE)\nPaul Pickard",
+        "TRAINER/OWNER": "Tracy Waggott\nMr David Tate",
+        "DISTANCES/TIMES": "1m 2.25s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Lees Anthem (GB)\nDavid Allan",
+        "TRAINER/OWNER": "Mel Brittain\nMr P. J. McMahon",
+        "DISTANCES/TIMES": "1m 2.42s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Tuibama (IRE)\nDale Swift",
+        "TRAINER/OWNER": "Tracy Waggott\nMr H. Conlon",
+        "DISTANCES/TIMES": "1m 2.71s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Sunrise Dance (GB)\nConnor Beasley",
+        "TRAINER/OWNER": "Robert Johnson\nMr M. Saunders",
+        "DISTANCES/TIMES": "1m 4.15s",
+        "SP": "16/1"
+      }
+    ]
+  }
+]

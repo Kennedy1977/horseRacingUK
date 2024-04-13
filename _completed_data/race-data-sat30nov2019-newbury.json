@@ -1,0 +1,786 @@
+[
+  {
+    "TIME": "12:05PM",
+    "NAME": "THE LADBROKES \"WHERE THE NATION PLAYS\" MARES' NOVICES' HURDLE RACE (CLASS 1) (Listed Race) (NHMOPS Bonus Race)",
+    "DISTANCE": "2m 129y",
+    "WINNER": "Floressa (FR)",
+    "URL": "result/#!/2019/1178/24174/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£25,000.00",
+      "Race Distance:": "2m 129y",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Horse Sex:": "FILLIES & MARES",
+      "Handicapper:": "David Dickinson"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Floressa (FR)\nNico de Boinville",
+        "TRAINER/OWNER": "Nicky Henderson\nJust Four Men",
+        "DISTANCES/TIMES": "3m 54.2s",
+        "SP": "10/11"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Jeremys Flame (IRE)\nRobbie Power",
+        "TRAINER/OWNER": "Gavin Cromwell\nFlushfarm Racing Syndicate",
+        "DISTANCES/TIMES": "*1½ length\n3m 54.47s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Silver Forever (IRE)\nHarry Cobden",
+        "TRAINER/OWNER": "Paul Nicholls\nMr Colm Donlon",
+        "DISTANCES/TIMES": "4½ lengths\n3m 55.47s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Heaven Help Us (IRE)\nP. Townend",
+        "TRAINER/OWNER": "P. Hennessy\nMr J. Turner",
+        "DISTANCES/TIMES": "6 lengths\n3m 56.85s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Nikap (FR)\nDavid Noonan",
+        "TRAINER/OWNER": "Nigel Hawke\nKapinhand",
+        "DISTANCES/TIMES": "2¼ lengths\n3m 57.37s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Early Morning Rain (FR)\nSean Bowen",
+        "TRAINER/OWNER": "Jamie Snowden\nMrs J A Thomas & Heart Racing",
+        "DISTANCES/TIMES": "9 lengths\n3m 59.31s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Valse Au Taillons (FR)\nTom Cannon",
+        "TRAINER/OWNER": "Johnny Farrelly\nHanford's Chemist Ltd",
+        "DISTANCES/TIMES": "14 lengths\n4m 2.43s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Martha Brae (GB)\nRichard Johnson\nCurrent handicap mark: H:126",
+        "TRAINER/OWNER": "Warren Greatrex\nMrs R. Vaughan",
+        "DISTANCES/TIMES": "35 lengths\n4m 10.21s",
+        "SP": "66/1"
+      }
+    ]
+  },
+  {
+    "TIME": "12:40PM",
+    "NAME": "THE LADBROKES JOHN FRANCOME NOVICES' STEEPLE CHASE (CLASS 1) (Grade 2)",
+    "DISTANCE": "2m 7f 126y",
+    "WINNER": "Danny Whizzbang (IRE)",
+    "URL": "result/#!/2019/1178/4965/0/",
+    "details": {
+      "Runners:": "3 RUNNERS",
+      "Prize Money:": "£40,000.00",
+      "Race Distance:": "2m 7f 126y",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Handicapper:": "Martin Greenwood"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Danny Whizzbang (IRE)\nHarry Cobden\nBHA Performance Figure: 145",
+        "TRAINER/OWNER": "Paul Nicholls\nMrs Angela Tincknell",
+        "DISTANCES/TIMES": "5m 56.6s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Reserve Tank (IRE)\nRobbie Power\nBHA Performance Figure: 146",
+        "TRAINER/OWNER": "Colin Tizzard\nThe Reserve Tankers",
+        "DISTANCES/TIMES": "4 lengths\n5m 57.51s",
+        "SP": "1/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Ardlethen (IRE)\nHarry Skelton\nBHA Performance Figure: 137",
+        "TRAINER/OWNER": "Dan Skelton\nMike and Eileen Newbould",
+        "DISTANCES/TIMES": "4½ lengths\n5m 58.55s",
+        "SP": "7/2"
+      }
+    ]
+  },
+  {
+    "TIME": "1:15PM",
+    "NAME": "THE SIR PETER O'SULLEVAN MEMORIAL HANDICAP STEEPLE CHASE (CLASS 2)",
+    "DISTANCE": "2m 6f 133y",
+    "WINNER": "Bennys King (IRE)",
+    "URL": "result/#!/2019/1178/4974/0/",
+    "details": {
+      "Runners:": "16 RUNNERS",
+      "Prize Money:": "£40,000.00",
+      "Race Distance:": "2m 6f 133y",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-145",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Michael Harris"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Bennys King (IRE)\nHarry Skelton\nHandicap Ran Off:134\nBHA Performance Figure: 145\nCurrent handicap mark: S:132",
+        "TRAINER/OWNER": "Dan Skelton\nMezzone Family",
+        "DISTANCES/TIMES": "5m 35.4s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Sametegal (FR)\nHarry Cobden\nHandicap Ran Off:137\nBHA Performance Figure: 141",
+        "TRAINER/OWNER": "Paul Nicholls\nMr and Mrs J. D. Cotton",
+        "DISTANCES/TIMES": "6 lengths\n5m 36.63s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "As You Like (IRE)\nJonjo O'Neill Jr.\nHandicap Ran Off:129\nBHA Performance Figure: 129",
+        "TRAINER/OWNER": "Jonjo O'Neill\nMr John P. McManus",
+        "DISTANCES/TIMES": "4½ lengths\n5m 37.65s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Highway One O One (IRE)\nTom Cannon\nHandicap Ran Off:144\nBHA Performance Figure: 143\nCurrent handicap mark: S:108 H:108",
+        "TRAINER/OWNER": "Chris Gordon\nMr Anthony Ward-Thomas",
+        "DISTANCES/TIMES": "½ length\n5m 37.76s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Cap du Nord (FR)\nJames Bowen\nHandicap Ran Off:124\nBHA Performance Figure: 123\nCurrent handicap mark: S:121",
+        "TRAINER/OWNER": "Christian Williams\nThe Unnamed Favourites",
+        "DISTANCES/TIMES": "Nose\n5m 37.76s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Wilde Blue Yonder (IRE)\nTom Bellamy\nHandicap Ran Off:132\nBHA Performance Figure: 129",
+        "TRAINER/OWNER": "Alan King\nMaybe Only Fools Have Horses",
+        "DISTANCES/TIMES": "2½ lengths\n5m 38.32s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Minella For Me (IRE)\nJonathan Burke\nHandicap Ran Off:126\nBHA Performance Figure: 121",
+        "TRAINER/OWNER": "Tom George\nMr Simon W. Clarke",
+        "DISTANCES/TIMES": "2¾ lengths\n5m 38.92s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Larry (GB)\nJamie Moore\nHandicap Ran Off:142\nBHA Performance Figure: 132\nCurrent handicap mark: S:132",
+        "TRAINER/OWNER": "Gary Moore\nGalloping On The South Downs Partnership",
+        "DISTANCES/TIMES": "6 lengths\n5m 40.26s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Joueur Bresilien (FR)\nLeighton Aspell\nHandicap Ran Off:127\nBHA Performance Figure: 115",
+        "TRAINER/OWNER": "Rebecca Curtis\nInthewayboy Group",
+        "DISTANCES/TIMES": "2¾ lengths\n5m 40.89s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Utility (GER)\nSean Houlihan\nHandicap Ran Off:135\nBHA Performance Figure: 123",
+        "TRAINER/OWNER": "Sophie Leech\nMr James Finch",
+        "DISTANCES/TIMES": "Neck\n5m 40.97s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Molineaux (IRE)\nRobbie Power\nHandicap Ran Off:128\nBHA Performance Figure: 113",
+        "TRAINER/OWNER": "Colin Tizzard\nJohn and Heather Snook",
+        "DISTANCES/TIMES": "3¼ lengths\n5m 41.67s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Jerrysback (IRE)\nRichie McLernon\nHandicap Ran Off:145\nBHA Performance Figure: 113\nCurrent handicap mark: S:132",
+        "TRAINER/OWNER": "Philip Hobbs\nMr John P. McManus",
+        "DISTANCES/TIMES": "20 lengths\n5m 46.12s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Westend Story (IRE)\nRichard Johnson\nHandicap Ran Off:134\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Philip Hobbs\nMick Fitzgerald Racing Club",
+        "SP": "9/2"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Tiquer (FR)\nTom Scudamore\nHandicap Ran Off:127\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Alan Jones\nBurnham P & D Ltd",
+        "SP": "33/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Divine Spear (IRE)\nNico de Boinville\nHandicap Ran Off:135\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Nicky Henderson\nMiddleham Park Racing LXII",
+        "SP": "12/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Rocky's Treasure (IRE)\nDavid Bass\nHandicap Ran Off:145\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Kim Bailey\nMr J. Perriss",
+        "SP": "10/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Drumcliff (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Harry Fry\nMr John P. McManus",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "1:50PM",
+    "NAME": "THE GET YOUR LADBROKES £1 FREE BET TODAY HANDICAP HURDLE RACE (CLASS 2)",
+    "DISTANCE": "2m 4f 188y",
+    "WINNER": "The Cashel Man (IRE)",
+    "URL": "result/#!/2019/1178/24087/0/",
+    "details": {
+      "Runners:": "16 RUNNERS",
+      "Prize Money:": "£40,000.00",
+      "Race Distance:": "2m 4f 188y",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-150",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Andrew Mealor"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Coeur Blimey (IRE)\nLucy Gardner\nHandicap Ran Off:131\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Susan Gardner\nKeith Harris & Tom Gardner",
+        "SP": "33/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Downtown Getaway (IRE)\nNico de Boinville\nHandicap Ran Off:131\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Nicky Henderson\nT. F. P.",
+        "SP": "15/8"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "The Cashel Man (IRE)\nJeremiah McGrath\nHandicap Ran Off:130\nBHA Performance Figure: 143",
+        "TRAINER/OWNER": "Nicky Henderson\nMrs Fitri Hay",
+        "DISTANCES/TIMES": "4m 49.1s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Mr Pumblechook (GB)\nAlexander Thorne\nHandicap Ran Off:125\nBHA Performance Figure: 128",
+        "TRAINER/OWNER": "Alan King\nMr David Sewell",
+        "DISTANCES/TIMES": "10 lengths\n4m 51.32s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Star of Lanka (IRE)\nBen Jones\nHandicap Ran Off:132\nBHA Performance Figure: 131",
+        "TRAINER/OWNER": "Warren Greatrex\nJ&R Eynon,Little,Roberts,Dowley&Turner",
+        "DISTANCES/TIMES": "4 lengths\n4m 52.25s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Howling Milan (IRE)\nRobert Dunne\nHandicap Ran Off:127\nBHA Performance Figure: 122\nCurrent handicap mark: H:96",
+        "TRAINER/OWNER": "Samuel Drinkwater\nStrensham Stragglers",
+        "DISTANCES/TIMES": "4 lengths\n4m 53.18s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Pride of Lecale (GB)\nConnor Brace\nHandicap Ran Off:124\nBHA Performance Figure: 117",
+        "TRAINER/OWNER": "Fergal O'Brien\nNoel Fehily Racing Syndicate 01",
+        "DISTANCES/TIMES": "2¼ lengths\n4m 53.67s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Nordic Combined (IRE)\nTom Scudamore\nHandicap Ran Off:124\nBHA Performance Figure: 113",
+        "TRAINER/OWNER": "David Pipe\nChris & David Stam",
+        "DISTANCES/TIMES": "4 lengths\n4m 54.6s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Soul Emotion (FR)\nJames Bowen\nHandicap Ran Off:150\nBHA Performance Figure: 136",
+        "TRAINER/OWNER": "Nicky Henderson\nMr and Mrs J. D. Cotton",
+        "DISTANCES/TIMES": "3¾ lengths\n4m 55.42s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Peter The Mayo Man (IRE)\nHarry Skelton\nHandicap Ran Off:133\nBHA Performance Figure: 111",
+        "TRAINER/OWNER": "Dan Skelton\nCraig & Laura Buckingham",
+        "DISTANCES/TIMES": "9 lengths\n4m 57.43s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Snow Leopardess (GB)\nAidan Coleman\nHandicap Ran Off:130\nBHA Performance Figure: 95",
+        "TRAINER/OWNER": "Charlie Longsdon\nMrs O. Fox-Pitt",
+        "DISTANCES/TIMES": "14 lengths\n5m 0.5s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Lord Napier (IRE)\nRichard Johnson\nHandicap Ran Off:144\nBHA Performance Figure: 97",
+        "TRAINER/OWNER": "Peter Bowen\nMr F. Lloyd",
+        "DISTANCES/TIMES": "13 lengths\n5m 3.31s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Jenkins (IRE)\nJonathan Burke\nHandicap Ran Off:138\nBHA Performance Figure: 86",
+        "TRAINER/OWNER": "Charlie Longsdon\nMrs J. A. Wakefield",
+        "DISTANCES/TIMES": "5 lengths\n5m 4.52s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Limited Reserve (IRE)\nJamie Moore\nHandicap Ran Off:134\nBHA Performance Figure: 79",
+        "TRAINER/OWNER": "Christian Williams\nAll Stars Sports Racing",
+        "DISTANCES/TIMES": "3¼ lengths\n5m 5.21s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "13th",
+        "HORSE/JOCKEY": "Silver Kayf (GB)\nDavid Bass\nHandicap Ran Off:129\nBHA Performance Figure: 73",
+        "TRAINER/OWNER": "Kim Bailey\nThe Lucky Spinners",
+        "DISTANCES/TIMES": "1¼ length\n5m 5.47s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "14th",
+        "HORSE/JOCKEY": "Dan McGrue (IRE)\nHarry Cobden\nHandicap Ran Off:137\nBHA Performance Figure: 72",
+        "TRAINER/OWNER": "Paul Nicholls\nMr&Mrs P.K.Barber, D. Bennett, D. Martin",
+        "DISTANCES/TIMES": "10 lengths\n5m 7.67s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Man of Plenty (GB)\nNon Runner",
+        "TRAINER/OWNER": "Sophie Leech\nMr G. Thompson",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "2:25PM",
+    "NAME": "THE LADBROKES \"WHERE THE NATION PLAYS\" INTERMEDIATE HURDLE (CLASS 1) (A LIMITED HANDICAP) (REGISTERED AS THE GERRY FEILDEN HURDLE) (Listed Race)",
+    "DISTANCE": "2m 129y",
+    "WINNER": "Epatante (FR)",
+    "URL": "result/#!/2019/1178/4971/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£50,000.00",
+      "Race Distance:": "2m 129y",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-155",
+      "Min Weight:": "10st 4lbs",
+      "Weights Raised:": "1lbs",
+      "Handicapper:": "David Dickinson"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Epatante (FR)\nAidan Coleman\nHandicap Ran Off:137\nBHA Performance Figure: 150",
+        "TRAINER/OWNER": "Nicky Henderson\nMr John P. McManus",
+        "DISTANCES/TIMES": "3m 53.9s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "French Crusader (FR)\nNico de Boinville\nHandicap Ran Off:135\nBHA Performance Figure: 139",
+        "TRAINER/OWNER": "Nicky Henderson\nMr Robert Kirkland",
+        "DISTANCES/TIMES": "6 lengths\n3m 55.24s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Elusive Belle (IRE)\nMr Sam Waley-Cohen\nHandicap Ran Off:134\nBHA Performance Figure: 133",
+        "TRAINER/OWNER": "Nicky Henderson\nMr Robert Waley-Cohen",
+        "DISTANCES/TIMES": "4 lengths\n3m 56.14s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Crooks Peak (GB)\nRichard Johnson\nHandicap Ran Off:134\nBHA Performance Figure: 126",
+        "TRAINER/OWNER": "Philip Hobbs\nMr Andy Tilley",
+        "DISTANCES/TIMES": "6 lengths\n3m 57.51s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Scarlet Dragon (GB)\nTom Cannon\nHandicap Ran Off:141\nBHA Performance Figure: 132",
+        "TRAINER/OWNER": "Alan King\nHP Racing Scarlet Dragon",
+        "DISTANCES/TIMES": "1 length\n3m 57.72s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Beat The Judge (IRE)\nJoshua Moore\nHandicap Ran Off:140\nBHA Performance Figure: 129",
+        "TRAINER/OWNER": "Gary Moore\nMr Ed Babington",
+        "DISTANCES/TIMES": "1½ length\n3m 58.02s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Storm Goddess (IRE)\nRobert Dunne\nHandicap Ran Off:122\nBHA Performance Figure: 102",
+        "TRAINER/OWNER": "Charlie Longsdon\nDon Sebastiao Partnership",
+        "DISTANCES/TIMES": "8 lengths\n3m 59.78s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Elvis Mail (FR)\nLucy Alexander\nHandicap Ran Off:138\nBHA Performance Figure: 115\nCurrent handicap mark: S:143 H:136",
+        "TRAINER/OWNER": "N. W. Alexander\nThe Ladies Who",
+        "DISTANCES/TIMES": "2¾ lengths\n4m 0.41s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Christopher Wood (IRE)\nHarry Cobden\nHandicap Ran Off:140\nBHA Performance Figure: 107\nCurrent handicap mark: S:122",
+        "TRAINER/OWNER": "Paul Nicholls\nMs Sharon Kinsella",
+        "DISTANCES/TIMES": "9 lengths\n4m 2.32s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Torcello (IRE)\nMarc Goldstein\nHandicap Ran Off:123\nBHA Performance Figure: 90",
+        "TRAINER/OWNER": "Shaun Lycett\nMr Dan Gilbert",
+        "DISTANCES/TIMES": "Neck\n4m 2.39s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Antunes (GB)\nHarry Skelton\nHandicap Ran Off:134\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Dan Skelton\nMr Mark Adams",
+        "SP": "10/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Fanfan du Seuil (FR)\nNon Runner\nCurrent handicap mark: S:104",
+        "TRAINER/OWNER": "Tom George\nCrossed Fingers Partnership",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "3:00PM",
+    "NAME": "THE LADBROKES TROPHY STEEPLE CHASE (HANDICAP) (CLASS 1) (Grade 3)",
+    "DISTANCE": "3m 2f 34y",
+    "WINNER": "De Rasher Counter",
+    "URL": "result/#!/2019/1178/4968/0/",
+    "details": {
+      "Runners:": "24 RUNNERS",
+      "Prize Money:": "£250,000.00",
+      "Race Distance:": "3m 2f 34y",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Martin Greenwood"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "De Rasher Counter (GB)\nBen Jones\nHandicap Ran Off:149\nBHA Performance Figure: 155\nCurrent handicap mark: S:130",
+        "TRAINER/OWNER": "Emma Lavelle\nMakin' Bacon Partnership",
+        "DISTANCES/TIMES": "6m 27.4s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "The Conditional (IRE)\nBrendan Powell\nHandicap Ran Off:137\nBHA Performance Figure: 138",
+        "TRAINER/OWNER": "David Bridgwater\nMr P. J. Cave",
+        "DISTANCES/TIMES": "1½ length\n6m 27.71s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Elegant Escape (IRE)\nHarry Cobden\nHandicap Ran Off:160\nBHA Performance Figure: 160\nCurrent handicap mark: S:122",
+        "TRAINER/OWNER": "Colin Tizzard\nMr J. P. Romans",
+        "DISTANCES/TIMES": "½ length\n6m 27.83s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Beware The Bear (IRE)\nJeremiah McGrath\nHandicap Ran Off:158\nBHA Performance Figure: 158",
+        "TRAINER/OWNER": "Nicky Henderson\nMr G. B. Barlow",
+        "DISTANCES/TIMES": "Neck\n6m 27.87s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Dingo Dollar (IRE)\nTom Cannon\nHandicap Ran Off:146\nBHA Performance Figure: 140",
+        "TRAINER/OWNER": "Alan King\nM Warren J Holmes R Kidner & J Wright",
+        "DISTANCES/TIMES": "6 lengths\n6m 29.16s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Mister Malarky (GB)\nJonjo O'Neill Jr.\nHandicap Ran Off:150\nBHA Performance Figure: 143",
+        "TRAINER/OWNER": "Colin Tizzard\nWendy & Malcolm Hezel",
+        "DISTANCES/TIMES": "3 lengths\n6m 29.81s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Joe Farrell (IRE)\nLeighton Aspell\nHandicap Ran Off:144\nBHA Performance Figure: 132",
+        "TRAINER/OWNER": "Rebecca Curtis\nM Sherwood, N Morris & J Turner",
+        "DISTANCES/TIMES": "6 lengths\n6m 31.25s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Brave Eagle (IRE)\nJames Bowen\nHandicap Ran Off:158\nBHA Performance Figure: 142",
+        "TRAINER/OWNER": "Nicky Henderson\nMr Robert Kirkland",
+        "DISTANCES/TIMES": "4½ lengths\n6m 32.2s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Walt (IRE)\nJames Best\nHandicap Ran Off:139\nBHA Performance Figure: 123",
+        "TRAINER/OWNER": "Neil Mulholland\nMr Phil Simmonds",
+        "DISTANCES/TIMES": "Neck\n6m 32.26s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Borice (FR)\nDaryl Jacob\nHandicap Ran Off:147\nBHA Performance Figure: 130",
+        "TRAINER/OWNER": "Gordon Elliott\nMr Simon Munir/Mr Isaac Souede",
+        "DISTANCES/TIMES": "½ length\n6m 32.38s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Daklondike (IRE)\nTom Scudamore\nHandicap Ran Off:147\nBHA Performance Figure: 128",
+        "TRAINER/OWNER": "David Pipe\nProf. Caroline Tisdall",
+        "DISTANCES/TIMES": "2¼ lengths\n6m 32.87s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Yala Enki (FR)\nBryony Frost\nHandicap Ran Off:155\nBHA Performance Figure: 134",
+        "TRAINER/OWNER": "Paul Nicholls\nHills of Ledbury (Aga)",
+        "DISTANCES/TIMES": "3 lengths\n6m 33.52s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "13th",
+        "HORSE/JOCKEY": "Some Chaos (IRE)\nBen Poste\nHandicap Ran Off:145\nBHA Performance Figure: 114",
+        "TRAINER/OWNER": "Michael Scudamore\nMason Scudamore Racing",
+        "DISTANCES/TIMES": "12 lengths\n6m 36.11s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "14th",
+        "HORSE/JOCKEY": "Le Musee (FR)\nDavid Noonan\nHandicap Ran Off:147\nBHA Performance Figure: 113",
+        "TRAINER/OWNER": "Nigel Hawke\nMrs K Hawke, W Simms & Dragonfly Racing",
+        "DISTANCES/TIMES": "3½ lengths\n6m 36.89s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "15th",
+        "HORSE/JOCKEY": "Ok Corral (IRE)\nAidan Coleman\nHandicap Ran Off:151\nBHA Performance Figure: 110",
+        "TRAINER/OWNER": "Nicky Henderson\nMr John P. McManus",
+        "DISTANCES/TIMES": "8 lengths\n6m 38.77s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "16th",
+        "HORSE/JOCKEY": "Two Taffs (IRE)\nHarry Skelton\nHandicap Ran Off:146\nBHA Performance Figure: 91",
+        "TRAINER/OWNER": "Dan Skelton\nWalters Plant Hire & Potter Group",
+        "DISTANCES/TIMES": "17 lengths\n6m 42.47s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "17th",
+        "HORSE/JOCKEY": "Commodore (FR)\nCharlie Deutsch\nHandicap Ran Off:135\nBHA Performance Figure: 79\nCurrent handicap mark: S:127",
+        "TRAINER/OWNER": "Venetia Williams\nMrs C Watson & Mrs S Graham",
+        "DISTANCES/TIMES": "1½ length\n6m 42.82s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Robinsfirth (IRE)\nRichard Johnson\nHandicap Ran Off:153\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Colin Tizzard\nChristine Knowles & Wendy Carter",
+        "SP": "25/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Yorkhill (IRE)\nBrian Hayes\nHandicap Ran Off:154\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "W. P. Mullins\nAndrea & Graham Wylie",
+        "SP": "25/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Cabaret Queen (GB)\nP. Townend\nHandicap Ran Off:146\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "W. P. Mullins\nSyndicates.Racing",
+        "SP": "8/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Regal Encore (IRE)\nRichie McLernon\nHandicap Ran Off:143\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Anthony Honeyball\nMr John P. McManus",
+        "SP": "25/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "On The Blind Side (IRE)\nNico de Boinville\nHandicap Ran Off:149\nBHA Performance Figure: 0\nCurrent handicap mark: H:134",
+        "TRAINER/OWNER": "Nicky Henderson\nMr A. D. Spence",
+        "SP": "8/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "West Approach (GB)\nRobbie Power\nHandicap Ran Off:146\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Colin Tizzard\nJohn and Heather Snook",
+        "SP": "13/2"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Shantou Village (IRE)\nRobert Dunne\nHandicap Ran Off:142\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Neil Mulholland\nMrs Jane Gerard-Pearse",
+        "SP": "40/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:40PM",
+    "NAME": "THE LADBROKES HANDICAP STEEPLE CHASE (CLASS 2) (For the Jim Joel Memorial Trophy)",
+    "DISTANCE": "2m 119y",
+    "WINNER": "Magic Saint (FR)",
+    "URL": "result/#!/2019/1178/4969/0/",
+    "details": {
+      "Runners:": "14 RUNNERS",
+      "Prize Money:": "£40,000.00",
+      "Race Distance:": "2m 119y",
+      "Race Going:": "Good to Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-150",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Chris Nash"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Magic Saint (FR)\nHarry Cobden\nHandicap Ran Off:147\nBHA Performance Figure: 154\nCurrent handicap mark: S:125",
+        "TRAINER/OWNER": "Paul Nicholls\nMr and Mrs J. D. Cotton",
+        "DISTANCES/TIMES": "3m 58.9s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Bun Doran (IRE)\nMr Noel George\nHandicap Ran Off:150\nBHA Performance Figure: 156",
+        "TRAINER/OWNER": "Tom George\nCrossed Fingers Partnership",
+        "DISTANCES/TIMES": "Head\n3m 58.93s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Chesterfield (IRE)\nJeremiah McGrath\nHandicap Ran Off:143\nBHA Performance Figure: 142",
+        "TRAINER/OWNER": "Seamus Mullins\nThe Rumble Racing Club",
+        "DISTANCES/TIMES": "8 lengths\n4m 0.63s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Solar Impulse (FR)\nRobert Dunne\nHandicap Ran Off:126\nBHA Performance Figure: 124",
+        "TRAINER/OWNER": "Ian Williams\nAndy Bell & Fergus Lyons",
+        "DISTANCES/TIMES": "1¼ length\n4m 0.89s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "No Comment (GB)\nRichard Johnson\nHandicap Ran Off:138\nBHA Performance Figure: 131",
+        "TRAINER/OWNER": "Philip Hobbs\nMr John P. McManus",
+        "DISTANCES/TIMES": "5 lengths\n4m 1.94s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Ardmayle (IRE)\nJames Bowen\nHandicap Ran Off:128\nBHA Performance Figure: 113\nCurrent handicap mark: S:96",
+        "TRAINER/OWNER": "Ali Stronge\nThe Wishful Thinkers",
+        "DISTANCES/TIMES": "9 lengths\n4m 3.93s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Double W's (IRE)\nLeighton Aspell\nHandicap Ran Off:141\nBHA Performance Figure: 124",
+        "TRAINER/OWNER": "Ruth Jefferson\nWharton & Wilson",
+        "DISTANCES/TIMES": "1¾ length\n4m 4.31s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Western Miller (IRE)\nAidan Coleman\nHandicap Ran Off:139\nBHA Performance Figure: 120",
+        "TRAINER/OWNER": "Charlie Longsdon\nThe Pantechnicons IV",
+        "DISTANCES/TIMES": "1¾ length\n4m 4.68s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Theo (IRE)\nJonjo O'Neill Jr.\nHandicap Ran Off:142\nBHA Performance Figure: 120",
+        "TRAINER/OWNER": "Dr Richard Newland\nP Jenkins & Partner",
+        "DISTANCES/TIMES": "2¾ lengths\n4m 5.31s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Tree of Liberty (IRE)\nTom Bellamy\nHandicap Ran Off:143\nBHA Performance Figure: 118",
+        "TRAINER/OWNER": "D. J. Jeffreys\nMr Mark E. Smith",
+        "DISTANCES/TIMES": "3¼ lengths\n4m 6.04s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Vengeur de Guye (FR)\nThomas Willmott\nHandicap Ran Off:130\nBHA Performance Figure: 104",
+        "TRAINER/OWNER": "Lucinda Russell\nBrahms & Liszt",
+        "DISTANCES/TIMES": "¾ length\n4m 6.21s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Ashoka (IRE)\nHarry Skelton\nHandicap Ran Off:135\nBHA Performance Figure: 106",
+        "TRAINER/OWNER": "Dan Skelton\nMr Frank McAleavy",
+        "DISTANCES/TIMES": "2¾ lengths\n4m 6.82s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Whatswrongwithyou (IRE)\nNico de Boinville\nHandicap Ran Off:142\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Nicky Henderson\n5 Hertford Street Racing Club",
+        "SP": "9/2"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Dicosimo (FR)\nDaryl Jacob\nHandicap Ran Off:132\nBHA Performance Figure: 117",
+        "TRAINER/OWNER": "Warren Greatrex\nMrs Jill Eynon & Mr Robin Eynon",
+        "SP": "33/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Lady Buttons (GB)\nNon Runner",
+        "TRAINER/OWNER": "Philip Kirby\nMrs Jayne Sivills",
+        "SP": "--"
+      }
+    ]
+  }
+]

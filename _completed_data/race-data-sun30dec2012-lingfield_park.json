@@ -1,0 +1,561 @@
+[
+  {
+    "TIME": "12:00PM",
+    "NAME": "THE AT THE RACES ON FACEBOOK CLAIMING STAKES (CLASS 6)",
+    "DISTANCE": "1m 2f",
+    "WINNER": "Bert The Alert (GB)",
+    "URL": "result/#!/2012/11478/16277/0/",
+    "details": {
+      "Runners:": "3 RUNNERS",
+      "Prize Money:": "£3,200.00",
+      "Race Distance:": "1m 2f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3-4YO"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Bert The Alert (GB)\nFergus Sweeney",
+        "TRAINER/OWNER": "Gary Moore\nHerbert Curwen Hinds & Waddingham",
+        "DISTANCES/TIMES": "2m 11.21s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Honey of A Kitten (USA)\nWilliam Carson",
+        "TRAINER/OWNER": "David Evans\nMrs E. Evans",
+        "DISTANCES/TIMES": "2m 11.37s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Arley Hall (GB)\nLuke Morris",
+        "TRAINER/OWNER": "Brian Ellison\nM Khan X2",
+        "DISTANCES/TIMES": "2m 11.57s",
+        "SP": "4/5"
+      }
+    ]
+  },
+  {
+    "TIME": "12:30PM",
+    "NAME": "THE 32Red.com NURSERY HANDICAP STAKES (CLASS 4)",
+    "DISTANCE": "6f",
+    "WINNER": "Foxtrot Jubilee (IRE)",
+    "URL": "result/#!/2012/11478/16276/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£6,800.00",
+      "Race Distance:": "6f",
+      "Race Going:": "Standard",
+      "Horse Age:": "2YO",
+      "Rating:": "0-85",
+      "Min Weight:": "7st 12lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Foxtrot Jubilee (IRE)\nJim Crowley",
+        "TRAINER/OWNER": "Ralph Beckett\nFoxtrot NH Racing Partnership X",
+        "DISTANCES/TIMES": "1m 11.77s",
+        "SP": "4/9"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Fortinbrass (IRE)\nSeb Sanders",
+        "TRAINER/OWNER": "Ralph Beckett\nHillier, Lawrence, Turney & Goddard",
+        "DISTANCES/TIMES": "1m 11.79s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sofi's Spirit (IRE)\nLuke Morris",
+        "TRAINER/OWNER": "J. S. Moore\nMr J. S. Moore",
+        "DISTANCES/TIMES": "1m 12.38s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Harrogate Fair (GB)\nJimmy Quinn",
+        "TRAINER/OWNER": "Michael Squance\nMr Kevin Daniel Crabb",
+        "DISTANCES/TIMES": "1m 12.39s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Bobby Two Shoes (GB)\nEddie Ahern",
+        "TRAINER/OWNER": "Brett Johnson\nMrs A. M. Upsdell",
+        "DISTANCES/TIMES": "1m 12.78s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Divine Angel (IRE)\nNicky Mackay",
+        "TRAINER/OWNER": "Phil McEntee\nMr Steve Jakes",
+        "DISTANCES/TIMES": "1m 12.79s",
+        "SP": "25/1"
+      }
+    ]
+  },
+  {
+    "TIME": "1:00PM",
+    "NAME": "THE 32RedBet.com SELLING STAKES (CLASS 6)",
+    "DISTANCE": "6f",
+    "WINNER": "Dark Lane (GB)",
+    "URL": "result/#!/2012/11478/16280/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£3,200.00",
+      "Race Distance:": "6f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO+"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Dark Lane (GB)\nAdam Kirby",
+        "TRAINER/OWNER": "David Evans\nMr Jason Tucker",
+        "DISTANCES/TIMES": "1m 11.56s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Beat The Bell (GB)\nMartin Dwyer",
+        "TRAINER/OWNER": "Jamie Osborne\nMr Leslie Marshall",
+        "DISTANCES/TIMES": "1m 11.59s",
+        "SP": "5/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Amenable (IRE)\nWilliam Carson",
+        "TRAINER/OWNER": "Violet M. Jordan\nRakebackmypoker.com",
+        "DISTANCES/TIMES": "1m 12.27s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Ishiamiracle (GB)\nLeonna Mayor",
+        "TRAINER/OWNER": "Phil McEntee\nMr Steve Jakes",
+        "DISTANCES/TIMES": "1m 12.38s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Le King Beau (USA)\nKieran O'Neill",
+        "TRAINER/OWNER": "John Bridger\nMr P. Cook",
+        "DISTANCES/TIMES": "1m 12.42s",
+        "SP": "33/1"
+      }
+    ]
+  },
+  {
+    "TIME": "1:35PM",
+    "NAME": "THE £32 BONUS AT 32Red.com MAIDEN STAKES (CLASS 5)",
+    "DISTANCE": "1m 2f",
+    "WINNER": "Guarda Pampa (GB)",
+    "URL": "result/#!/2012/11478/16279/0/",
+    "details": {
+      "Runners:": "10 RUNNERS",
+      "Prize Money:": "£4,500.00",
+      "Race Distance:": "1m 2f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO",
+      "Horse Type:": "MAIDEN"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Guarda Pampa (GB)\nAdam Beschizza",
+        "TRAINER/OWNER": "William Haggas\nMrs Melba Bryce",
+        "DISTANCES/TIMES": "2m 6.19s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Sugar Lips (GB)\nSeb Sanders",
+        "TRAINER/OWNER": "Simon Dow\nStar Pointe Ltd",
+        "DISTANCES/TIMES": "2m 6.84s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Notabadgirl (GB)\nNicky Mackay",
+        "TRAINER/OWNER": "Simon Dow\nMr Ken Butler",
+        "DISTANCES/TIMES": "2m 7.1s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Morinda (GB)\nLuke Morris",
+        "TRAINER/OWNER": "Ed Walker\nMrs Mette Campbell-Andenaes",
+        "DISTANCES/TIMES": "2m 7.13s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Golden Share (USA)\nAdam Kirby",
+        "TRAINER/OWNER": "Marco Botti\nCuadra Africa",
+        "DISTANCES/TIMES": "2m 8.02s",
+        "SP": "5/4"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Dusty Red (GB)\nJim Crowley",
+        "TRAINER/OWNER": "William Knight\nMr & Mrs John Kelsey-Fry",
+        "DISTANCES/TIMES": "2m 8.56s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Lenny The Great (GB)\nHarry Poulton",
+        "TRAINER/OWNER": "Terry Clement\nSandbanks Racing Partnership",
+        "DISTANCES/TIMES": "2m 9.61s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Rahy's Promise (USA)\nDavid Probert",
+        "TRAINER/OWNER": "Andrew Balding\nMr Evan M. Sutherland",
+        "DISTANCES/TIMES": "2m 10.47s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Kiss My Heart (GB)\nJoey Haynes",
+        "TRAINER/OWNER": "Eric Wheeler\nWedgewood Estates",
+        "DISTANCES/TIMES": "2m 10.5s",
+        "SP": "200/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Bryant Park (USA)\nGeorge Baker",
+        "TRAINER/OWNER": "Michael Wigham\nMr Matt Bartram",
+        "DISTANCES/TIMES": "2m 17.07s",
+        "SP": "20/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:10PM",
+    "NAME": "THE 32Red HANDICAP STAKES (CLASS 3)",
+    "DISTANCE": "1m",
+    "WINNER": "Grey Mirage (GB)",
+    "URL": "result/#!/2012/11478/16278/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£13,000.00",
+      "Race Distance:": "1m",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO+",
+      "Rating:": "81-95",
+      "Min Weight:": "8st 7lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Grey Mirage (GB)\nJimmy Quinn",
+        "TRAINER/OWNER": "Marco Botti\nScuderia Vittadini SRL 1",
+        "DISTANCES/TIMES": "1m 36.37s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Webbow (IRE)\nGeorge Baker",
+        "TRAINER/OWNER": "Julie Camacho\nWentdale Limited",
+        "DISTANCES/TIMES": "1m 36.47s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Lockantanks (GB)\nLuke Morris",
+        "TRAINER/OWNER": "Michael Appleby\nDallas Racing",
+        "DISTANCES/TIMES": "1m 36.57s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Hometown Glory (GB)\nJamie Mackay",
+        "TRAINER/OWNER": "Brian Meehan\nMascalls Stud",
+        "DISTANCES/TIMES": "1m 36.66s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "George Guru (GB)\nMark Coumbe",
+        "TRAINER/OWNER": "Michael Attwater\nMr T. M. Jones",
+        "DISTANCES/TIMES": "1m 36.85s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Embankment (GB)\nSeb Sanders",
+        "TRAINER/OWNER": "William Jarvis\nCanisbay Bloodstock",
+        "DISTANCES/TIMES": "1m 37.53s",
+        "SP": "8/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:45PM",
+    "NAME": "THE 32Red CASINO HANDICAP STAKES (CLASS 5)",
+    "DISTANCE": "1m 4f",
+    "WINNER": "Miss Blakeney (GB)",
+    "URL": "result/#!/2012/11478/24138/0/",
+    "details": {
+      "Runners:": "7 RUNNERS",
+      "Prize Money:": "£4,500.00",
+      "Race Distance:": "1m 4f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO+",
+      "Rating:": "56-70",
+      "Min Weight:": "8st 10lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Miss Blakeney (GB)\nGeorge Baker",
+        "TRAINER/OWNER": "Marcus Tregoning\nMr and Mrs A. E. Pakenham",
+        "DISTANCES/TIMES": "2m 34.29s",
+        "SP": "4/5"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Resplendent Alpha (GB)\nLeonna Mayor",
+        "TRAINER/OWNER": "Jamie Osborne\nMr Leslie Marshall",
+        "DISTANCES/TIMES": "2m 35.02s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Strike Force (GB)\nRobert Tart",
+        "TRAINER/OWNER": "Alison Hutchinson\nMiss A. L. Hutchinson",
+        "DISTANCES/TIMES": "2m 35.06s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Let's Confer (GB)\nJimmy Quinn",
+        "TRAINER/OWNER": "Michael Attwater\nCanisbay Bloodstock",
+        "DISTANCES/TIMES": "2m 35.38s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Strewth (IRE)\nJim Crowley",
+        "TRAINER/OWNER": "John Best\nSimon Malcolm & John Foulger",
+        "DISTANCES/TIMES": "2m 35.92s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Cape Safari (IRE)\nHarry Poulton",
+        "TRAINER/OWNER": "Tim Vaughan\nMiss Magdalena Gut",
+        "DISTANCES/TIMES": "2m 36.16s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Za'lan (USA)\nFergus Sweeney",
+        "TRAINER/OWNER": "Chris Gordon\nMrs Kate Digweed",
+        "DISTANCES/TIMES": "2m 36.7s",
+        "SP": "25/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:20PM",
+    "NAME": "THE 32Red SUPPORTING BRITISH RACING HANDICAP STAKES (CLASS 6) (DIV I)",
+    "DISTANCE": "7f",
+    "WINNER": "Bussa (GB)",
+    "URL": "result/#!/2012/11478/16281/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£3,200.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO+",
+      "Rating:": "46-55",
+      "Min Weight:": "8st 12lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Bussa (GB)\nAdam Kirby",
+        "TRAINER/OWNER": "David Evans\nMr Nick Shutts",
+        "DISTANCES/TIMES": "1m 23.86s",
+        "SP": "6/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "My Scat Daddy (USA)\nEddie Ahern",
+        "TRAINER/OWNER": "Brett Johnson\nMr J. Daniels",
+        "DISTANCES/TIMES": "1m 24.54s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Jonnie Skull (IRE)\nRyan Tate",
+        "TRAINER/OWNER": "Phil McEntee\nEventmaker Racehorses",
+        "DISTANCES/TIMES": "1m 24.55s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Fairy Mist (IRE)\nKieran O'Neill",
+        "TRAINER/OWNER": "John Bridger\nMr J. J. Bridger",
+        "DISTANCES/TIMES": "1m 24.58s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Vale of Lingfield (IRE)\nFergus Sweeney",
+        "TRAINER/OWNER": "John Best\nLingfield Park Owners Club II",
+        "DISTANCES/TIMES": "1m 24.8s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Querido (GER)\nWilliam Twiston-Davies",
+        "TRAINER/OWNER": "Paddy Butler\nHomewoodgate Racing Club",
+        "DISTANCES/TIMES": "1m 24.8s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Great Charm (IRE)\nHarry Poulton",
+        "TRAINER/OWNER": "Sheena West\nSandbanks Racing Club 2",
+        "DISTANCES/TIMES": "1m 24.83s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Not My Choice (IRE)\nJ-P. Guillambert",
+        "TRAINER/OWNER": "Paul Howling\nMr E. W. Gordon",
+        "DISTANCES/TIMES": "1m 24.9s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Kaylee (GB)\nNed Curtis",
+        "TRAINER/OWNER": "Gary Moore\nMr David Phelan",
+        "DISTANCES/TIMES": "1m 25.14s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Steel City Boy (IRE)\nAnn Stokell",
+        "TRAINER/OWNER": "Ann Stokell\nMs Caron Stokell",
+        "DISTANCES/TIMES": "1m 25.93s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Cuthbert (IRE)\nJimmy Quinn",
+        "TRAINER/OWNER": "Michael Attwater\nCanisbay Bloodstock",
+        "DISTANCES/TIMES": "1m 26.01s",
+        "SP": "25/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:50PM",
+    "NAME": "THE 32Red SUPPORTING BRITISH RACING HANDICAP STAKES (CLASS 6) (DIV II)",
+    "DISTANCE": "7f",
+    "WINNER": "Jackie Love (IRE)",
+    "URL": "result/#!/2012/11478/16281/1/",
+    "details": {
+      "Runners:": "12 RUNNERS",
+      "Prize Money:": "£3,200.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO+",
+      "Rating:": "46-55",
+      "Min Weight:": "8st 12lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Jackie Love (IRE)\nNathan Alison",
+        "TRAINER/OWNER": "Olivia Maylam\nMiss Olivia Maylam",
+        "DISTANCES/TIMES": "1m 24.69s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Silly Billy (IRE)\nIan Mongan",
+        "TRAINER/OWNER": "Pat Phelan\nThe Only Pub in the World",
+        "DISTANCES/TIMES": "1m 24.79s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Putin (IRE)\nLeonna Mayor",
+        "TRAINER/OWNER": "Phil McEntee\nMr Steve Jakes",
+        "DISTANCES/TIMES": "1m 24.84s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Renoir's Lady (GB)\nJim Crowley",
+        "TRAINER/OWNER": "Simon Dow\nMalcolm & Alicia Aldis",
+        "DISTANCES/TIMES": "1m 25.02s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Play The Blues (IRE)\nNed Curtis",
+        "TRAINER/OWNER": "Roger Curtis\nThe Cool Blue Partnership",
+        "DISTANCES/TIMES": "1m 25.1s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Schoolboy Champ (GB)\nMark Coumbe",
+        "TRAINER/OWNER": "Lisa Williamson\nOpolski Racing",
+        "DISTANCES/TIMES": "1m 25.36s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Bedibyes (GB)\nLuke Morris",
+        "TRAINER/OWNER": "Richard Mitchell\nMr J. R. Boughey",
+        "DISTANCES/TIMES": "1m 25.39s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Hold The Star (GB)\nAnn Stokell",
+        "TRAINER/OWNER": "Ann Stokell\nMs Caron Stokell",
+        "DISTANCES/TIMES": "1m 25.43s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Flying Kitty (GB)\nKieran O'Neill",
+        "TRAINER/OWNER": "John Bridger\nMr J. J. Bridger",
+        "DISTANCES/TIMES": "1m 25.97s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Chandrayaan (GB)\nSimon Pearce",
+        "TRAINER/OWNER": "John E. Long\nMr R. D. John",
+        "DISTANCES/TIMES": "1m 26.44s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Doctor Hilary (GB)\nFergus Sweeney",
+        "TRAINER/OWNER": "Mark Hoad\nMr J. Baden White",
+        "DISTANCES/TIMES": "1m 26.75s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Onceaponatime (IRE)\nJimmy Quinn",
+        "TRAINER/OWNER": "Michael Squance\nMiss K. Squance",
+        "DISTANCES/TIMES": "1m 28.55s",
+        "SP": "25/1"
+      }
+    ]
+  }
+]

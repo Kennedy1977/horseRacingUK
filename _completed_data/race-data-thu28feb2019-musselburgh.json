@@ -1,0 +1,328 @@
+[
+  {
+    "TIME": "1:35PM",
+    "NAME": "THE WATCH IRISH RACING ON RACINGTV NOVICES' HURDLE RACE (CLASS 4)",
+    "DISTANCE": "1m 7f 155y",
+    "WINNER": "Fisher Green (IRE)",
+    "URL": "result/#!/2019/18228/46281/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£6,400.00",
+      "Race Distance:": "1m 7f 155y",
+      "Race Going:": "Good",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Handicapper:": "David Dickinson"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Fisher Green (IRE)\nDale Irving",
+        "TRAINER/OWNER": "Maurice Barnes\nMr David Carr",
+        "DISTANCES/TIMES": "3m 43s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Golden Wolf (IRE)\nRoss Chapman",
+        "TRAINER/OWNER": "Iain Jardine\nThe Risk Takers Partnership",
+        "DISTANCES/TIMES": "7 lengths\n3m 44.32s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Fourth of July (IRE)\nCallum Bewley",
+        "TRAINER/OWNER": "R. Mike Smith\nQuigley and Smith",
+        "DISTANCES/TIMES": "2½ lengths\n3m 44.83s",
+        "SP": "200/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Mon Ami Bob (GB)\nStephen Mulqueen",
+        "TRAINER/OWNER": "Lucinda Russell\nMr Robert Gibbons",
+        "DISTANCES/TIMES": "22 lengths\n3m 49.23s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Constancio (IRE)\nBrian Hughes",
+        "TRAINER/OWNER": "Donald McCain\nElite Racing Club",
+        "SP": "1/2"
+      }
+    ]
+  },
+  {
+    "TIME": "2:10PM",
+    "NAME": "THE INTRODUCING RACING TV HANDICAP STEEPLE CHASE (CLASS 4)",
+    "DISTANCE": "2m 7f 184y",
+    "WINNER": "So Satisfied",
+    "URL": "result/#!/2019/18228/46282/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£8,800.00",
+      "Race Distance:": "2m 7f 184y",
+      "Race Going:": "Good",
+      "Horse Age:": "5YO+",
+      "Rating:": "0-110",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "3lbs",
+      "Handicapper:": "Martin Greenwood"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "So Satisfied (GB)\nRoss Chapman\nHandicap Ran Off:99\nBHA Performance Figure: 101",
+        "TRAINER/OWNER": "Iain Jardine\nWharton, Nixon, Jardine",
+        "DISTANCES/TIMES": "6m 03s",
+        "SP": "15/8"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Lowanbehold (IRE)\nThomas Willmott\nHandicap Ran Off:102\nBHA Performance Figure: 102",
+        "TRAINER/OWNER": "Sandy Forster\nMr C. Storey",
+        "DISTANCES/TIMES": "½ length\n6m 3.1s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Bafana Blue (GB)\nDale Irving\nHandicap Ran Off:102\nBHA Performance Figure: 101",
+        "TRAINER/OWNER": "Maurice Barnes\nHogarth, Morris, Percival & Irving",
+        "DISTANCES/TIMES": "¾ length\n6m 3.26s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Arizona Bound (IRE)\nBlair Campbell\nHandicap Ran Off:94\nBHA Performance Figure: 77",
+        "TRAINER/OWNER": "Lucinda Russell\nKelso Lowflyers & Mr PJS Russell",
+        "DISTANCES/TIMES": "19 lengths\n6m 7.07s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Samtu (IRE)\nLorcan Murtagh\nHandicap Ran Off:107\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Barry Murtagh\nMr Anthony White",
+        "SP": "2/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:45PM",
+    "NAME": "THE racingtv.com HANDICAP STEEPLE CHASE (CLASS 3)",
+    "DISTANCE": "1m 7f 189y",
+    "WINNER": "Monsieur Co (FR)",
+    "URL": "result/#!/2019/18228/46283/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£12,800.00",
+      "Race Distance:": "1m 7f 189y",
+      "Race Going:": "Good",
+      "Horse Age:": "5YO+",
+      "Rating:": "0-125",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Chris Nash"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Monsieur Co (FR)\nBrian Hughes\nHandicap Ran Off:121\nBHA Performance Figure: 129",
+        "TRAINER/OWNER": "Keith Dalgleish\nThe Gilbert's & Mr Campbell",
+        "DISTANCES/TIMES": "3m 46.6s",
+        "SP": "13/8"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Civil Unrest (IRE)\nSteven Fox\nHandicap Ran Off:111\nBHA Performance Figure: 110",
+        "TRAINER/OWNER": "James Ewart\nAncrum ,CFS, Carruthers, Palmer",
+        "DISTANCES/TIMES": "6 lengths\n3m 47.73s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Boy's On Tour (IRE)\nStephen Mulqueen\nHandicap Ran Off:110\nBHA Performance Figure: 96",
+        "TRAINER/OWNER": "Lucinda Russell\nForesight Racing",
+        "DISTANCES/TIMES": "13 lengths\n3m 50.24s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Contre Tous (FR)\nDanny Cook\nHandicap Ran Off:107\nBHA Performance Figure: 90",
+        "TRAINER/OWNER": "Brian Ellison\nPersonal Racehorse Owners 2",
+        "DISTANCES/TIMES": "2¾ lengths\n3m 50.79s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "John Williams (IRE)\nRachael McDonald\nHandicap Ran Off:109\nBHA Performance Figure: 91",
+        "TRAINER/OWNER": "Sandy Thomson\nMrs Christine Stephenson",
+        "DISTANCES/TIMES": "¾ length\n3m 50.92s",
+        "SP": "7/2"
+      }
+    ]
+  },
+  {
+    "TIME": "3:20PM",
+    "NAME": "THE EVERY RACE LIVE ON RACING TV HANDICAP HURDLE RACE (CLASS 3) (Challenger Stayers Hurdle Series Qualifier)",
+    "DISTANCE": "3m 28y",
+    "WINNER": "Always Lion (IRE)",
+    "URL": "result/#!/2019/18228/46284/0/",
+    "details": {
+      "Runners:": "4 RUNNERS",
+      "Prize Money:": "£11,300.00",
+      "Race Distance:": "3m 28y",
+      "Race Going:": "Good",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-130",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Andrew Mealor"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Always Lion (IRE)\nBrian Hughes\nHandicap Ran Off:120\nBHA Performance Figure: 125",
+        "TRAINER/OWNER": "Iain Jardine\nPaul & Clare Rooney",
+        "DISTANCES/TIMES": "5m 48s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Buckled (GB)\nRachael McDonald\nHandicap Ran Off:109\nBHA Performance Figure: 108",
+        "TRAINER/OWNER": "Sandy Thomson\nMiss Stacey McQueen",
+        "DISTANCES/TIMES": "7 lengths\n5m 49.43s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sky Khan (GB)\nBlair Campbell\nHandicap Ran Off:126\nBHA Performance Figure: 124",
+        "TRAINER/OWNER": "Lucinda Russell\nThe Ormello Way",
+        "DISTANCES/TIMES": "¾ length\n5m 49.56s",
+        "SP": "10/3"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Ballynanty (IRE)\nLucy Alexander\nHandicap Ran Off:110\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "N. W. Alexander\nJ Douglas Miller & Ken McGarrity",
+        "SP": "Evens"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Tawseef (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Donald McCain\nMr D. McCain Jnr",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "3:55PM",
+    "NAME": "THE WATCH RACING TV NOW NOVICES' HANDICAP STEEPLE CHASE (CLASS 4)",
+    "DISTANCE": "2m 4f 82y",
+    "WINNER": "Old Salt (IRE)",
+    "URL": "result/#!/2019/18228/46285/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£8,800.00",
+      "Race Distance:": "2m 4f 82y",
+      "Race Going:": "Good",
+      "Horse Age:": "5YO+",
+      "Horse Type:": "NOVICE",
+      "Rating:": "0-105",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "2lbs",
+      "Handicapper:": "Michael Harris"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Old Salt (IRE)\nAlain Cawley\nHandicap Ran Off:102\nBHA Performance Figure: 106",
+        "TRAINER/OWNER": "Stef Keniry\nMr Aleem Kanji",
+        "DISTANCES/TIMES": "5m 10.2s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "The Road Home (IRE)\nThomas Willmott\nHandicap Ran Off:103\nBHA Performance Figure: 104",
+        "TRAINER/OWNER": "Lucinda Russell\nMrs S Russell & A M Russell",
+        "DISTANCES/TIMES": "2½ lengths\n5m 10.68s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Benny's Secret (IRE)\nLucy Alexander\nHandicap Ran Off:102\nBHA Performance Figure: 101",
+        "TRAINER/OWNER": "N. W. Alexander\nMr Brian Castle",
+        "DISTANCES/TIMES": "1¾ length\n5m 11.04s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Skye Chief (GB)\nCallum Bewley\nHandicap Ran Off:107\nBHA Performance Figure: 105",
+        "TRAINER/OWNER": "Simon Waugh\nMrs S. A. Sutton",
+        "DISTANCES/TIMES": "¾ length\n5m 11.19s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Scorpo (IRE)\nBrian Hughes\nHandicap Ran Off:77\nBHA Performance Figure: 62",
+        "TRAINER/OWNER": "Victor Thompson\nMr V. Thompson",
+        "DISTANCES/TIMES": "15 lengths\n5m 14.13s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Devito'sgoldengirl (IRE)\nStephen Mulqueen\nHandicap Ran Off:86\nBHA Performance Figure: 67",
+        "TRAINER/OWNER": "Lucinda Russell\nCounty Set Five & Peter J S Russell",
+        "DISTANCES/TIMES": "5 lengths\n5m 15.1s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Cool Valley (IRE)\nNon Runner",
+        "TRAINER/OWNER": "William Young Jnr\nMr W. G. Young",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "4:30PM",
+    "NAME": "THE JOIN RACING TV NOW STANDARD OPEN NATIONAL HUNT FLAT RACE (CLASS 5)",
+    "DISTANCE": "1m 7f 155y",
+    "WINNER": "Alright Sunshine (IRE)",
+    "URL": "result/#!/2019/18228/46286/0/",
+    "details": {
+      "Runners:": "4 RUNNERS",
+      "Prize Money:": "£4,500.00",
+      "Race Distance:": "1m 7f 155y",
+      "Race Going:": "Good",
+      "Horse Age:": "4-6YO",
+      "Handicapper:": "Chris Nash"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Alright Sunshine (IRE)\nBrian Hughes",
+        "TRAINER/OWNER": "Keith Dalgleish\nPaul & Clare Rooney",
+        "DISTANCES/TIMES": "3m 29.1s",
+        "SP": "8/11"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Book of Invasions (IRE)\nDavid Noonan",
+        "TRAINER/OWNER": "John Ryan\nMr Gerry McGladery",
+        "DISTANCES/TIMES": "8 lengths\n3m 30.61s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Dothraki Prince (GB)\nSean Quinlan",
+        "TRAINER/OWNER": "Chris Grant\nMr Chris Grant",
+        "DISTANCES/TIMES": "5 lengths\n3m 31.71s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Highate Hill (IRE)\nAidan Coleman",
+        "TRAINER/OWNER": "Olly Murphy\nPatrick & Scott Bryceland",
+        "DISTANCES/TIMES": "36 lengths\n3m 38.85s",
+        "SP": "11/2"
+      }
+    ]
+  }
+]

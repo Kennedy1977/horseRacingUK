@@ -1,0 +1,565 @@
+[
+  {
+    "TIME": "11:45AM",
+    "NAME": "THE EVERY RACE LIVE ON RACING TV MAIDEN HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 6f 165y",
+    "WINNER": "Uptown Harry (IRE)",
+    "URL": "result/#!/2019/968/3637/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£6,000.00",
+      "Race Distance:": "2m 6f 165y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "MAIDEN",
+      "Handicapper:": "Andrew Mealor"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Uptown Harry (IRE)\nRoss Chapman\nCurrent handicap mark: S:103",
+        "TRAINER/OWNER": "Jane Walton\nFresh Start Partnership",
+        "DISTANCES/TIMES": "6m 6.1s",
+        "SP": "7/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Milvale (IRE)\nRyan Mania\nCurrent handicap mark: H:98",
+        "TRAINER/OWNER": "Sandy Thomson\nTrading Products Limited",
+        "DISTANCES/TIMES": "9 lengths\n6m 8.34s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Scullys Forge (IRE)\nDanny McMenamin",
+        "TRAINER/OWNER": "Jackie Stephen\nMrs Jackie Stephen",
+        "DISTANCES/TIMES": "15 lengths\n6m 12.02s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Dancewiththewind (IRE)\nCallum Bewley\nCurrent handicap mark: S:106",
+        "TRAINER/OWNER": "Harriet Graham\nMr G. Adam",
+        "DISTANCES/TIMES": "3¾ lengths\n6m 12.96s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Rintulla (IRE)\nA. P. Heskin",
+        "TRAINER/OWNER": "Ben Pauling\nMcNeill Family",
+        "DISTANCES/TIMES": "6 lengths\n6m 14.58s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Pentelitubby (GB)\nJames Corbett",
+        "TRAINER/OWNER": "Susan Corbett\nMr W. F. Corbett",
+        "DISTANCES/TIMES": "2¼ lengths\n6m 15.15s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Tara Mill (IRE)\nDavid England",
+        "TRAINER/OWNER": "Sam England\nSimon & Angela Gillie",
+        "DISTANCES/TIMES": "3½ lengths\n6m 16.01s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Grumpy Boots (IRE)\nCraig Nichol",
+        "TRAINER/OWNER": "Alistair Whillans\nMr A. Crawford",
+        "DISTANCES/TIMES": "18 lengths\n6m 20.51s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Bright Side Oflife (IRE)\nBrian Hughes",
+        "TRAINER/OWNER": "Donald McCain\nMr T. G. Leslie",
+        "SP": "12/1"
+      }
+    ]
+  },
+  {
+    "TIME": "12:15PM",
+    "NAME": "THE SPG FIRE & SECURITY LTD MARES' HANDICAP HURDLE RACE (CLASS 4) (Northern Lights Mares' Hurdle Series Qualifier)",
+    "DISTANCE": "2m 2f 34y",
+    "WINNER": "Animore",
+    "URL": "result/#!/2019/968/3638/0/",
+    "details": {
+      "Runners:": "12 RUNNERS",
+      "Prize Money:": "£8,059.00",
+      "Race Distance:": "2m 2f 34y",
+      "Race Going:": "Soft",
+      "Horse Age:": "3YO+",
+      "Horse Sex:": "FILLIES & MARES",
+      "Rating:": "0-120",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Gordan Markham"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Animore (GB)\nRoss Chapman\nHandicap Ran Off:101\nBHA Performance Figure: 108",
+        "TRAINER/OWNER": "Iain Jardine\nMrs A. F. Tullie",
+        "DISTANCES/TIMES": "4m 44.9s",
+        "SP": "17/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Sophie Fatale (GB)\nRachael McDonald\nHandicap Ran Off:110\nBHA Performance Figure: 115",
+        "TRAINER/OWNER": "Sandy Thomson\nMidnight Racing Club",
+        "DISTANCES/TIMES": "1½ length\n4m 45.28s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "She'sasupermack (IRE)\nBruce Lynn\nHandicap Ran Off:117\nBHA Performance Figure: 113",
+        "TRAINER/OWNER": "Iain Jardine\nMrs C Brown & Mr Michael Wares",
+        "DISTANCES/TIMES": "10 lengths\n4m 47.73s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Millarville (IRE)\nCallum Bewley\nHandicap Ran Off:117\nBHA Performance Figure: 112",
+        "TRAINER/OWNER": "Harriet Graham\nMr G. Adam",
+        "DISTANCES/TIMES": "¾ length\n4m 47.89s",
+        "SP": "22/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Rubytwo (GB)\nDanny McMenamin\nHandicap Ran Off:105\nBHA Performance Figure: 98",
+        "TRAINER/OWNER": "Nicky Richards\nLangdale Bloodstock",
+        "DISTANCES/TIMES": "1¾ length\n4m 48.34s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Baby Ticker (GB)\nCallum Whillans\nHandicap Ran Off:111\nBHA Performance Figure: 104",
+        "TRAINER/OWNER": "Donald Whillans\nMr D. W. Whillans",
+        "DISTANCES/TIMES": "½ length\n4m 48.45s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Island Mahee (IRE)\nDylan Johnston\nHandicap Ran Off:91\nBHA Performance Figure: 83",
+        "TRAINER/OWNER": "S. R. B. Crawford\nMiss E. Hamilton",
+        "DISTANCES/TIMES": "¾ length\n4m 48.62s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Hermanus (IRE)\nEmma Smith-Chaston\nHandicap Ran Off:91\nBHA Performance Figure: 76",
+        "TRAINER/OWNER": "Stef Keniry\nMrs Stef Keniry",
+        "DISTANCES/TIMES": "8 lengths\n4m 50.57s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Hidden Dilemma (IRE)\nA. P. Heskin\nHandicap Ran Off:115\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "S. R. B. Crawford\nColm McDonnell",
+        "SP": "10/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Birch Vale (IRE)\nBrian Hughes\nHandicap Ran Off:109\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Donald McCain\nTim & Miranda Johnson",
+        "SP": "22/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Dieu Benisse (FR)\nSean Quinlan\nHandicap Ran Off:110\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Philip Kirby\nThe Gathering & J Matthews",
+        "SP": "9/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Buttevant Lady (IRE)\nJamie Hamilton\nHandicap Ran Off:107\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Alison Hamilton\nMr J. P. G. Hamilton",
+        "SP": "100/1"
+      }
+    ]
+  },
+  {
+    "TIME": "12:50PM",
+    "NAME": "THE JOIN RACING TV NOW HANDICAP STEEPLE CHASE (CLASS 3)",
+    "DISTANCE": "2m 1f 23y",
+    "WINNER": "Clan Legend",
+    "URL": "result/#!/2019/968/22549/0/",
+    "details": {
+      "Runners:": "4 RUNNERS",
+      "Prize Money:": "£13,000.00",
+      "Race Distance:": "2m 1f 23y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-130",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "-5lbs",
+      "Handicapper:": "Chris Nash"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Clan Legend (GB)\nLucy Alexander\nHandicap Ran Off:125\nBHA Performance Figure: 129",
+        "TRAINER/OWNER": "N. W. Alexander\nClan Gathering",
+        "DISTANCES/TIMES": "4m 32.3s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Goldencard (IRE)\nCraig Nichol\nHandicap Ran Off:125\nBHA Performance Figure: 127",
+        "TRAINER/OWNER": "Keith Dalgleish\nThe Gilbert's & Mr Campbell",
+        "DISTANCES/TIMES": "*¾ length\n4m 32.53s",
+        "SP": "11/5"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Vengeur de Guye (FR)\nThomas Willmott\nHandicap Ran Off:127\nBHA Performance Figure: 115",
+        "TRAINER/OWNER": "Lucinda Russell\nBrahms & Liszt",
+        "DISTANCES/TIMES": "16 lengths\n4m 36.55s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Commis d'Office (FR)\nCharlie Deutsch\nHandicap Ran Off:120\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Venetia Williams\nJulian Blackwell & Mrs Angus Maclay",
+        "SP": "15/8"
+      }
+    ]
+  },
+  {
+    "TIME": "1:25PM",
+    "NAME": "THE GEORGE & MARGARET HIGGINS FESTIVE CELEBRATION NOVICES' HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 60y",
+    "WINNER": "Mario de Pail (FR)",
+    "URL": "result/#!/2019/968/3641/0/",
+    "details": {
+      "Runners:": "13 RUNNERS",
+      "Prize Money:": "£6,500.00",
+      "Race Distance:": "2m 60y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Handicapper:": "David Dickinson"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Mario de Pail (FR)\nCharlie Deutsch\nCurrent handicap mark: S:115 H:115",
+        "TRAINER/OWNER": "Sam Thomas\nWalters Plant Hire & Potter Group",
+        "DISTANCES/TIMES": "4m 10.4s",
+        "SP": "15/8"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Dubai Days (IRE)\nBrian Hughes\nCurrent handicap mark: S:125",
+        "TRAINER/OWNER": "N. W. Alexander\nMr Trevor Hemmings",
+        "DISTANCES/TIMES": "12 lengths\n4m 13.47s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Ballydonagh Boy (IRE)\nHenry Brooke\nCurrent handicap mark: S:91",
+        "TRAINER/OWNER": "Pauline Robson\nIt's a Bargain Syndicate",
+        "DISTANCES/TIMES": "3 lengths\n4m 14.22s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Mamdood (IRE)\nEmma Smith-Chaston",
+        "TRAINER/OWNER": "Stef Keniry\nMrs Stef Keniry",
+        "DISTANCES/TIMES": "1 length\n4m 14.47s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Overcourt (GB)\nRyan Mania\nCurrent handicap mark: S:110",
+        "TRAINER/OWNER": "Sandy Thomson\nMr W. Jeffrey",
+        "DISTANCES/TIMES": "6 lengths\n4m 15.9s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Trooper Turnbull (IRE)\nCraig Nichol",
+        "TRAINER/OWNER": "Rose Dobbin\nHunter & Mckie",
+        "DISTANCES/TIMES": "Head\n4m 15.94s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Whoa Black Betty (IRE)\nJamie Hamilton",
+        "TRAINER/OWNER": "Jackie Stephen\nJackie Stephen Racing Club",
+        "DISTANCES/TIMES": "3 lengths\n4m 16.71s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Mister Manduro (FR)\nDanny McMenamin",
+        "TRAINER/OWNER": "Ann Hamilton\nMr Ian Hamilton",
+        "DISTANCES/TIMES": "3¼ lengths\n4m 17.52s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Raymond (IRE)\nA. P. Heskin",
+        "TRAINER/OWNER": "Keith Dalgleish\nStraightline Bloodstock",
+        "DISTANCES/TIMES": "2½ lengths\n4m 18.14s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Abouttimeyoutoldme (GB)\nRoss Chapman",
+        "TRAINER/OWNER": "Alistair Whillans\nMiss Deborah Auld",
+        "DISTANCES/TIMES": "5 lengths\n4m 19.43s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Last King of Wales (GB)\nBlair Campbell",
+        "TRAINER/OWNER": "Lucinda Russell\nMr Michael & Lady Jane Kaplan",
+        "DISTANCES/TIMES": "13 lengths\n4m 22.65s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Flutter Down (FR)\nStephen Mulqueen",
+        "TRAINER/OWNER": "Lucinda Russell\nPeter & Suzy Brown & Tony Evans",
+        "DISTANCES/TIMES": "¾ length\n4m 22.83s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "13th",
+        "HORSE/JOCKEY": "Mill Island (IRE)\nSam Coltherd",
+        "TRAINER/OWNER": "Stuart Coltherd\nMr S. Coltherd",
+        "DISTANCES/TIMES": "16 lengths\n4m 26.77s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Tortuga Bay (GB)\nNon Runner",
+        "TRAINER/OWNER": "James Ewart\nMrs Hugh Fraser",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "2:00PM",
+    "NAME": "THE CHILDREN'S IMMUNOLOGY TRUST STEEPLE CHASE (A NOVICES' LIMITED HANDICAP) (CLASS 3)",
+    "DISTANCE": "2m 6f 84y",
+    "WINNER": "Iwilldoit",
+    "URL": "result/#!/2019/968/3636/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£20,000.00",
+      "Race Distance:": "2m 6f 84y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Rating:": "0-125",
+      "Min Weight:": "10st 3lbs",
+      "Handicapper:": "Michael Harris"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Iwilldoit (GB)\nConnor Brace\nHandicap Ran Off:126\nBHA Performance Figure: 133\nCurrent handicap mark: S:147",
+        "TRAINER/OWNER": "Sam Thomas\nDiamond Racing Ltd",
+        "DISTANCES/TIMES": "6m 6.7s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Talkofgold (IRE)\nDanny McMenamin\nHandicap Ran Off:105\nBHA Performance Figure: 108",
+        "TRAINER/OWNER": "Martin Todhunter\nLeeds Plywood and Doors Ltd",
+        "DISTANCES/TIMES": "3½ lengths\n6m 7.54s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Behindthelines (IRE)\nDerek Fox\nHandicap Ran Off:122\nBHA Performance Figure: 124",
+        "TRAINER/OWNER": "Lucinda Russell\nLondon Scots for Doddie",
+        "DISTANCES/TIMES": "½ length\n6m 7.7s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Cuban Pete (IRE)\nCharlie Deutsch\nHandicap Ran Off:114\nBHA Performance Figure: 108",
+        "TRAINER/OWNER": "Venetia Williams\nMrs J. Jones",
+        "DISTANCES/TIMES": "10 lengths\n6m 10.08s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Cairnshill (IRE)\nAlison Clarke\nHandicap Ran Off:118\nBHA Performance Figure: 111",
+        "TRAINER/OWNER": "Kenny Johnson\nJewitt/Carter Thompson & Gardiner",
+        "DISTANCES/TIMES": "1¾ length\n6m 10.52s",
+        "SP": "18/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Senor Lombardy (IRE)\nCraig Nichol\nHandicap Ran Off:124\nBHA Performance Figure: 102",
+        "TRAINER/OWNER": "Keith Dalgleish\nStraightline Bloodstock",
+        "DISTANCES/TIMES": "18 lengths\n6m 15.04s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Smiths Cross (IRE)\nBrendan Powell\nHandicap Ran Off:126\nBHA Performance Figure: 73",
+        "TRAINER/OWNER": "Michael Scudamore\nMrs Lynne Maclennan",
+        "DISTANCES/TIMES": "38 lengths\n6m 24.55s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Gipsy Lee Rose (FR)\nLucy Alexander\nHandicap Ran Off:120\nBHA Performance Figure: 63\nCurrent handicap mark: S:89",
+        "TRAINER/OWNER": "N. W. Alexander\nMrs S. Irwin",
+        "DISTANCES/TIMES": "5 lengths\n6m 25.78s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Duc de Grissay (FR)\nNon Runner",
+        "TRAINER/OWNER": "Sandy Thomson\nWatson & Lawrence",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "2:35PM",
+    "NAME": "THE RACING TV HANDICAP HURDLE RACE (CLASS 3)",
+    "DISTANCE": "2m 6f 165y",
+    "WINNER": "Bialco (FR)",
+    "URL": "result/#!/2019/968/3639/0/",
+    "details": {
+      "Runners:": "7 RUNNERS",
+      "Prize Money:": "£11,011.00",
+      "Race Distance:": "2m 6f 165y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-125",
+      "Min Weight:": "10st 0lbs",
+      "Handicapper:": "Andrew Mealor"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Bialco (FR)\nBlair Campbell\nHandicap Ran Off:125\nBHA Performance Figure: 127",
+        "TRAINER/OWNER": "Lucinda Russell\nThe Vikings",
+        "DISTANCES/TIMES": "6m 12.1s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Ahead of The Curve (FR)\nJames Corbett\nHandicap Ran Off:120\nBHA Performance Figure: 119",
+        "TRAINER/OWNER": "Susan Corbett\nMr T. Green",
+        "DISTANCES/TIMES": "3¼ lengths\n6m 12.9s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Man of Plenty (GB)\nA. P. Heskin\nHandicap Ran Off:118\nBHA Performance Figure: 115",
+        "TRAINER/OWNER": "Sophie Leech\nMr G. Thompson",
+        "DISTANCES/TIMES": "2¼ lengths\n6m 13.45s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Juge Et Parti (FR)\nMiss Brodie Hampson\nHandicap Ran Off:122\nBHA Performance Figure: 103\nCurrent handicap mark: S:105 H:105",
+        "TRAINER/OWNER": "Archie Watson\nEl Jefe",
+        "DISTANCES/TIMES": "20 lengths\n6m 18.58s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "The Crooner (FR)\nCharlie Deutsch\nHandicap Ran Off:115\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Venetia Williams\nThe Crooner Partnership",
+        "SP": "7/2"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Do Not Disturb (IRE)\nBrian Hughes\nHandicap Ran Off:114\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Rose Dobbin\nMr & Mrs Duncan Davidson",
+        "SP": "7/2"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Sidi Ismael (FR)\nCraig Nichol\nHandicap Ran Off:113\nBHA Performance Figure: 0\nCurrent handicap mark: S:127",
+        "TRAINER/OWNER": "Keith Dalgleish\nStraightline Bloodstock",
+        "SP": "6/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Blue Hussar (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Micky Hammond\nMr Richard Howard & Mr Ben Howard",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "3:10PM",
+    "NAME": "THE AJA AMATEUR RIDERS' HANDICAP STEEPLE CHASE (CLASS 4) (Challenger Staying Chase Series Qualifier)",
+    "DISTANCE": "3m 2f 55y",
+    "WINNER": "Samstown",
+    "URL": "result/#!/2019/968/30418/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£9,006.00",
+      "Race Distance:": "3m 2f 55y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-120",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "1lbs",
+      "Handicapper:": "Martin Greenwood",
+      "Rider Type:": "AMATEUR"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Samstown (GB)\nMr Connor Wood\nHandicap Ran Off:107\nBHA Performance Figure: 112",
+        "TRAINER/OWNER": "Alistair Whillans\nMrs Elizabeth Ferguson",
+        "DISTANCES/TIMES": "7m 34.1s",
+        "SP": "18/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Total Assets (GB)\nAmie Waugh\nHandicap Ran Off:111\nBHA Performance Figure: 110",
+        "TRAINER/OWNER": "Simon Waugh\nNorthumberland Racing Club",
+        "DISTANCES/TIMES": "8 lengths\n7m 35.97s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Late Date (IRE)\nMiss Becky Smith\nHandicap Ran Off:107\nBHA Performance Figure: 104",
+        "TRAINER/OWNER": "Micky Hammond\nCounty Set Six & Partner",
+        "DISTANCES/TIMES": "*3 lengths\n7m 36.65s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Misfits (IRE)\nMr Cameron Wadge\nHandicap Ran Off:110\nBHA Performance Figure: 105",
+        "TRAINER/OWNER": "Lucinda Russell\nCounty Set Four & Keith Hunter",
+        "DISTANCES/TIMES": "*2¼ lengths\n7m 37.31s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Calivigny (IRE)\nMr Kit Alexander\nHandicap Ran Off:114\nBHA Performance Figure: 109",
+        "TRAINER/OWNER": "N. W. Alexander\nAlexander Family",
+        "DISTANCES/TIMES": "1¾ length\n7m 37.73s",
+        "SP": "11/8"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Sandhurst Lad (IRE)\nMr John Dawson\nHandicap Ran Off:110\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Alison Hamilton\nMr J. P. G. Hamilton",
+        "SP": "10/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Arqalina (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Venetia Williams\nThe Hon Lady Heber-Percy & V Williams",
+        "SP": "--"
+      }
+    ]
+  }
+]

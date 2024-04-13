@@ -72,8 +72,6 @@ async function scrapeRaceData(url) {
     if (!fs.existsSync(path.join(__dirname, fileName))) {
       fs.writeFileSync(fileName, JSON.stringify(raceData, null, 2));
       console.log(`Data for ${url} saved to ${fileName}`);
-    } else {
-      console.log(`File ${fileName} already exists. Skipping.`);
     }
   }
 })();

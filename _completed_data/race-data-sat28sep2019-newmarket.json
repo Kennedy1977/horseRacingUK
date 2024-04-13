@@ -1,0 +1,862 @@
+[
+  {
+    "TIME": "1:50PM",
+    "NAME": "THE JUDDMONTE ROYAL LODGE STAKES (CLASS 1) (Group 2)",
+    "DISTANCE": "1m",
+    "WINNER": "Royal Dornoch (IRE)",
+    "URL": "result/#!/2019/1243/624/0/",
+    "details": {
+      "Runners:": "7 RUNNERS",
+      "Prize Money:": "£125,000.00",
+      "Race Distance:": "1m",
+      "Race Going:": "Good",
+      "Horse Age:": "2YO",
+      "Horse Sex:": "COLT",
+      "Handicapper:": "Graeme D. Smith"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Royal Dornoch (IRE)\nW. M. Lordan\nBHA Performance Figure: 110",
+        "TRAINER/OWNER": "Aidan O'Brien\nMr M. Tabor, D. Smith & Mrs John Magnier",
+        "DISTANCES/TIMES": "1m 35.13s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Kameko (USA)\nOisin Murphy\nBHA Performance Figure: 109",
+        "TRAINER/OWNER": "Andrew Balding\nQatar Racing Limited",
+        "DISTANCES/TIMES": "Neck\n1m 35.17s",
+        "SP": "6/5"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Iberia (IRE)\nDonnacha O'Brien\nBHA Performance Figure: 106",
+        "TRAINER/OWNER": "Aidan O'Brien\nMr M. Tabor, D. Smith & Mrs John Magnier",
+        "DISTANCES/TIMES": "1½ length\n1m 35.44s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Year of The Tiger (IRE)\nRyan Moore\nBHA Performance Figure: 101",
+        "TRAINER/OWNER": "Aidan O'Brien\nSmith/Mrs Magnier/Tabor/Flaxman Stables",
+        "DISTANCES/TIMES": "2¼ lengths\n1m 35.81s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Sound of Cannons (GB)\nFrankie Dettori\nBHA Performance Figure: 99",
+        "TRAINER/OWNER": "Brian Meehan\nCENTURION THOROUGHBREDS",
+        "DISTANCES/TIMES": "1 length\n1m 35.97s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Highland Chief (IRE)\nP. J. McDonald\nBHA Performance Figure: 82",
+        "TRAINER/OWNER": "Paul Cole\nMrs Fitri Hay",
+        "DISTANCES/TIMES": "8 lengths\n1m 37.23s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Pyledriver (GB)\nMartin Dwyer\nBHA Performance Figure: 65",
+        "TRAINER/OWNER": "William Muir\nKnox & Wells Limited and Mr R W Devlin",
+        "DISTANCES/TIMES": "8 lengths\n1m 38.53s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Surf Dancer (IRE)\nNon Runner",
+        "TRAINER/OWNER": "William Haggas\nChina Horse Club/Ballylinch Stud",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "2:25PM",
+    "NAME": "THE JUDDMONTE CHEVELEY PARK STAKES (CLASS 1) (Group 1)",
+    "DISTANCE": "6f",
+    "WINNER": "Millisle (IRE)",
+    "URL": "result/#!/2019/1243/5344/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£291,580.00",
+      "Race Distance:": "6f",
+      "Race Going:": "Good",
+      "Horse Age:": "2YO",
+      "Horse Sex:": "FILLIES & MARES",
+      "Handicapper:": "Graeme D. Smith"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Millisle (IRE)\nShane Foley\nBHA Performance Figure: 115",
+        "TRAINER/OWNER": "Mrs J. Harrington\nStonethorn Stud Farms Limited",
+        "DISTANCES/TIMES": "1m 9.39s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Raffle Prize (IRE)\nFrankie Dettori\nBHA Performance Figure: 110",
+        "TRAINER/OWNER": "Mark Johnston\nSheikh Hamdan Bin Mohammed Al Maktoum",
+        "DISTANCES/TIMES": "*1¾ length\n1m 9.66s",
+        "SP": "10/11"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Tropbeau (GB)\nMickael Barzalona\nBHA Performance Figure: 111",
+        "TRAINER/OWNER": "A. Fabre\nLady Bamford",
+        "DISTANCES/TIMES": "½ length\n1m 9.76s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Tango (IRE)\nRyan Moore\nBHA Performance Figure: 103",
+        "TRAINER/OWNER": "Aidan O'Brien\nMr M. Tabor, D. Smith & Mrs John Magnier",
+        "DISTANCES/TIMES": "2 lengths\n1m 10.1s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Living In The Past (IRE)\nDaniel Tudhope\nBHA Performance Figure: 103",
+        "TRAINER/OWNER": "K. R. Burke\nClipper Logistics",
+        "DISTANCES/TIMES": "Short Head\n1m 10.11s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Nurse Barbara (IRE)\nColin Keane\nBHA Performance Figure: 101",
+        "TRAINER/OWNER": "G. M. Lyons\nDavid Spratt/Sean Jones/Mrs Lynne Lyons",
+        "DISTANCES/TIMES": "¾ length\n1m 10.25s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Dark Lady (GB)\nPat Dobbs\nBHA Performance Figure: 101",
+        "TRAINER/OWNER": "Richard Hannon\nCheveley Park Stud",
+        "DISTANCES/TIMES": "Head\n1m 10.27s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Etoile (USA)\nDonnacha O'Brien\nBHA Performance Figure: 100",
+        "TRAINER/OWNER": "Aidan O'Brien\nMrs John Magnier,Mr M.Tabor & Mr D.Smith",
+        "DISTANCES/TIMES": "Neck\n1m 10.31s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Lil Grey (IRE)\nRobert Colgan\nBHA Performance Figure: 91",
+        "TRAINER/OWNER": "Ms Sheila Lavery\nSpyglass Syndicate",
+        "DISTANCES/TIMES": "3½ lengths\n1m 10.88s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Moon of Love (IRE)\nBarry McHugh\nBHA Performance Figure: 81",
+        "TRAINER/OWNER": "Richard Fahey\nThe Cool Silk Partnership",
+        "DISTANCES/TIMES": "3½ lengths\n1m 11.45s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Nina Bailarina (GB)\nOisin Murphy\nBHA Performance Figure: 58",
+        "TRAINER/OWNER": "Ed Walker\nBrightwalton Bloodstock Ltd",
+        "DISTANCES/TIMES": "8 lengths\n1m 12.75s",
+        "SP": "25/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:00PM",
+    "NAME": "THE JUDDMONTE MIDDLE PARK STAKES (CLASS 1) (Group 1)",
+    "DISTANCE": "6f",
+    "WINNER": "Earthlight (IRE)",
+    "URL": "result/#!/2019/1243/5350/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£275,000.00",
+      "Race Distance:": "6f",
+      "Race Going:": "Good",
+      "Horse Age:": "2YO",
+      "Horse Sex:": "COLT",
+      "Handicapper:": "Graeme D. Smith"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Earthlight (IRE)\nMickael Barzalona\nBHA Performance Figure: 115",
+        "TRAINER/OWNER": "A. Fabre\nGodolphin S.N.C.",
+        "DISTANCES/TIMES": "1m 9.31s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Golden Horde (IRE)\nAdam Kirby\nBHA Performance Figure: 114",
+        "TRAINER/OWNER": "Clive Cox\nAlMohamediya Racing",
+        "DISTANCES/TIMES": "Neck\n1m 9.35s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Summer Sands (GB)\nBarry McHugh\nBHA Performance Figure: 109\nCurrent handicap mark: T:70",
+        "TRAINER/OWNER": "Richard Fahey\nThe Cool Silk Partnership",
+        "DISTANCES/TIMES": "1¾ length\n1m 9.62s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "King Neptune (USA)\nW. M. Lordan\nBHA Performance Figure: 108",
+        "TRAINER/OWNER": "Aidan O'Brien\nMr M. Tabor, D. Smith & Mrs John Magnier",
+        "DISTANCES/TIMES": "½ length\n1m 9.71s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Threat (IRE)\nPat Dobbs\nBHA Performance Figure: 106",
+        "TRAINER/OWNER": "Richard Hannon\nCheveley Park Stud",
+        "DISTANCES/TIMES": "¾ length\n1m 9.83s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Lope Y Fernandez (IRE)\nDonnacha O'Brien\nBHA Performance Figure: 106",
+        "TRAINER/OWNER": "Aidan O'Brien\nMr D. Smith, Mrs J. Magnier, Mr M. Tabor",
+        "DISTANCES/TIMES": "Short Head\n1m 9.85s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Mums Tipple (IRE)\nOisin Murphy\nBHA Performance Figure: 102\nCurrent handicap mark: T:97",
+        "TRAINER/OWNER": "Richard Hannon\nMarian Lyons & Patricia Zanelli",
+        "DISTANCES/TIMES": "1¼ length\n1m 10.07s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Monarch of Egypt (USA)\nRyan Moore\nBHA Performance Figure: 97",
+        "TRAINER/OWNER": "Aidan O'Brien\nP Brant/Mrs J Magnier/M Tabor/D Smith",
+        "DISTANCES/TIMES": "1¾ length\n1m 10.34s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "WD",
+        "HORSE/JOCKEY": "Siskin (USA)\nColin Keane",
+        "TRAINER/OWNER": "G. M. Lyons\nMr K. Abdullah",
+        "SP": "0/0"
+      }
+    ]
+  },
+  {
+    "TIME": "3:40PM",
+    "NAME": "THE bet365 CAMBRIDGESHIRE HANDICAP STAKES (CLASS 2) (HERITAGE HANDICAP)",
+    "DISTANCE": "1m 1f",
+    "WINNER": "Lord North (IRE)",
+    "URL": "result/#!/2019/1243/5364/0/",
+    "details": {
+      "Runners:": "30 RUNNERS",
+      "Prize Money:": "£160,000.00",
+      "Race Distance:": "1m 1f",
+      "Race Going:": "Good",
+      "Horse Age:": "3YO+",
+      "Min Weight:": "8st 0lbs",
+      "Weights Raised:": "3lbs",
+      "Handicapper:": "Rachel Brierley-Ambrose"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Lord North (IRE)\nFrankie Dettori\nHandicap Ran Off:98\nBHA Performance Figure: 110\nCurrent handicap mark: T:118",
+        "TRAINER/OWNER": "John Gosden\nHH Sheikh Zayed bin Mohammed Racing",
+        "DISTANCES/TIMES": "1m 46.99s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Beringer (GB)\nThore Hammer Hansen\nHandicap Ran Off:97\nBHA Performance Figure: 104",
+        "TRAINER/OWNER": "Alan King\nL Field, B Cognet, N Farrell, J Spack",
+        "DISTANCES/TIMES": "¾ length\n1m 47.13s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Good Birthday (IRE)\nOisin Murphy\nHandicap Ran Off:98\nBHA Performance Figure: 98",
+        "TRAINER/OWNER": "Andrew Balding\nKing Power Racing Co Ltd",
+        "DISTANCES/TIMES": "4 lengths\n1m 47.78s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Mordin (IRE)\nMarco Ghiani\nHandicap Ran Off:104\nBHA Performance Figure: 103",
+        "TRAINER/OWNER": "Simon Crisford\nAbdullah Saeed Al Naboodah",
+        "DISTANCES/TIMES": "¾ length\n1m 47.92s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Majestic Dawn (IRE)\nDavid Egan\nHandicap Ran Off:89\nBHA Performance Figure: 88",
+        "TRAINER/OWNER": "Paul Cole\nGreen & Norman",
+        "DISTANCES/TIMES": "Short Head\n1m 47.94s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Dark Vision (IRE)\nWilliam Buick\nHandicap Ran Off:101\nBHA Performance Figure: 99",
+        "TRAINER/OWNER": "Mark Johnston\nGodolphin",
+        "DISTANCES/TIMES": "¾ length\n1m 48.04s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Jazeel (IRE)\nJamie Spencer\nHandicap Ran Off:97\nBHA Performance Figure: 94",
+        "TRAINER/OWNER": "Jedd O'Keeffe\nQuantum",
+        "DISTANCES/TIMES": "1¼ length\n1m 48.24s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Fifth Position (IRE)\nAndrea Atzeni\nHandicap Ran Off:100\nBHA Performance Figure: 97",
+        "TRAINER/OWNER": "Roger Varian\nSheikh Mohammed Obaid Al Maktoum",
+        "DISTANCES/TIMES": "Short Head\n1m 48.25s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Alternative Fact (GB)\nJosephine Gordon\nHandicap Ran Off:88\nBHA Performance Figure: 85",
+        "TRAINER/OWNER": "Ed Dunlop\nThe Alternative Lot",
+        "DISTANCES/TIMES": "Head\n1m 48.27s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Badenscoth (GB)\nJoey Haynes\nHandicap Ran Off:92\nBHA Performance Figure: 86",
+        "TRAINER/OWNER": "Dean Ivory\nMr Peter J. Skinner",
+        "DISTANCES/TIMES": "1¾ length\n1m 48.54s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "You're Hired (GB)\nMartin Dwyer\nHandicap Ran Off:87\nBHA Performance Figure: 80",
+        "TRAINER/OWNER": "Amanda Perrett\nMr George Materna",
+        "DISTANCES/TIMES": "¾ length\n1m 48.64s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Nicholas T (GB)\nBen Robinson\nHandicap Ran Off:96\nBHA Performance Figure: 89",
+        "TRAINER/OWNER": "Jim Goldie\nMr James Callow & Mr J. S. Goldie",
+        "DISTANCES/TIMES": "Neck\n1m 48.68s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "13th",
+        "HORSE/JOCKEY": "Al Jellaby (GB)\nWilliam Cox\nHandicap Ran Off:87\nBHA Performance Figure: 79",
+        "TRAINER/OWNER": "Clive Cox\nAlMohamediya Racing",
+        "DISTANCES/TIMES": "¾ length\n1m 48.8s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "14th",
+        "HORSE/JOCKEY": "Baltic Baron (IRE)\nDaniel Tudhope\nHandicap Ran Off:98\nBHA Performance Figure: 89",
+        "TRAINER/OWNER": "David O'Meara\nGeoff & Sandra Turnbull",
+        "DISTANCES/TIMES": "½ length\n1m 48.87s",
+        "SP": "28/1"
+      },
+      {
+        "POS": "15th",
+        "HORSE/JOCKEY": "Dubai Horizon (IRE)\nCieren Fallon\nHandicap Ran Off:107\nBHA Performance Figure: 96",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "DISTANCES/TIMES": "1¼ length\n1m 49.06s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "16th",
+        "HORSE/JOCKEY": "History Writer (IRE)\nP. J. McDonald\nHandicap Ran Off:95\nBHA Performance Figure: 83",
+        "TRAINER/OWNER": "David Menuisier\nClive Washbourn & Partner",
+        "DISTANCES/TIMES": "½ length\n1m 49.14s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "17th",
+        "HORSE/JOCKEY": "Le Don de Vie (GB)\nRyan Moore\nHandicap Ran Off:101\nBHA Performance Figure: 88",
+        "TRAINER/OWNER": "Hughie Morrison\nMr Aziz Kheir",
+        "DISTANCES/TIMES": "¾ length\n1m 49.26s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "18th",
+        "HORSE/JOCKEY": "Afaak (GB)\nJim Crowley\nHandicap Ran Off:107\nBHA Performance Figure: 94",
+        "TRAINER/OWNER": "Charles Hills\nMr Hamdan Al Maktoum",
+        "DISTANCES/TIMES": "Neck\n1m 49.31s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "19th",
+        "HORSE/JOCKEY": "Petrus (IRE)\nTom Marquand\nHandicap Ran Off:99\nBHA Performance Figure: 85",
+        "TRAINER/OWNER": "Brian Meehan\nMr G. P. M. Morland",
+        "DISTANCES/TIMES": "½ length\n1m 49.4s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "20th",
+        "HORSE/JOCKEY": "Korcho (GB)\nNicola Currie\nHandicap Ran Off:91\nBHA Performance Figure: 76",
+        "TRAINER/OWNER": "Hughie Morrison\nM Kerr-Dineen, M Hughes & W Eason",
+        "DISTANCES/TIMES": "¾ length\n1m 49.54s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "21st",
+        "HORSE/JOCKEY": "Cockalorum (IRE)\nBen Curtis\nHandicap Ran Off:89\nBHA Performance Figure: 73\nCurrent handicap mark: T:85",
+        "TRAINER/OWNER": "Roger Fell\nH Dean & R Fell",
+        "DISTANCES/TIMES": "½ length\n1m 49.6s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "22nd",
+        "HORSE/JOCKEY": "Smile A Mile (IRE)\nAndrew Breslin\nHandicap Ran Off:94\nBHA Performance Figure: 76",
+        "TRAINER/OWNER": "Mark Johnston\nSheikh Hamdan Bin Mohammed Al Maktoum",
+        "DISTANCES/TIMES": "1 length\n1m 49.75s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "23rd",
+        "HORSE/JOCKEY": "Zhui Feng (IRE)\nPat Dobbs\nHandicap Ran Off:98\nBHA Performance Figure: 78",
+        "TRAINER/OWNER": "Amanda Perrett\nJohn Connolly & Odile Griffith",
+        "DISTANCES/TIMES": "1 length\n1m 49.91s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "24th",
+        "HORSE/JOCKEY": "Queen of Time (GB)\nHarry Bentley\nHandicap Ran Off:97\nBHA Performance Figure: 74",
+        "TRAINER/OWNER": "Henry Candy\nFirst Of Many",
+        "DISTANCES/TIMES": "1¾ length\n1m 50.2s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "25th",
+        "HORSE/JOCKEY": "Mulligatawny (IRE)\nGabriele Malune\nHandicap Ran Off:87\nBHA Performance Figure: 64",
+        "TRAINER/OWNER": "Roger Fell\nMiddleham Park Racing LI & Partner",
+        "DISTANCES/TIMES": "Neck\n1m 50.24s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "26th",
+        "HORSE/JOCKEY": "Another Touch (GB)\nTony Hamilton\nHandicap Ran Off:94\nBHA Performance Figure: 71",
+        "TRAINER/OWNER": "Richard Fahey\nNicholas Wrigley & Kevin Hart",
+        "DISTANCES/TIMES": "Head\n1m 50.27s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "27th",
+        "HORSE/JOCKEY": "Music Seeker (IRE)\nNoel Garbutt\nHandicap Ran Off:83\nBHA Performance Figure: 56",
+        "TRAINER/OWNER": "Declan Carroll\nMrs Sarah Bryan",
+        "DISTANCES/TIMES": "2 lengths\n1m 50.58s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "28th",
+        "HORSE/JOCKEY": "Little Jo (GB)\nKieran Schofield\nHandicap Ran Off:83\nBHA Performance Figure: 55",
+        "TRAINER/OWNER": "Brian Ellison\nMrs Claire Ellison",
+        "DISTANCES/TIMES": "¾ length\n1m 50.7s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "29th",
+        "HORSE/JOCKEY": "Fajjaj (IRE)\nJames Doyle\nHandicap Ran Off:105\nBHA Performance Figure: 75",
+        "TRAINER/OWNER": "Hugo Palmer\nAl Shaqab Racing",
+        "DISTANCES/TIMES": "1¼ length\n1m 50.92s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "30th",
+        "HORSE/JOCKEY": "Chance (GB)\nRyan Powell\nHandicap Ran Off:89\nBHA Performance Figure: 56",
+        "TRAINER/OWNER": "Simon Crisford\nMr Khalifa Saeed Sulaiman",
+        "DISTANCES/TIMES": "1½ length\n1m 51.16s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Isomer (USA)\nNon Runner",
+        "TRAINER/OWNER": "Andrew Balding\nMr I. A. Balding",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Torcello (IRE)\nNon Runner\nCurrent handicap mark: T:89",
+        "TRAINER/OWNER": "Shaun Lycett\nMr Dan Gilbert",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Zzoro (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Amanda Perrett\nMr & Mrs F Cotton,Mr & Mrs P Conway",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Mordred (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Richard Hannon\nMr Martin Hughes",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Bedouin's Story (GB)\nNon Runner",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "4:15PM",
+    "NAME": "THE BLANDFORD BLOODSTOCK MAIDEN FILLIES' STAKES (CLASS 4) (PLUS 10 RACE)",
+    "DISTANCE": "7f",
+    "WINNER": "Lady Lynetta (IRE)",
+    "URL": "result/#!/2019/1243/27841/0/",
+    "details": {
+      "Runners:": "15 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Good",
+      "Horse Age:": "2YO",
+      "Horse Type:": "MAIDEN",
+      "Horse Sex:": "FILLIES & MARES",
+      "Handicapper:": "Adam Barnes"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Lady Lynetta (IRE)\nShane Kelly",
+        "TRAINER/OWNER": "Richard Hughes\nMr Khalifa Dasmal",
+        "DISTANCES/TIMES": "1m 24.93s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Baaqy (IRE)\nJim Crowley",
+        "TRAINER/OWNER": "John Gosden\nMr Hamdan Al Maktoum",
+        "DISTANCES/TIMES": "½ length\n1m 24.99s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sunset Kiss (GB)\nJames Doyle",
+        "TRAINER/OWNER": "Michael Bell\nLady Bamford",
+        "DISTANCES/TIMES": "Neck\n1m 25.02s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Princess Bride (GB)\nTom Queally",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "DISTANCES/TIMES": "1 length\n1m 25.17s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Evening Spirit (GB)\nHarry Bentley",
+        "TRAINER/OWNER": "Ralph Beckett\nNewsells Park Stud",
+        "DISTANCES/TIMES": "2 lengths\n1m 25.51s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Folk Dance (GB)\nJamie Spencer",
+        "TRAINER/OWNER": "David Simcock\nMajor M. G. Wyatt",
+        "DISTANCES/TIMES": "Head\n1m 25.53s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Love Bracelet (USA)\nRyan Moore",
+        "TRAINER/OWNER": "Aidan O'Brien\nMrs John Magnier,Mr M.Tabor & Mr D.Smith",
+        "DISTANCES/TIMES": "¾ length\n1m 25.68s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Dream Round (IRE)\nOisin Murphy",
+        "TRAINER/OWNER": "Andrew Balding\nThurloe Thoroughbreds XLVIII",
+        "DISTANCES/TIMES": "2½ lengths\n1m 26.09s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Island Hideaway (GB)\nStevie Donohoe",
+        "TRAINER/OWNER": "David Lanigan\nMr Saif Ali",
+        "DISTANCES/TIMES": "2½ lengths\n1m 26.51s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Folie d'Amour (GB)\nMartin Dwyer",
+        "TRAINER/OWNER": "Eve Johnson Houghton\nJ Cross,M Duckham,L Godfrey,P Wollaston",
+        "DISTANCES/TIMES": "Short Head\n1m 26.52s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Pax Britannica (IRE)\nPat Dobbs",
+        "TRAINER/OWNER": "David Simcock\nChola Dynasty",
+        "DISTANCES/TIMES": "1¾ length\n1m 26.83s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Nibras Shadow (IRE)\nTom Marquand",
+        "TRAINER/OWNER": "Ismail Mohammed\nMr Saeed H. Altayer",
+        "DISTANCES/TIMES": "1¼ length\n1m 27.04s",
+        "SP": "22/1"
+      },
+      {
+        "POS": "13th",
+        "HORSE/JOCKEY": "Queen's Favour (GB)\nWilliam Buick",
+        "TRAINER/OWNER": "Sir Michael Stoute\nCheveley Park Stud",
+        "DISTANCES/TIMES": "Nose\n1m 27.04s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "14th",
+        "HORSE/JOCKEY": "Sablet (GB)\nCharles Bishop",
+        "TRAINER/OWNER": "Eve Johnson Houghton\nRaw, Reeve & Wollaston",
+        "DISTANCES/TIMES": "¾ length\n1m 27.18s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "15th",
+        "HORSE/JOCKEY": "Princess Siyouni (IRE)\nPat Cosgrave",
+        "TRAINER/OWNER": "Mick Quinn\nMr Kenny Bruce",
+        "DISTANCES/TIMES": "2¾ lengths\n1m 27.64s",
+        "SP": "50/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:50PM",
+    "NAME": "THE BRITISH STALLION STUDS EBF 'JERSEY LILY' FILLIES' NURSERY HANDICAP STAKES (CLASS 2)",
+    "DISTANCE": "7f",
+    "WINNER": "Huboor (IRE)",
+    "URL": "result/#!/2019/1243/16988/0/",
+    "details": {
+      "Runners:": "15 RUNNERS",
+      "Prize Money:": "£50,000.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Good",
+      "Horse Age:": "2YO",
+      "Horse Sex:": "FILLIES & MARES",
+      "Min Weight:": "8st 0lbs",
+      "Weights Raised:": "8lbs",
+      "Handicapper:": "Graeme D. Smith"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Huboor (IRE)\nJim Crowley\nHandicap Ran Off:78\nBHA Performance Figure: 90",
+        "TRAINER/OWNER": "Mark Johnston\nMr Hamdan Al Maktoum",
+        "DISTANCES/TIMES": "1m 23.25s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Separate (GB)\nThore Hammer Hansen\nHandicap Ran Off:88\nBHA Performance Figure: 98",
+        "TRAINER/OWNER": "Richard Hannon\nMartin Hughes & Mark Murphy",
+        "DISTANCES/TIMES": "½ length\n1m 23.33s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Last Surprise (IRE)\nPat Cosgrave\nHandicap Ran Off:85\nBHA Performance Figure: 90",
+        "TRAINER/OWNER": "Simon Crisford\nSheikh Rashid Dalmook Al Maktoum",
+        "DISTANCES/TIMES": "2 lengths\n1m 23.66s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Caspian Queen (IRE)\nDavid Egan\nHandicap Ran Off:83\nBHA Performance Figure: 86",
+        "TRAINER/OWNER": "Richard Hughes\nDavood Vakilgilani",
+        "DISTANCES/TIMES": "¾ length\n1m 23.79s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Onassis (IRE)\nJamie Spencer\nHandicap Ran Off:76\nBHA Performance Figure: 76",
+        "TRAINER/OWNER": "Charlie Fellowes\nTriermore Stud & The Hon P. Stanley",
+        "DISTANCES/TIMES": "1 length\n1m 23.95s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Elegant Erin (IRE)\nTom Marquand\nHandicap Ran Off:77\nBHA Performance Figure: 75\nCurrent handicap mark: T:79",
+        "TRAINER/OWNER": "Richard Hannon\nPall Mall Partners and Sue Hopgood",
+        "DISTANCES/TIMES": "1 length\n1m 24.1s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Hashtagmetoo (USA)\nNicola Currie\nHandicap Ran Off:73\nBHA Performance Figure: 69\nCurrent handicap mark: T:63",
+        "TRAINER/OWNER": "Jamie Osborne\nThe Other Club",
+        "DISTANCES/TIMES": "1 length\n1m 24.28s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Mild Illusion (IRE)\nOisin Murphy\nHandicap Ran Off:83\nBHA Performance Figure: 78",
+        "TRAINER/OWNER": "Jonathan Portman\nOld Stoic Racing Club",
+        "DISTANCES/TIMES": "½ length\n1m 24.35s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Picture Frame (GB)\nHarry Bentley\nHandicap Ran Off:83\nBHA Performance Figure: 71",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "DISTANCES/TIMES": "2¾ lengths\n1m 24.8s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Rosadora (IRE)\nMarco Ghiani\nHandicap Ran Off:86\nBHA Performance Figure: 73",
+        "TRAINER/OWNER": "Ralph Beckett\nMr Guy Brook",
+        "DISTANCES/TIMES": "Neck\n1m 24.84s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Oti Ma Boati (GB)\nJames Doyle\nHandicap Ran Off:81\nBHA Performance Figure: 62",
+        "TRAINER/OWNER": "William Haggas\nLael Stable",
+        "DISTANCES/TIMES": "2½ lengths\n1m 25.28s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Special Secret (GB)\nCharles Bishop\nHandicap Ran Off:82\nBHA Performance Figure: 63",
+        "TRAINER/OWNER": "Eve Johnson Houghton\nMr H. Frost",
+        "DISTANCES/TIMES": "Head\n1m 25.3s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "13th",
+        "HORSE/JOCKEY": "Dutch Painting (GB)\nRyan Moore\nHandicap Ran Off:79\nBHA Performance Figure: 55",
+        "TRAINER/OWNER": "Michael Bell\nMr R. A. Green",
+        "DISTANCES/TIMES": "2 lengths\n1m 25.63s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "14th",
+        "HORSE/JOCKEY": "Star In The Making (GB)\nAdam Kirby\nHandicap Ran Off:85\nBHA Performance Figure: 61",
+        "TRAINER/OWNER": "Clive Cox\nMr A D Spence & Mr M B Spence",
+        "DISTANCES/TIMES": "Head\n1m 25.66s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "15th",
+        "HORSE/JOCKEY": "Amber Island (IRE)\nWilliam Buick\nHandicap Ran Off:80\nBHA Performance Figure: 10\nCurrent handicap mark: T:81",
+        "TRAINER/OWNER": "Charlie Appleby\nGodolphin",
+        "DISTANCES/TIMES": "19 lengths\n1m 28.89s",
+        "SP": "13/2"
+      }
+    ]
+  },
+  {
+    "TIME": "5:25PM",
+    "NAME": "THE NEWMARKET JOURNAL AND VELVET MAGAZINE HANDICAP STAKES (CLASS 2)",
+    "DISTANCE": "7f",
+    "WINNER": "Dubai Legacy (USA)",
+    "URL": "result/#!/2019/1243/5357/0/",
+    "details": {
+      "Runners:": "12 RUNNERS",
+      "Prize Money:": "£20,000.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Good",
+      "Horse Age:": "3YO+",
+      "Rating:": "86-105",
+      "Min Weight:": "8st 7lbs",
+      "Weights Raised:": "4lbs",
+      "Handicapper:": "Adam Barnes"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Dubai Legacy (USA)\nOisin Murphy\nHandicap Ran Off:97\nBHA Performance Figure: 100",
+        "TRAINER/OWNER": "Saeed bin Suroor\nGodolphin",
+        "DISTANCES/TIMES": "1m 24.33s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Spanish City (GB)\nMarco Ghiani\nHandicap Ran Off:97\nBHA Performance Figure: 98",
+        "TRAINER/OWNER": "Roger Varian\nMerry Fox Stud Limited",
+        "DISTANCES/TIMES": "½ length\n1m 24.43s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Riviera Nights (GB)\nWilliam Buick\nHandicap Ran Off:93\nBHA Performance Figure: 93",
+        "TRAINER/OWNER": "Richard Hannon\nMr Imad Alsagar",
+        "DISTANCES/TIMES": "*Neck\n1m 24.46s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Battered (GB)\nHarry Bentley\nHandicap Ran Off:96\nBHA Performance Figure: 96",
+        "TRAINER/OWNER": "Ralph Beckett\nKing Power Racing Co Ltd",
+        "DISTANCES/TIMES": "Short Head\n1m 24.47s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Vitralite (IRE)\nBen Curtis\nHandicap Ran Off:98\nBHA Performance Figure: 98",
+        "TRAINER/OWNER": "K. R. Burke\nMr S. P. C. Woods",
+        "DISTANCES/TIMES": "Short Head\n1m 24.48s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Firmament (GB)\nDaniel Tudhope\nHandicap Ran Off:98\nBHA Performance Figure: 96",
+        "TRAINER/OWNER": "David O'Meara\nGallop Racing",
+        "DISTANCES/TIMES": "½ length\n1m 24.58s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Above The Rest (IRE)\nDavid Egan\nHandicap Ran Off:95\nBHA Performance Figure: 91",
+        "TRAINER/OWNER": "David Barron\nMr Laurence O'Kane",
+        "DISTANCES/TIMES": "1 length\n1m 24.74s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Blackheath (GB)\nAndrea Atzeni\nHandicap Ran Off:88\nBHA Performance Figure: 83",
+        "TRAINER/OWNER": "Ed Walker\nMr Matthew Cottis",
+        "DISTANCES/TIMES": "½ length\n1m 24.83s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Count Otto (IRE)\nPat Dobbs\nHandicap Ran Off:89\nBHA Performance Figure: 83\nCurrent handicap mark: T:77",
+        "TRAINER/OWNER": "Amanda Perrett\nCount Otto Partnership",
+        "DISTANCES/TIMES": "½ length\n1m 24.91s",
+        "SP": "22/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Breathless Times (GB)\nJim Crowley\nHandicap Ran Off:88\nBHA Performance Figure: 78",
+        "TRAINER/OWNER": "Stuart Williams\nMorley, Reynolds & Watkins",
+        "DISTANCES/TIMES": "1½ length\n1m 25.14s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Gossiping (GB)\nShane Kelly\nHandicap Ran Off:96\nBHA Performance Figure: 83",
+        "TRAINER/OWNER": "Gary Moore\nMr Ashley Carr",
+        "DISTANCES/TIMES": "1¼ length\n1m 25.36s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Model Guest (GB)\nTom Queally\nHandicap Ran Off:90\nBHA Performance Figure: 70",
+        "TRAINER/OWNER": "George Margarson\nJohn Guest Racing",
+        "DISTANCES/TIMES": "3 lengths\n1m 25.86s",
+        "SP": "40/1"
+      }
+    ]
+  }
+]

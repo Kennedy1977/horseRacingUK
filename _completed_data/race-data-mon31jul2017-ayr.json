@@ -1,0 +1,709 @@
+[
+  {
+    "TIME": "1:30PM",
+    "NAME": "THE RACING UK EBF NOVICE STAKES (CLASS 5)",
+    "DISTANCE": "7f 50y",
+    "WINNER": "New Show (IRE)",
+    "URL": "result/#!/2017/454/758/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£5,500.00",
+      "Race Distance:": "7f 50y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "2YO",
+      "Horse Type:": "NOVICE",
+      "Handicapper:": "Graeme D. Smith"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "New Show (IRE)\nTom Eaves",
+        "TRAINER/OWNER": "Kevin Ryan\nMr Jaber Abdullah",
+        "DISTANCES/TIMES": "1m 33.2s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Cosa Nostra (IRE)\nTony Hamilton",
+        "TRAINER/OWNER": "Richard Fahey\nMerchant and Missionaries and Partner",
+        "DISTANCES/TIMES": "1½ length\n1m 33.46s",
+        "SP": "7/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Cuillin Hills (GB)\nRowan Scott",
+        "TRAINER/OWNER": "Keith Dalgleish\nOntoawinner 8 & Partner",
+        "DISTANCES/TIMES": "6 lengths\n1m 34.58s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Bustam (IRE)\nJason Hart",
+        "TRAINER/OWNER": "John Quinn\nAl Shaqab Racing",
+        "DISTANCES/TIMES": "½ length\n1m 34.65s",
+        "SP": "Evens"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Mi Capricho (IRE)\nPaul Mulrennan\nCurrent handicap mark: T:55",
+        "TRAINER/OWNER": "Keith Dalgleish\nPrestige Thoroughbred Racing",
+        "DISTANCES/TIMES": "31 lengths\n1m 40.3s",
+        "SP": "20/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:00PM",
+    "NAME": "THE WEMYSS BAY HOLIDAY PARK HANDICAP STAKES (CLASS 6) (DIV I)",
+    "DISTANCE": "7f 50y",
+    "WINNER": "Miss Goldsmith (IRE)",
+    "URL": "result/#!/2017/454/747/0/",
+    "details": {
+      "Runners:": "12 RUNNERS",
+      "Prize Money:": "£4,500.00",
+      "Race Distance:": "7f 50y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO+",
+      "Rating:": "46-65",
+      "Min Weight:": "8st 9lbs",
+      "Handicapper:": "Matthew Tester"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Miss Goldsmith (IRE)\nP. J. McDonald\nHandicap Ran Off:56\nBHA Performance Figure: 61",
+        "TRAINER/OWNER": "Rebecca Menzies\nMiss R. E. A. Menzies",
+        "DISTANCES/TIMES": "1m 32.94s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Magic Journey (IRE)\nJason Hart\nHandicap Ran Off:58\nBHA Performance Figure: 60",
+        "TRAINER/OWNER": "John Quinn\nMr J. N. Blackburn & Mrs S. Quinn",
+        "DISTANCES/TIMES": "1½ length\n1m 33.2s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Red Shadow (GB)\nRowan Scott\nHandicap Ran Off:46\nBHA Performance Figure: 46",
+        "TRAINER/OWNER": "Alistair Whillans\nMiss E. Johnston",
+        "DISTANCES/TIMES": "1 length\n1m 33.37s",
+        "SP": "66/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Jessie Allan (IRE)\nSean Mooney\nHandicap Ran Off:47\nBHA Performance Figure: 44",
+        "TRAINER/OWNER": "Jim Goldie\nMr Robert McLachlan",
+        "DISTANCES/TIMES": "1¼ length\n1m 33.58s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Cliff Bay (IRE)\nPaul Mulrennan\nHandicap Ran Off:67\nBHA Performance Figure: 61",
+        "TRAINER/OWNER": "Keith Dalgleish\nMr David McKenzie",
+        "DISTANCES/TIMES": "1½ length\n1m 33.84s",
+        "SP": "18/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Tanawar (IRE)\nJames Sullivan\nHandicap Ran Off:64\nBHA Performance Figure: 55",
+        "TRAINER/OWNER": "Ruth Carr\nG Scruton, D Williamson & R Carr",
+        "DISTANCES/TIMES": "1¼ length\n1m 34.06s",
+        "SP": "28/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Let Right Be Done (GB)\nPaul Hanagan\nHandicap Ran Off:50\nBHA Performance Figure: 41",
+        "TRAINER/OWNER": "Linda Perratt\nMr Ken McGarrity&LindaPerrattRacingClub",
+        "DISTANCES/TIMES": "Short Head\n1m 34.07s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Monsieur Jimmy (GB)\nPhil Dennis\nHandicap Ran Off:55\nBHA Performance Figure: 45",
+        "TRAINER/OWNER": "Declan Carroll\nMr Ray Flegg & Mr John Bousfield",
+        "DISTANCES/TIMES": "½ length\n1m 34.16s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Reinforced (GB)\nAndrew Mullen\nHandicap Ran Off:65\nBHA Performance Figure: 51",
+        "TRAINER/OWNER": "Michael Dods\nMr W G McHarg & Mr M Pearson",
+        "DISTANCES/TIMES": "1¾ length\n1m 34.46s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Ss Vega (GB)\nConnor Murtagh\nHandicap Ran Off:47\nBHA Performance Figure: 32",
+        "TRAINER/OWNER": "Jim Goldie\nMr Frank Brady",
+        "DISTANCES/TIMES": "½ length\n1m 34.55s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Chinese Spirit (IRE)\nSeamus Cronin\nHandicap Ran Off:65\nBHA Performance Figure: 50\nCurrent handicap mark: T:51",
+        "TRAINER/OWNER": "R. Mike Smith\nMr Y. C. Luk",
+        "DISTANCES/TIMES": "Short Head\n1m 34.56s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Newspeak (IRE)\nGraham Lee\nHandicap Ran Off:53\nBHA Performance Figure: 25",
+        "TRAINER/OWNER": "Fred Watson\nMr F. Watson",
+        "DISTANCES/TIMES": "6 lengths\n1m 35.58s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Palace Ball (GB)\nNon Runner",
+        "TRAINER/OWNER": "Stuart Coltherd\nNorth East Racehorses & Harelaw Racing",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "2:30PM",
+    "NAME": "THE WEMYSS BAY HOLIDAY PARK HANDICAP STAKES (CLASS 6) (DIV II)",
+    "DISTANCE": "7f 50y",
+    "WINNER": "Redarna",
+    "URL": "result/#!/2017/454/747/1/",
+    "details": {
+      "Runners:": "13 RUNNERS",
+      "Prize Money:": "£4,500.00",
+      "Race Distance:": "7f 50y",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO+",
+      "Rating:": "46-65",
+      "Min Weight:": "8st 9lbs",
+      "Handicapper:": "Matthew Tester"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Redarna (GB)\nJames Sullivan\nHandicap Ran Off:55\nBHA Performance Figure: 59\nCurrent handicap mark: T:89",
+        "TRAINER/OWNER": "Dianne Sayer\nMrs Dianne Sayer",
+        "DISTANCES/TIMES": "1m 33.1s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Jack Blane (GB)\nJoe Fanning\nHandicap Ran Off:54\nBHA Performance Figure: 57",
+        "TRAINER/OWNER": "Keith Dalgleish\nMr Ronnie Docherty",
+        "DISTANCES/TIMES": "Neck\n1m 33.15s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Harbour Patrol (IRE)\nDaniel Tudhope\nHandicap Ran Off:55\nBHA Performance Figure: 52",
+        "TRAINER/OWNER": "Rebecca Bastiman\nMrs P. Bastiman",
+        "DISTANCES/TIMES": "2¾ lengths\n1m 33.64s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Pipe Dreamer (GB)\nShane Gray\nHandicap Ran Off:47\nBHA Performance Figure: 41",
+        "TRAINER/OWNER": "Kevin Ryan\nGuy Reed Racing",
+        "DISTANCES/TIMES": "1¼ length\n1m 33.89s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Greengairs (GB)\nPaul Mulrennan\nHandicap Ran Off:58\nBHA Performance Figure: 49",
+        "TRAINER/OWNER": "Keith Dalgleish\nMr Johnny Higgins",
+        "DISTANCES/TIMES": "1½ length\n1m 34.18s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Ralphy Boy (IRE)\nP. J. McDonald\nHandicap Ran Off:65\nBHA Performance Figure: 56",
+        "TRAINER/OWNER": "Alistair Whillans\nMr Frank Lowe",
+        "DISTANCES/TIMES": "Neck\n1m 34.22s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Insurplus (IRE)\nPaddy Mathers\nHandicap Ran Off:57\nBHA Performance Figure: 48",
+        "TRAINER/OWNER": "Jim Goldie\nMr & Mrs G Grant & Partner",
+        "DISTANCES/TIMES": "Head\n1m 34.24s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Picks Pinta (GB)\nLewis Edmunds\nHandicap Ran Off:63\nBHA Performance Figure: 52",
+        "TRAINER/OWNER": "John David Riches\nMr J. D. Riches",
+        "DISTANCES/TIMES": "¾ length\n1m 34.39s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Stardrifter (GB)\nSammy Jo Bell\nHandicap Ran Off:56\nBHA Performance Figure: 45",
+        "TRAINER/OWNER": "Linda Perratt\nJackton Racing Club",
+        "DISTANCES/TIMES": "Neck\n1m 34.45s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "New Decade (GB)\nSean Mooney\nHandicap Ran Off:46\nBHA Performance Figure: 35",
+        "TRAINER/OWNER": "Jim Goldie\nJohnnie Delta Racing",
+        "DISTANCES/TIMES": "Neck\n1m 34.5s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Centre Haafhd (GB)\nAndrew Mullen\nHandicap Ran Off:46\nBHA Performance Figure: 31",
+        "TRAINER/OWNER": "Kenneth Slack\nMr A. Slack",
+        "DISTANCES/TIMES": "1¾ length\n1m 34.82s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Fortuities (IRE)\nGraham Lee\nHandicap Ran Off:66\nBHA Performance Figure: 44",
+        "TRAINER/OWNER": "Jedd O'Keeffe\nThe Fatalists",
+        "DISTANCES/TIMES": "3 lengths\n1m 35.35s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "13th",
+        "HORSE/JOCKEY": "Champion Harbour (IRE)\nPaul Hanagan\nHandicap Ran Off:59\nBHA Performance Figure: 11",
+        "TRAINER/OWNER": "Richard Fahey\nMr Mike Browne & Mrs Dee Howe",
+        "DISTANCES/TIMES": "12 lengths\n1m 37.44s",
+        "SP": "7/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:00PM",
+    "NAME": "THE PARKDEAN RESORTS HANDICAP STAKES (CLASS 4)",
+    "DISTANCE": "1m 7f",
+    "WINNER": "Dubawi Fifty",
+    "URL": "result/#!/2017/454/748/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "1m 7f",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO+",
+      "Rating:": "66-85",
+      "Min Weight:": "8st 9lbs",
+      "Handicapper:": "Mark Olley"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Addicted To You (IRE)\nJoe Fanning\nHandicap Ran Off:80\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Mark Johnston\nMr Markus Graff",
+        "SP": "15/8"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Dubawi Fifty (GB)\nGraham Lee\nHandicap Ran Off:79\nBHA Performance Figure: 85",
+        "TRAINER/OWNER": "Karen McLintock\nPaul & Clare Rooney",
+        "DISTANCES/TIMES": "3m 22.87s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Tor (GB)\nJamie Gormley\nHandicap Ran Off:79\nBHA Performance Figure: 82",
+        "TRAINER/OWNER": "Iain Jardine\nMr I. Wilson",
+        "DISTANCES/TIMES": "1½ length\n3m 23.16s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Wor Lass (GB)\nRowan Scott\nHandicap Ran Off:76\nBHA Performance Figure: 75",
+        "TRAINER/OWNER": "Donald Whillans\nMr Les Dodds",
+        "DISTANCES/TIMES": "3¼ lengths\n3m 23.76s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Gabrial's Star (GB)\nAdam McNamara\nHandicap Ran Off:83\nBHA Performance Figure: 67",
+        "TRAINER/OWNER": "Richard Fahey\nDr Marwan Koukash",
+        "DISTANCES/TIMES": "15 lengths\n3m 26.41s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Braes of Lochalsh (GB)\nJames Sullivan\nHandicap Ran Off:69\nBHA Performance Figure: 52",
+        "TRAINER/OWNER": "Jim Goldie\nJohnnie Delta Racing",
+        "DISTANCES/TIMES": "1¾ length\n3m 26.71s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Silva Eclipse (GB)\nPaul Mulrennan\nHandicap Ran Off:78\nBHA Performance Figure: 60",
+        "TRAINER/OWNER": "Jedd O'Keeffe\nGeoff & Sandra Turnbull",
+        "DISTANCES/TIMES": "1 length\n3m 26.9s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "New Youmzain (FR)\nAndrew Mullen\nHandicap Ran Off:70\nBHA Performance Figure: 24",
+        "TRAINER/OWNER": "Lucy Normile\nTwentys Plenty",
+        "DISTANCES/TIMES": "28 lengths\n3m 32.08s",
+        "SP": "100/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:30PM",
+    "NAME": "THE SANDYLANDS CARAVAN PARK HANDICAP STAKES (CLASS 4)",
+    "DISTANCE": "1m",
+    "WINNER": "Strong Steps",
+    "URL": "result/#!/2017/454/753/0/",
+    "details": {
+      "Runners:": "12 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "1m",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO+",
+      "Rating:": "61-80",
+      "Min Weight:": "8st 9lbs",
+      "Weights Raised:": "-1lbs",
+      "Handicapper:": "Dominic Gardiner-Hill"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Strong Steps (GB)\nPaddy Mathers\nHandicap Ran Off:82\nBHA Performance Figure: 86",
+        "TRAINER/OWNER": "Jim Goldie\nMrs M Craig & Mr G Adams",
+        "DISTANCES/TIMES": "1m 44.03s",
+        "SP": "17/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Crazy Tornado (IRE)\nGraham Lee\nHandicap Ran Off:69\nBHA Performance Figure: 71",
+        "TRAINER/OWNER": "Keith Dalgleish\nMr Ken McGarrity",
+        "DISTANCES/TIMES": "¾ length\n1m 44.16s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Zeshov (IRE)\nDaniel Tudhope\nHandicap Ran Off:76\nBHA Performance Figure: 76",
+        "TRAINER/OWNER": "Rebecca Bastiman\nMrs P. Bastiman",
+        "DISTANCES/TIMES": "¾ length\n1m 44.31s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Rockwood (GB)\nTony Hamilton\nHandicap Ran Off:75\nBHA Performance Figure: 73",
+        "TRAINER/OWNER": "Karen McLintock\nMr I. R. Clements & Dr L. G. Parry",
+        "DISTANCES/TIMES": "1 length\n1m 44.49s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Abushamah (IRE)\nJames Sullivan\nHandicap Ran Off:74\nBHA Performance Figure: 68",
+        "TRAINER/OWNER": "Ruth Carr\nGrange Park Racing VIII & Mrs R Carr",
+        "DISTANCES/TIMES": "2 lengths\n1m 44.84s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Royal Shaheen (FR)\nP. J. McDonald\nHandicap Ran Off:81\nBHA Performance Figure: 73",
+        "TRAINER/OWNER": "Alistair Whillans\nMr Frank Lowe",
+        "DISTANCES/TIMES": "1¼ length\n1m 45.08s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Coreczka (IRE)\nBen Curtis\nHandicap Ran Off:67\nBHA Performance Figure: 51",
+        "TRAINER/OWNER": "Miss C. Cannon\nMr G. N. Cannon",
+        "DISTANCES/TIMES": "4 lengths\n1m 45.83s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Dark Crystal (GB)\nLewis Edmunds\nHandicap Ran Off:72\nBHA Performance Figure: 53",
+        "TRAINER/OWNER": "Linda Perratt\nNil Sine Labore Partnership",
+        "DISTANCES/TIMES": "1½ length\n1m 46.09s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Shah of Armaan (IRE)\nTom Eaves\nHandicap Ran Off:71\nBHA Performance Figure: 47",
+        "TRAINER/OWNER": "Kevin Ryan\nMr T. A. Rahman",
+        "DISTANCES/TIMES": "2¾ lengths\n1m 46.59s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Belle de Lawers (GB)\nJoe Fanning\nHandicap Ran Off:78\nBHA Performance Figure: 53",
+        "TRAINER/OWNER": "James Bethell\nRobertGibbons,J.D.Bethell,JamesBethell",
+        "DISTANCES/TIMES": "½ length\n1m 46.66s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Planetaria (IRE)\nPhil Dennis\nHandicap Ran Off:77\nBHA Performance Figure: 40",
+        "TRAINER/OWNER": "John Weymes\nPinnacle Four Partnership",
+        "DISTANCES/TIMES": "6 lengths\n1m 47.69s",
+        "SP": "80/1"
+      },
+      {
+        "POS": "12th",
+        "HORSE/JOCKEY": "Magistral (GB)\nPaul Hanagan\nHandicap Ran Off:69\nBHA Performance Figure: 20",
+        "TRAINER/OWNER": "R. Mike Smith\nSmith Friel Sawers Tsim",
+        "DISTANCES/TIMES": "6 lengths\n1m 48.74s",
+        "SP": "17/2"
+      }
+    ]
+  },
+  {
+    "TIME": "4:00PM",
+    "NAME": "THE WESTERN HOUSE HANDICAP STAKES (CLASS 3)",
+    "DISTANCE": "1m 2f",
+    "WINNER": "Euro Nightmare (IRE)",
+    "URL": "result/#!/2017/454/18142/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£14,500.00",
+      "Race Distance:": "1m 2f",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO+",
+      "Rating:": "76-95",
+      "Min Weight:": "8st 9lbs",
+      "Weights Raised:": "1lbs",
+      "Handicapper:": "Dominic Gardiner-Hill"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Euro Nightmare (IRE)\nGraham Lee\nHandicap Ran Off:87\nBHA Performance Figure: 92",
+        "TRAINER/OWNER": "Keith Dalgleish\nMr J. S. Morrison",
+        "DISTANCES/TIMES": "2m 16.64s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Weekend Offender (FR)\nTom Eaves\nHandicap Ran Off:89\nBHA Performance Figure: 92",
+        "TRAINER/OWNER": "Kevin Ryan\nMatt & Lauren Morgan",
+        "DISTANCES/TIMES": "½ length\n2m 16.72s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Gworn (GB)\nP. J. McDonald\nHandicap Ran Off:81\nBHA Performance Figure: 74",
+        "TRAINER/OWNER": "R. Mike Smith\nMr R. Gibson",
+        "DISTANCES/TIMES": "6 lengths\n2m 17.9s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Mulligatawny (IRE)\nTony Hamilton\nHandicap Ran Off:92\nBHA Performance Figure: 84",
+        "TRAINER/OWNER": "Roger Fell\nMiddleham Park Racing LI & Partner",
+        "DISTANCES/TIMES": "¾ length\n2m 18.03s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Footlight (GB)\nPaul Hanagan\nHandicap Ran Off:73\nBHA Performance Figure: 55",
+        "TRAINER/OWNER": "Richard Fahey\nMrs P. B. E. P. Farr",
+        "DISTANCES/TIMES": "6 lengths\n2m 19.07s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Alexandrakollontai (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Alistair Whillans\nChris Spark & William Orr",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Corton Lad (GB)\nNon Runner",
+        "TRAINER/OWNER": "Keith Dalgleish\nMr J. Hutton",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Testa Rossa (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Jim Goldie\nMr & Mrs Gordon Grant",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "4:30PM",
+    "NAME": "THE SUNDRUM CASTLE HOLIDAY PARK HANDICAP STAKES (CLASS 4)",
+    "DISTANCE": "6f",
+    "WINNER": "Khelman (IRE)",
+    "URL": "result/#!/2017/454/754/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£11,000.00",
+      "Race Distance:": "6f",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO+",
+      "Rating:": "66-85",
+      "Min Weight:": "8st 7lbs",
+      "Handicapper:": "Stewart Copeland"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Khelman (IRE)\nPaul Hanagan\nHandicap Ran Off:81\nBHA Performance Figure: 84",
+        "TRAINER/OWNER": "Richard Fahey\nMorebrooke Ltd",
+        "DISTANCES/TIMES": "1m 14.75s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Tatlisu (IRE)\nConnor Murtagh\nHandicap Ran Off:85\nBHA Performance Figure: 85",
+        "TRAINER/OWNER": "Richard Fahey\nMiddleham Park Racing LIV",
+        "DISTANCES/TIMES": "1¼ length\n1m 15s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Specialv (IRE)\nBen Curtis\nHandicap Ran Off:66\nBHA Performance Figure: 63",
+        "TRAINER/OWNER": "Brian Ellison\nD Gilbert, M Lawrence, A Bruce",
+        "DISTANCES/TIMES": "1¼ length\n1m 15.23s",
+        "SP": "11/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Sea of Green (GB)\nSean Mooney\nHandicap Ran Off:66\nBHA Performance Figure: 60",
+        "TRAINER/OWNER": "Jim Goldie\nMr James Callow & Mr J. S. Goldie",
+        "DISTANCES/TIMES": "1½ length\n1m 15.49s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Aprovado (IRE)\nCallum Rodriguez\nHandicap Ran Off:84\nBHA Performance Figure: 76",
+        "TRAINER/OWNER": "Michael Dods\nHanson, McKiver, Percival",
+        "DISTANCES/TIMES": "¾ length\n1m 15.6s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Gilmer (IRE)\nTom Eaves\nHandicap Ran Off:79\nBHA Performance Figure: 61",
+        "TRAINER/OWNER": "James Ewart\nMrs Stef Keniry",
+        "DISTANCES/TIMES": "4½ lengths\n1m 16.38s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Dawoodi (GB)\nSammy Jo Bell\nHandicap Ran Off:66\nBHA Performance Figure: 47",
+        "TRAINER/OWNER": "Linda Perratt\nMr John Murphy",
+        "DISTANCES/TIMES": "½ length\n1m 16.46s",
+        "SP": "28/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Zylan (IRE)\nTony Hamilton\nHandicap Ran Off:82\nBHA Performance Figure: 57",
+        "TRAINER/OWNER": "Roger Fell\nMr R. G. Fell",
+        "DISTANCES/TIMES": "2½ lengths\n1m 16.93s",
+        "SP": "9/1"
+      }
+    ]
+  },
+  {
+    "TIME": "5:00PM",
+    "NAME": "THE CREATING AMAZING MEMORIES APPRENTICE HANDICAP STAKES (CLASS 6)",
+    "DISTANCE": "5f",
+    "WINNER": "Hot Hannah",
+    "URL": "result/#!/2017/454/756/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£4,500.00",
+      "Race Distance:": "5f",
+      "Race Going:": "Good to Soft, Good patches",
+      "Horse Age:": "3YO+",
+      "Rating:": "46-60",
+      "Min Weight:": "8st 10lbs",
+      "Handicapper:": "Stewart Copeland",
+      "Rider Type:": "APPRENTICE"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Hot Hannah (GB)\nBen Robinson\nHandicap Ran Off:61\nBHA Performance Figure: 67",
+        "TRAINER/OWNER": "Michael Dods\nMr J. A. Knox and Mrs M. A. Knox",
+        "DISTANCES/TIMES": "1m 1.76s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Boogie Babe (GB)\nSebastian Woods\nHandicap Ran Off:50\nBHA Performance Figure: 55",
+        "TRAINER/OWNER": "Richard Fahey\nMrs P. D. Gray and Mr H. J. P. Farr",
+        "DISTANCES/TIMES": "Neck\n1m 1.83s",
+        "SP": "18/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Star Cracker (IRE)\nKevin Lundie\nHandicap Ran Off:55\nBHA Performance Figure: 58",
+        "TRAINER/OWNER": "Jim Goldie\nThe Vital Sparks",
+        "DISTANCES/TIMES": "½ length\n1m 1.9s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Perfect Words (IRE)\nHarrison Shaw\nHandicap Ran Off:59\nBHA Performance Figure: 59",
+        "TRAINER/OWNER": "Marjorie Fife\nGreen Lane",
+        "DISTANCES/TIMES": "1½ length\n1m 2.19s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Cheeni (GB)\nSean Mooney\nHandicap Ran Off:52\nBHA Performance Figure: 48",
+        "TRAINER/OWNER": "Jim Goldie\nMrs Camille Macdonald",
+        "DISTANCES/TIMES": "1½ length\n1m 2.45s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Goninodaethat (GB)\nConnor Murtagh\nHandicap Ran Off:59\nBHA Performance Figure: 54",
+        "TRAINER/OWNER": "Jim Goldie\nMr G E Adams & Mr J S Goldie",
+        "DISTANCES/TIMES": "Neck\n1m 2.5s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Dutch Dream (GB)\nLeanne Ferguson\nHandicap Ran Off:54\nBHA Performance Figure: 47",
+        "TRAINER/OWNER": "Linda Perratt\nMr B. Jordan",
+        "DISTANCES/TIMES": "¾ length\n1m 2.64s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Kylla (GB)\nBen Sanderson\nHandicap Ran Off:48\nBHA Performance Figure: 35",
+        "TRAINER/OWNER": "Shaun Harris\nBurton Agnes Bloodstock",
+        "DISTANCES/TIMES": "2¼ lengths\n1m 3.06s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Lizzy's Dream (GB)\nJosh Quinn\nHandicap Ran Off:46\nBHA Performance Figure: 29",
+        "TRAINER/OWNER": "Rebecca Bastiman\nMr N Barber & Partner",
+        "DISTANCES/TIMES": "1½ length\n1m 3.31s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Tael O' Gold (GB)\nJamie Gormley\nHandicap Ran Off:46\nBHA Performance Figure: 24",
+        "TRAINER/OWNER": "R. Mike Smith\nAlasdair and Eliza Ross",
+        "DISTANCES/TIMES": "2 lengths\n1m 3.67s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Trulove (GB)\nSeamus Cronin\nHandicap Ran Off:46\nBHA Performance Figure: 8",
+        "TRAINER/OWNER": "John David Riches\nMrs L. Wohlers",
+        "DISTANCES/TIMES": "6 lengths\n1m 4.79s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Bunce (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Linda Perratt\nPeter Tsim & The Late Mrs Helen Perratt",
+        "SP": "--"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Sir Domino (FR)\nNon Runner",
+        "TRAINER/OWNER": "Patrick Holmes\nPeter Acheson & Foulrice Park Racing Ltd",
+        "SP": "--"
+      }
+    ]
+  }
+]

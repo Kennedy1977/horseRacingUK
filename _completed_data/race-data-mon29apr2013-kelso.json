@@ -1,0 +1,564 @@
+[
+  {
+    "TIME": "2:10PM",
+    "NAME": "THE LYNTOUN PRIVATE HIRE MAIDEN HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 2f",
+    "WINNER": "Ivan Boru (IRE)",
+    "URL": "result/#!/2013/970/3651/0/",
+    "details": {
+      "Runners:": "12 RUNNERS",
+      "Prize Money:": "£5,000.00",
+      "Race Distance:": "2m 2f",
+      "Race Going:": "Good, Good to soft patches",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "MAIDEN"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Sports Model (IRE)\nGraham Watters",
+        "TRAINER/OWNER": "Valerie Jackson\nMrs V. Jackson",
+        "SP": "250/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Ivan Boru (IRE)\nJames Reveley",
+        "TRAINER/OWNER": "Keith Reveley\nThwaites Furness & Zetland",
+        "DISTANCES/TIMES": "4m 27.4s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Ueueteotl (FR)\nBrian Hughes",
+        "TRAINER/OWNER": "James Ewart\nGoing Grey",
+        "DISTANCES/TIMES": "4m 27.63s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Lifetime (IRE)\nDanny Cook",
+        "TRAINER/OWNER": "Brian Ellison\nKoo's Racing Club",
+        "DISTANCES/TIMES": "4m 28.54s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Things Change (IRE)\nDougie Costello",
+        "TRAINER/OWNER": "John Quinn\nMrs E. Wright",
+        "DISTANCES/TIMES": "4m 28.93s",
+        "SP": "13/8"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Plus Jamais (FR)\nRichie McGrath",
+        "TRAINER/OWNER": "Jim Goldie\nAlba-Eire Syndicate",
+        "DISTANCES/TIMES": "4m 30.19s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Potomac (IRE)\nWilson Renwick",
+        "TRAINER/OWNER": "Rose Dobbin\nMr & Mrs Duncan Davidson",
+        "DISTANCES/TIMES": "4m 31.03s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Mandarin Sunset (IRE)\nBrian Harding",
+        "TRAINER/OWNER": "James Ewart\nThe Sunsets",
+        "DISTANCES/TIMES": "4m 31.19s",
+        "SP": "40/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Vinstar (FR)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nMr T. G. Leslie",
+        "DISTANCES/TIMES": "4m 33.55s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Regal Ramirez (GB)\nBarry Keniry",
+        "TRAINER/OWNER": "Michael Smith\nMr David Armstrong",
+        "DISTANCES/TIMES": "4m 33.67s",
+        "SP": "125/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Oscar Lateen (IRE)\nPeter Buchanan",
+        "TRAINER/OWNER": "Sandy Thomson\nMr James R. Adam",
+        "DISTANCES/TIMES": "4m 35.42s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Swindy (GB)\nRyan Mania",
+        "TRAINER/OWNER": "Sue Smith\nMrs S. Smith",
+        "DISTANCES/TIMES": "4m 40.44s",
+        "SP": "80/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:40PM",
+    "NAME": "THE RACEHORSE OWNERS ASSOCIATION HANDICAP STEEPLE CHASE (CLASS 4)",
+    "DISTANCE": "2m 1f",
+    "WINNER": "Prince Tam (GB)",
+    "URL": "result/#!/2013/970/25364/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£6,000.00",
+      "Race Distance:": "2m 1f",
+      "Race Going:": "Good, Good to soft patches",
+      "Horse Age:": "5YO+",
+      "Rating:": "0-105",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "3lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Primrose Time (GB)\nAlexander Voy",
+        "TRAINER/OWNER": "Lucy Normile\nThe Explorers",
+        "SP": "10/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Prince Tam (GB)\nJonathan England",
+        "TRAINER/OWNER": "Harriet Graham\nMiss G. Joughin",
+        "DISTANCES/TIMES": "4m 11.9s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Freddie Brown (GB)\nRyan Mania",
+        "TRAINER/OWNER": "George Charlton\nMr J. R. Jeffreys",
+        "DISTANCES/TIMES": "4m 12.74s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Soul Magic (IRE)\nCallum Bewley",
+        "TRAINER/OWNER": "Harriet Graham\nH G Racing",
+        "DISTANCES/TIMES": "4m 13.17s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Suprise Vendor (IRE)\nGary Rutherford",
+        "TRAINER/OWNER": "Stuart Coltherd\nMr Aidan Gunning",
+        "DISTANCES/TIMES": "4m 13.71s",
+        "SP": "7/4"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Craicneasy (IRE)\nLucy Alexander",
+        "TRAINER/OWNER": "Bruce Mactaggart\nHarlequin Racing",
+        "DISTANCES/TIMES": "4m 16.13s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Against The Wind (GB)\nPeter Buchanan",
+        "TRAINER/OWNER": "Lucinda Russell\nMrs Wilma Wright",
+        "DISTANCES/TIMES": "4m 18.6s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Schinken Otto (IRE)\nHarry Haynes",
+        "TRAINER/OWNER": "Malcolm Jefferson\nMr John Donald",
+        "DISTANCES/TIMES": "4m 20.98s",
+        "SP": "22/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:10PM",
+    "NAME": "THE PETER & GILLIAN ALLAN CATERING HANDICAP HURDLE RACE (CLASS 3)",
+    "DISTANCE": "2m 6f 110y",
+    "WINNER": "Arctic Court (IRE)",
+    "URL": "result/#!/2013/970/3654/0/",
+    "details": {
+      "Runners:": "13 RUNNERS",
+      "Prize Money:": "£8,500.00",
+      "Race Distance:": "2m 6f 110y",
+      "Race Going:": "Good, Good to soft patches",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-130",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Jukebox Melody (IRE)\nWilson Renwick",
+        "TRAINER/OWNER": "John Wade\nMr John Wade",
+        "SP": "22/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Gymdoli (GB)\nGary Rutherford",
+        "TRAINER/OWNER": "Rayson Nixon\nRayson & Susan Nixon",
+        "SP": "33/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Kent Street (IRE)\nRyan Mania",
+        "TRAINER/OWNER": "Sue Smith\nMr Keith Nicholson",
+        "SP": "20/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Quel Elite (FR)\nBrian Harding",
+        "TRAINER/OWNER": "James Moffatt\nExors of the Late Mr Maurice Chapman",
+        "SP": "14/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Purcell's Bridge (FR)\nMr Shaun Dobbin",
+        "TRAINER/OWNER": "Rose Dobbin\nMr James Filmer-Wilson",
+        "SP": "6/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Arctic Court (IRE)\nDenis O'Regan",
+        "TRAINER/OWNER": "Jim Goldie\nMr & Mrs Raymond Anderson Green",
+        "DISTANCES/TIMES": "5m 30.3s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Scotswell (GB)\nLucy Alexander",
+        "TRAINER/OWNER": "Harriet Graham\nH G Racing",
+        "DISTANCES/TIMES": "5m 30.31s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Merrydown (IRE)\nDougie Costello",
+        "TRAINER/OWNER": "Nicky Richards\nMrs Pat Sloan",
+        "DISTANCES/TIMES": "5m 33.59s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Stormin Exit (IRE)\nHenry Brooke",
+        "TRAINER/OWNER": "Jim Goldie\nThomson Fyffe Racing/Mr E Bruce",
+        "DISTANCES/TIMES": "5m 36.08s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Tornado Bob (IRE)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nMrs Diana L. Whateley",
+        "DISTANCES/TIMES": "5m 37.46s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Latin Connection (IRE)\nGraham Watters",
+        "TRAINER/OWNER": "Stuart Crawford\nPircan Partnership",
+        "DISTANCES/TIMES": "5m 39.26s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Corkage (IRE)\nJames Reveley",
+        "TRAINER/OWNER": "Keith Reveley\nThe Scarth Racing Partnership",
+        "DISTANCES/TIMES": "5m 44.53s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Any Given Moment (IRE)\nPeter Buchanan",
+        "TRAINER/OWNER": "Sandy Thomson\nMr & Mrs A. M. Thomson",
+        "DISTANCES/TIMES": "5m 49.13s",
+        "SP": "14/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:40PM",
+    "NAME": "THE HAPPY 80th BIRTHDAY JOHN RUST HANDICAP STEEPLE CHASE (CLASS 3)",
+    "DISTANCE": "3m 2f",
+    "WINNER": "You Know Yourself (IRE)",
+    "URL": "result/#!/2013/970/3650/0/",
+    "details": {
+      "Runners:": "7 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "3m 2f",
+      "Race Going:": "Good, Good to soft patches",
+      "Horse Age:": "5YO+",
+      "Rating:": "0-125",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Itzacliche (IRE)\nMiss J. R. Richards",
+        "TRAINER/OWNER": "Nicky Richards\nMiss J. R. Richards",
+        "SP": "28/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Flying Squad (UAE)\nMr Shaun Dobbin",
+        "TRAINER/OWNER": "Rose Dobbin\nMajor General C. A. Ramsay",
+        "SP": "20/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "You Know Yourself (IRE)\nRyan Mania",
+        "TRAINER/OWNER": "Sue Smith\nMrs S. Smith",
+        "DISTANCES/TIMES": "6m 39.2s",
+        "SP": "10/3"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Super Ally (IRE)\nWilson Renwick",
+        "TRAINER/OWNER": "Andrew Parker\nMr & Mrs Raymond Anderson Green",
+        "DISTANCES/TIMES": "6m 39.44s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Captain Americo (IRE)\nBrian Hughes",
+        "TRAINER/OWNER": "James Ewart\nD Coppola J Ewart",
+        "DISTANCES/TIMES": "6m 39.44s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Storming Gale (IRE)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nMr T. G. Leslie",
+        "DISTANCES/TIMES": "6m 39.79s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Or de Grugy (FR)\nLucy Alexander",
+        "TRAINER/OWNER": "N. W. Alexander\nLord Cochrane And Partners",
+        "DISTANCES/TIMES": "6m 44.07s",
+        "SP": "11/4"
+      }
+    ]
+  },
+  {
+    "TIME": "4:10PM",
+    "NAME": "THE JEDFOREST DEER PARK NOVICES' HANDICAP STEEPLE CHASE (CLASS 4)",
+    "DISTANCE": "2m 1f",
+    "WINNER": "Kykate (GB)",
+    "URL": "result/#!/2013/970/3652/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "2m 1f",
+      "Race Going:": "Good, Good to soft patches",
+      "Horse Age:": "5YO+",
+      "Horse Type:": "NOVICE",
+      "Rating:": "0-120",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Kykate (GB)\nCharlie Huxley",
+        "TRAINER/OWNER": "William Kinsey\nDavid Bithell Racing",
+        "DISTANCES/TIMES": "4m 10.7s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Bocamix (FR)\nDougie Costello",
+        "TRAINER/OWNER": "Andrew Crook\nMrs Helen Sinclair",
+        "DISTANCES/TIMES": "4m 10.77s",
+        "SP": "22/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sleep In First (FR)\nBrian Hughes",
+        "TRAINER/OWNER": "James Ewart\nMr J. P. L. Ewart",
+        "DISTANCES/TIMES": "4m 11.26s",
+        "SP": "4/5"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Cloverhill Lad (IRE)\nGary Rutherford",
+        "TRAINER/OWNER": "Stuart Coltherd\nColtherd Turnbull",
+        "DISTANCES/TIMES": "4m 13.68s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Diocles (IRE)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nL. G. M. Racing",
+        "DISTANCES/TIMES": "4m 15.25s",
+        "SP": "11/4"
+      }
+    ]
+  },
+  {
+    "TIME": "4:40PM",
+    "NAME": "THE ISLE OF SKYE BLENDED SCOTCH WHISKY HANDICAP HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 2f",
+    "WINNER": "All That Remains (IRE)",
+    "URL": "result/#!/2013/970/3653/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£5,000.00",
+      "Race Distance:": "2m 2f",
+      "Race Going:": "Good, Good to soft patches",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-115",
+      "Min Weight:": "10st 0lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "War On (IRE)\nAdam Nicol",
+        "TRAINER/OWNER": "Michael Smith\nMr David Armstrong",
+        "SP": "16/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Embsay Crag (GB)\nRichie McGrath",
+        "TRAINER/OWNER": "Philip Kirby\nGrange Park Racing IV",
+        "SP": "5/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "All That Remains (IRE)\nDanny Cook",
+        "TRAINER/OWNER": "Brian Ellison\nMrs J. A. Martin",
+        "DISTANCES/TIMES": "4m 22.3s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Lisbon (IRE)\nDerek Fox",
+        "TRAINER/OWNER": "Patrick Griffin\nMr M. Deren",
+        "DISTANCES/TIMES": "4m 22.56s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Bogside (IRE)\nLucy Alexander",
+        "TRAINER/OWNER": "George Charlton\nMrs A. R. Wood",
+        "DISTANCES/TIMES": "4m 23.04s",
+        "SP": "18/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Waltz Darling (IRE)\nJames Reveley",
+        "TRAINER/OWNER": "Keith Reveley\nMr Mike Browne",
+        "DISTANCES/TIMES": "4m 26.52s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Sam Lord (GB)\nBrian Harding",
+        "TRAINER/OWNER": "James Moffatt\nBowes Lodge Stables",
+        "DISTANCES/TIMES": "4m 26.73s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Agricultural (GB)\nWilson Renwick",
+        "TRAINER/OWNER": "Lucy Normile\nMrs Jennifer Carnaby",
+        "DISTANCES/TIMES": "4m 27.12s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Stanley Bridge (GB)\nJoe Colliver",
+        "TRAINER/OWNER": "Barry Murtagh\nThe Early Doors Partnership",
+        "DISTANCES/TIMES": "4m 27.24s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Ben Akram (IRE)\nGraham Watters",
+        "TRAINER/OWNER": "Lucinda Russell\nMrs Michelle Gleeson",
+        "DISTANCES/TIMES": "4m 27.74s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Maggie Blue (IRE)\nJonathan England",
+        "TRAINER/OWNER": "Harriet Graham\nExors of the Late Mr Sam Hamilton",
+        "DISTANCES/TIMES": "4m 28.13s",
+        "SP": "33/1"
+      }
+    ]
+  },
+  {
+    "TIME": "5:10PM",
+    "NAME": "THE EILDON HILL STABLES NOVICES' HUNTERS' STEEPLE CHASE (CLASS 5) (for The Charlie Brown Trophy)",
+    "DISTANCE": "3m 2f",
+    "WINNER": "Digg Whitaker (GB)",
+    "URL": "result/#!/2013/970/3614/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£4,000.00",
+      "Race Distance:": "3m 2f",
+      "Race Going:": "Good, Good to soft patches",
+      "Horse Age:": "5YO+",
+      "Horse Type:": "NOVICE",
+      "Rider Type:": "AMATEUR"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Glen Lord (GB)\nMr Gillon Crow",
+        "TRAINER/OWNER": "Mrs N. C. Neill\nMrs N. C. Neill",
+        "SP": "12/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Indian Print (IRE)\nMr T. Hamilton",
+        "TRAINER/OWNER": "Victor Thompson\nMr V. Thompson",
+        "SP": "16/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Digg Whitaker (GB)\nMr George Smith",
+        "TRAINER/OWNER": "John Wade\nMr John Wade",
+        "DISTANCES/TIMES": "6m 47.8s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Buckstruther (IRE)\nJamie Hamilton",
+        "TRAINER/OWNER": "Alastair Bell\nAlastair and Rachel Bell",
+        "DISTANCES/TIMES": "6m 49.36s",
+        "SP": "4/5"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Senor Alco (FR)\nMr John Davidson",
+        "TRAINER/OWNER": "Victor Thompson\nMr V. Thompson",
+        "DISTANCES/TIMES": "6m 49.65s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Castley Lane (GB)\nMr M. Johnson",
+        "TRAINER/OWNER": "Sara Ender\nMr N. Ender",
+        "DISTANCES/TIMES": "6m 56.93s",
+        "SP": "22/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Pats Preference (IRE)\nBlair Campbell",
+        "TRAINER/OWNER": "Victor Thompson\nMr V. Thompson",
+        "DISTANCES/TIMES": "7m 2.57s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Maften (IRE)\nMr Nick Orpwood",
+        "TRAINER/OWNER": "Victor Thompson\nMr V. Thompson",
+        "DISTANCES/TIMES": "7m 2.77s",
+        "SP": "40/1"
+      }
+    ]
+  }
+]

@@ -1,0 +1,501 @@
+[
+  {
+    "TIME": "2:15PM",
+    "NAME": "THE 32Red HANDICAP STAKES (CLASS 6)",
+    "DISTANCE": "6f",
+    "WINNER": "Misstemper (IRE)",
+    "URL": "result/#!/2014/1814/6999/0/",
+    "details": {
+      "Runners:": "10 RUNNERS",
+      "Prize Money:": "£3,500.00",
+      "Race Distance:": "6f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO",
+      "Rating:": "46-65",
+      "Min Weight:": "8st 2lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Misstemper (IRE)\nRaul Da Silva",
+        "TRAINER/OWNER": "Jose Santos\nBob Cooper & Val Dean",
+        "DISTANCES/TIMES": "1m 18.34s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Meebo (IRE)\nNicky Mackay",
+        "TRAINER/OWNER": "J. R. Jenkins\nEaston Park Stud",
+        "DISTANCES/TIMES": "1m 18.35s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Classical Diva (GB)\nNeil Farley",
+        "TRAINER/OWNER": "Declan Carroll\nClassical Partnership",
+        "DISTANCES/TIMES": "1m 18.82s",
+        "SP": "14/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Roomie (GB)\nAndrew Elliott",
+        "TRAINER/OWNER": "Tim Easterby\nMrs Joanne Boxcer",
+        "DISTANCES/TIMES": "1m 19.35s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Under Approval (GB)\nGemma Tutty",
+        "TRAINER/OWNER": "Karen Tutty\nThoroughbred Homes Ltd",
+        "DISTANCES/TIMES": "1m 19.46s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Templar Boy (GB)\nConnor Beasley",
+        "TRAINER/OWNER": "J. R. Jenkins\nMrs Claire Goddard",
+        "DISTANCES/TIMES": "1m 19.48s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Stream of Light (GB)\nJoe Fanning",
+        "TRAINER/OWNER": "John Mackie\nMr R. Kent",
+        "DISTANCES/TIMES": "1m 21.62s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Brave Imp (GB)\nTom Eaves",
+        "TRAINER/OWNER": "Kevin Ryan\nHambleton Racing Ltd XXVI",
+        "DISTANCES/TIMES": "1m 22.19s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Weisse Girl (GB)\nJames Sullivan",
+        "TRAINER/OWNER": "Nick Kent\nGordon Parker, Nick Kent",
+        "DISTANCES/TIMES": "1m 22.64s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Sherry For Nanny (IRE)\nRoyston Ffrench",
+        "TRAINER/OWNER": "Marjorie Fife\nMr & Mrs D. C. Coates",
+        "DISTANCES/TIMES": "1m 24.36s",
+        "SP": "33/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:45PM",
+    "NAME": "THE ALL NEW 32RedSport.com SELLING STAKES (CLASS 6)",
+    "DISTANCE": "5f",
+    "WINNER": "Abi Scarlet (IRE)",
+    "URL": "result/#!/2014/1814/7004/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£3,250.00",
+      "Race Distance:": "5f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO+"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Abi Scarlet (IRE)\nCharlie Bennett",
+        "TRAINER/OWNER": "Scott Dixon\nMr H. Morrison",
+        "DISTANCES/TIMES": "1m 0.52s",
+        "SP": "4/6"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "First In Command (IRE)\nShane Kelly",
+        "TRAINER/OWNER": "Daniel Loughnane\nMrs C. Loughnane",
+        "DISTANCES/TIMES": "1m 1.02s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Foxy Music (GB)\nTony Hamilton",
+        "TRAINER/OWNER": "Tony Coyle\nMr Tony Coyle",
+        "DISTANCES/TIMES": "1m 1.61s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Dissent (IRE)\nConnor Beasley",
+        "TRAINER/OWNER": "James Given\nThe Cool Silk Partnership",
+        "DISTANCES/TIMES": "1m 1.64s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Casper Lee (IRE)\nJacob Butterfield",
+        "TRAINER/OWNER": "Michael Herrington\nDarren & Annaley Yates",
+        "DISTANCES/TIMES": "1m 2.34s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Pearl Noir (GB)\nTom Eaves",
+        "TRAINER/OWNER": "Scott Dixon\nP J Dixon & Partners",
+        "DISTANCES/TIMES": "1m 2.91s",
+        "SP": "16/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:15PM",
+    "NAME": "THE 32Red CASINO BRITISH STALLION STUDS EBF MAIDEN STAKES (CLASS 5)",
+    "DISTANCE": "7f",
+    "WINNER": "Spindle (IRE)",
+    "URL": "result/#!/2014/1814/7003/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£5,250.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Standard",
+      "Horse Age:": "2YO",
+      "Horse Type:": "MAIDEN"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Spindle (IRE)\nAndrew Mullen",
+        "TRAINER/OWNER": "Mark Usher\nSaxon House Racing",
+        "DISTANCES/TIMES": "1m 31.88s",
+        "SP": "6/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Polarisation (GB)\nJoe Fanning",
+        "TRAINER/OWNER": "Mark Johnston\nSheikh Hamdan Bin Mohammed Al Maktoum",
+        "DISTANCES/TIMES": "1m 32.58s",
+        "SP": "5/6"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Theydon Thunder (GB)\nRosie Jessop",
+        "TRAINER/OWNER": "Peter Charalambous\npcracing.co.uk",
+        "DISTANCES/TIMES": "1m 34.67s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Forgiving Glance (GB)\nTom Eaves",
+        "TRAINER/OWNER": "Philip Kirby\nMrs K. Holmes",
+        "DISTANCES/TIMES": "1m 35.26s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Capitaine (GB)\nGary Mahon",
+        "TRAINER/OWNER": "Seamus Mullins\nPhoenix Bloodstock",
+        "DISTANCES/TIMES": "1m 49.06s",
+        "SP": "33/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:45PM",
+    "NAME": "THE BET NOW AT 32RedSport.com APPRENTICE CLAIMING STAKES (CLASS 6)",
+    "DISTANCE": "7f",
+    "WINNER": "Gaelic Wizard (IRE)",
+    "URL": "result/#!/2014/1814/7002/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£3,550.00",
+      "Race Distance:": "7f",
+      "Race Going:": "Standard",
+      "Horse Age:": "4YO+",
+      "Rider Type:": "APPRENTICE"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Gaelic Wizard (IRE)\nGemma Tutty",
+        "TRAINER/OWNER": "Karen Tutty\nGrange Park Racing",
+        "DISTANCES/TIMES": "1m 31.59s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Warfare (GB)\nKevin Stott",
+        "TRAINER/OWNER": "Kevin Ryan\nGuy Reed Racing",
+        "DISTANCES/TIMES": "1m 31.66s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "My Son Max (GB)\nJack Garritty",
+        "TRAINER/OWNER": "Michael Blake\nMichael & Sharon Blake",
+        "DISTANCES/TIMES": "1m 31.92s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Masai Moon (GB)\nMr Patrick Millman",
+        "TRAINER/OWNER": "Rod Millman\nMr B. R. Millman",
+        "DISTANCES/TIMES": "1m 31.94s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Intrepid (IRE)\nGeorge Downing",
+        "TRAINER/OWNER": "Ian Williams\nMr Jamie Robert Roberts",
+        "DISTANCES/TIMES": "1m 32.09s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Midaz (GB)\nCharlie Bennett",
+        "TRAINER/OWNER": "Hughie Morrison\nMrs M. T. Bevan",
+        "DISTANCES/TIMES": "1m 32.17s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Fast Finian (IRE)\nJames J. Doyle",
+        "TRAINER/OWNER": "Ann Stokell\nMr Martyn Elvin",
+        "DISTANCES/TIMES": "1m 32.6s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Red Explorer (USA)\nGary Mahon",
+        "TRAINER/OWNER": "Ann Stokell\nMr Martyn Elvin",
+        "DISTANCES/TIMES": "1m 33.7s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Officer In Command (USA)\nGeorgia Cox",
+        "TRAINER/OWNER": "John Butler\nMr J. Butler",
+        "DISTANCES/TIMES": "1m 34.33s",
+        "SP": "50/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:15PM",
+    "NAME": "THE RACING SPECIALS AT 32RedSport.com MEDIAN AUCTION MAIDEN STAKES (CLASS 6)",
+    "DISTANCE": "1m 4f",
+    "WINNER": "Dino Mite",
+    "URL": "result/#!/2014/1814/22954/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£3,500.00",
+      "Race Distance:": "1m 4f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3-4YO",
+      "Horse Type:": "MAIDEN"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Deja Bougg (GB)\nAndrew Mullen",
+        "TRAINER/OWNER": "David Evans\nMr W. Clifford",
+        "SP": "0/0"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Dino Mite (GB)\nShane Kelly",
+        "TRAINER/OWNER": "Peter Chapple-Hyam\nMr P. Cunningham",
+        "DISTANCES/TIMES": "2m 42.66s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Kirkman (IRE)\nTed Durcan",
+        "TRAINER/OWNER": "James Bethell\nMr M. J. Dawson",
+        "DISTANCES/TIMES": "2m 46.18s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Hallouella (GB)\nJimmy Quinn",
+        "TRAINER/OWNER": "James Tate\nMr Saif Ali",
+        "DISTANCES/TIMES": "2m 48.21s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Air Squadron (GB)\nPatrick O'Donnell",
+        "TRAINER/OWNER": "Ralph Beckett\nLady Cobham",
+        "DISTANCES/TIMES": "2m 50.28s",
+        "SP": "6/4"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Arryzona (GB)\nAdam Beschizza",
+        "TRAINER/OWNER": "Christine Dunnett\nChristine Dunnett Racing (Arryzona)",
+        "DISTANCES/TIMES": "2m 50.29s",
+        "SP": "50/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Big Fortune (GB)\nDavid Probert",
+        "TRAINER/OWNER": "David C. Griffiths\nFishlake Commercial Motors Ltd",
+        "DISTANCES/TIMES": "3m 2.41s",
+        "SP": "25/1"
+      }
+    ]
+  },
+  {
+    "TIME": "4:45PM",
+    "NAME": "THE 32Red.com HANDICAP STAKES (CLASS 4) (BOBIS RACE)",
+    "DISTANCE": "1m 4f",
+    "WINNER": "From Frost",
+    "URL": "result/#!/2014/1814/7000/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£8,000.00",
+      "Race Distance:": "1m 4f",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO",
+      "Rating:": "61-80",
+      "Min Weight:": "8st 2lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "From Frost (GB)\nDavid Probert",
+        "TRAINER/OWNER": "Andrew Balding\nMr George Strawbridge",
+        "DISTANCES/TIMES": "2m 40.57s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Daydreamer (GB)\nMartin Harley",
+        "TRAINER/OWNER": "William Haggas\nMr & Mrs R. Scott",
+        "DISTANCES/TIMES": "2m 42.44s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Ultimate Act (GB)\nShane Kelly",
+        "TRAINER/OWNER": "Seamus Mullins\nPhoenix Bloodstock",
+        "DISTANCES/TIMES": "2m 42.93s",
+        "SP": "8/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Sellingallthetime (IRE)\nAlistair Rawlinson",
+        "TRAINER/OWNER": "Michael Appleby\nMr Robin Oliver",
+        "DISTANCES/TIMES": "2m 44.24s",
+        "SP": "6/4"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Master Dan (GB)\nConnor Beasley",
+        "TRAINER/OWNER": "James Given\nThe Cool Silk Partnership",
+        "DISTANCES/TIMES": "2m 49.78s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Blue Atlantic (USA)\nJoe Fanning",
+        "TRAINER/OWNER": "Mark Johnston\nMr R. S. Brookhouse",
+        "DISTANCES/TIMES": "2m 52.36s",
+        "SP": "7/1"
+      }
+    ]
+  },
+  {
+    "TIME": "5:15PM",
+    "NAME": "THE 32Red ON THE APP STORE HANDICAP STAKES (CLASS 6)",
+    "DISTANCE": "1m",
+    "WINNER": "Hayek",
+    "URL": "result/#!/2014/1814/7001/0/",
+    "details": {
+      "Runners:": "11 RUNNERS",
+      "Prize Money:": "£3,500.00",
+      "Race Distance:": "1m",
+      "Race Going:": "Standard",
+      "Horse Age:": "3YO+",
+      "Rating:": "46-60",
+      "Min Weight:": "9st 0lbs",
+      "Weights Raised:": "3lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Hayek (GB)\nAndrew Elliott",
+        "TRAINER/OWNER": "Tim Easterby\nHabton Farms",
+        "DISTANCES/TIMES": "1m 47.65s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Columbian Roulette (IRE)\nPaddy Aspell",
+        "TRAINER/OWNER": "Charles Hills\nMr Stewart Jones",
+        "DISTANCES/TIMES": "1m 47.75s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Benidorm (GB)\nDuilio Da Silva",
+        "TRAINER/OWNER": "Richard Guest\nAnn And Eric Lumley",
+        "DISTANCES/TIMES": "1m 47.8s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Wotalad (GB)\nTony Hamilton",
+        "TRAINER/OWNER": "Richard Whitaker\nMrs Jill Willows",
+        "DISTANCES/TIMES": "1m 48.72s",
+        "SP": "16/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Puppet Theatre (IRE)\nSam James",
+        "TRAINER/OWNER": "David O'Meara\nDirect Racing",
+        "DISTANCES/TIMES": "1m 48.94s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "General Tufto (GB)\nBilly Cray",
+        "TRAINER/OWNER": "Charles Smith\nMr J. R. Theaker",
+        "DISTANCES/TIMES": "1m 49.46s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Pim Street (USA)\nDaniel Tudhope",
+        "TRAINER/OWNER": "David O'Meara\nDundalk Racing Club",
+        "DISTANCES/TIMES": "1m 49.5s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Just Five (IRE)\nConnor Beasley",
+        "TRAINER/OWNER": "John Weymes\nHoofbeats Racing Club 4",
+        "DISTANCES/TIMES": "1m 50.38s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "9th",
+        "HORSE/JOCKEY": "Daneside (IRE)\nPaul Pickard",
+        "TRAINER/OWNER": "Simon West\nMr Paul Hothersall",
+        "DISTANCES/TIMES": "1m 51.22s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "10th",
+        "HORSE/JOCKEY": "Banreenahreenkah (IRE)\nDavid Probert",
+        "TRAINER/OWNER": "Paul Fitzsimons\nSaxon Gate Bloodstock (Helene Moller)",
+        "DISTANCES/TIMES": "1m 51.91s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "11th",
+        "HORSE/JOCKEY": "Habeshia (GB)\nJohn Fahy",
+        "TRAINER/OWNER": "John Best\nMr Brian Goodyear",
+        "DISTANCES/TIMES": "1m 52.38s",
+        "SP": "7/1"
+      }
+    ]
+  }
+]

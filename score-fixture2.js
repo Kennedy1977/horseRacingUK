@@ -190,6 +190,6 @@ const top3Entries = scoreEntries(fixtureData.raceEntries);
 console.log("Top 3 Entries based on scores:");
 top3Entries.forEach((entry, index) => {
   console.log(
-    `${index + 1}: ${entry.horseName} (Score: ${entry.score.toFixed(2)})`
+    `${index + 1}: ${entry.horseName} (Score: ${entry.totalScore.toFixed(2)})`
   );
 });

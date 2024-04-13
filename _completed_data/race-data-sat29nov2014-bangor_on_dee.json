@@ -1,0 +1,330 @@
+[
+  {
+    "TIME": "12:30PM",
+    "NAME": "THE GINGER McCAIN MEMORIAL NOVICES' STEEPLE CHASE (CLASS 3)",
+    "DISTANCE": "3m 110y",
+    "WINNER": "The Last Samuri (IRE)",
+    "URL": "result/#!/2014/488/929/0/",
+    "details": {
+      "Runners:": "2 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "3m 110y",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Lookslikerainted (IRE)\nKeith Cogley",
+        "TRAINER/OWNER": "Rebecca Curtis\nMr A. J. Rhead",
+        "SP": "9/4"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "The Last Samuri (IRE)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nPaul & Clare Rooney",
+        "DISTANCES/TIMES": "6m 43.6s",
+        "SP": "1/3"
+      }
+    ]
+  },
+  {
+    "TIME": "1:00PM",
+    "NAME": "THE BETFAIR HOME OF THE PRICE RUSH HANDICAP STEEPLE CHASE (CLASS 4)",
+    "DISTANCE": "2m 1f 110y",
+    "WINNER": "Take The Crown",
+    "URL": "result/#!/2014/488/926/0/",
+    "details": {
+      "Runners:": "3 RUNNERS",
+      "Prize Money:": "£6,000.00",
+      "Race Distance:": "2m 1f 110y",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-115",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "2lbs"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Take The Crown (GB)\nJames Davies",
+        "TRAINER/OWNER": "Henry Oliver\nMr R. G. Whitehead",
+        "DISTANCES/TIMES": "4m 44.2s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Cody Wyoming (GB)\nTommy Dowling",
+        "TRAINER/OWNER": "Charlie Mann\nCharlie Mann Racing Club",
+        "DISTANCES/TIMES": "4m 47.12s",
+        "SP": "1/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Indiefront (GB)\nSam Jones",
+        "TRAINER/OWNER": "Jo Davis\nMr Robbie Allsop",
+        "DISTANCES/TIMES": "4m 59.98s",
+        "SP": "18/1"
+      }
+    ]
+  },
+  {
+    "TIME": "1:30PM",
+    "NAME": "THE BETFAIR PRICE RUSH HANDICAP STEEPLE CHASE (CLASS 3)",
+    "DISTANCE": "3m 110y",
+    "WINNER": "Presented (IRE)",
+    "URL": "result/#!/2014/488/925/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£12,000.00",
+      "Race Distance:": "3m 110y",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-125",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "2lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Withoutdefavourite (IRE)\nJames Davies",
+        "TRAINER/OWNER": "Henry Oliver\nMr R. G. Whitehead",
+        "SP": "9/2"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Vif Argent (FR)\nMichael Heard",
+        "TRAINER/OWNER": "David Pipe\nMr Stef Stefanou",
+        "SP": "8/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Heavenstown (IRE)\nNico de Boinville",
+        "TRAINER/OWNER": "John Spearing\nMr Malcolm Page",
+        "SP": "8/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Presented (IRE)\nJason Maguire",
+        "TRAINER/OWNER": "Brian Ellison\nMiss C. A. Carr",
+        "DISTANCES/TIMES": "6m 35.4s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Azure Fly (IRE)\nCharlie Deutsch",
+        "TRAINER/OWNER": "Charlie Longsdon\nGirls Allowed",
+        "DISTANCES/TIMES": "6m 36.75s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Castle Conflict (IRE)\nTom O'Brien",
+        "TRAINER/OWNER": "Henry Daly\nStrachan,Clarke,Gabb,Corbett & Salwey",
+        "DISTANCES/TIMES": "6m 57.3s",
+        "SP": "3/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:00PM",
+    "NAME": "THE BETTER ODDS WITH BETFAIR PRICE RUSH NOVICES' HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 4f",
+    "WINNER": "Simply The West (IRE)",
+    "URL": "result/#!/2014/488/928/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£5,000.00",
+      "Race Distance:": "2m 4f",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Truckers Highway (IRE)\nNick Slatter",
+        "TRAINER/OWNER": "John Groucott\nMr C. J. Tipton",
+        "SP": "50/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Simply The West (IRE)\nTom O'Brien",
+        "TRAINER/OWNER": "Charlie Longsdon\nBiddestone Racing Partnership XI",
+        "DISTANCES/TIMES": "5m 23.2s",
+        "SP": "11/8"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Winter Walk (IRE)\nJason Maguire",
+        "TRAINER/OWNER": "Rebecca Curtis\nDiamond Racing Ltd",
+        "DISTANCES/TIMES": "5m 26.34s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Super Sam (GB)\nLiam Treadwell",
+        "TRAINER/OWNER": "Venetia Williams\nMrs A. Timpson",
+        "DISTANCES/TIMES": "5m 31.3s",
+        "SP": "15/8"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Portmonarch (IRE)\nTommy Dowling",
+        "TRAINER/OWNER": "Charlie Mann\nMr John Heron",
+        "DISTANCES/TIMES": "5m 53.61s",
+        "SP": "28/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:35PM",
+    "NAME": "THE DO YOU GET A PRICE RUSH HANDICAP HURDLE RACE (CLASS 3)",
+    "DISTANCE": "3m",
+    "WINNER": "Kilmurvy (IRE)",
+    "URL": "result/#!/2014/488/927/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "3m",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "4YO+",
+      "Rating:": "0-135",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "1lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Lower Hope Dandy (GB)\nLiam Treadwell",
+        "TRAINER/OWNER": "Venetia Williams\nMr Clive Richards",
+        "SP": "2/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Serienschock (GER)\nLiam Heard",
+        "TRAINER/OWNER": "David Pipe\nMr Terry Neill",
+        "SP": "5/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Kilmurvy (IRE)\nTom O'Brien",
+        "TRAINER/OWNER": "Jeremy Scott\nMr Ian Murray",
+        "DISTANCES/TIMES": "6m 33.6s",
+        "SP": "7/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Who Owns Me (IRE)\nHarry Bannister",
+        "TRAINER/OWNER": "Michael Easterby\nMr M. J. R. Bannister",
+        "DISTANCES/TIMES": "6m 33.9s",
+        "SP": "15/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Volcanic (FR)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nElite Racing Club",
+        "DISTANCES/TIMES": "6m 35.41s",
+        "SP": "9/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:10PM",
+    "NAME": "THE FEEL THE RUSH AT BETFAIR 'NATIONAL HUNT' NOVICES' HURDLE RACE (CLASS 4)",
+    "DISTANCE": "2m 1f",
+    "WINNER": "Wilcos Mo Chara (IRE)",
+    "URL": "result/#!/2014/488/930/0/",
+    "details": {
+      "Runners:": "3 RUNNERS",
+      "Prize Money:": "£5,000.00",
+      "Race Distance:": "2m 1f",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Wilcos Mo Chara (IRE)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nA&K Ecofilm Ltd",
+        "DISTANCES/TIMES": "4m 42.7s",
+        "SP": "1/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Pied du Roi (IRE)\nTom O'Brien",
+        "TRAINER/OWNER": "Charlie Longsdon\nThe Pantechnicons II",
+        "DISTANCES/TIMES": "4m 43.36s",
+        "SP": "9/2"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Moncarno (GB)\nLiam Heard",
+        "TRAINER/OWNER": "David Pipe\nDavid & Elaine Long",
+        "DISTANCES/TIMES": "5m 6.71s",
+        "SP": "14/1"
+      }
+    ]
+  },
+  {
+    "TIME": "3:45PM",
+    "NAME": "THE BERNARD CORBETT & CO MARES' STANDARD OPEN NATIONAL HUNT FLAT RACE (CLASS 5)",
+    "DISTANCE": "2m 1f",
+    "WINNER": "The Way It Works (IRE)",
+    "URL": "result/#!/2014/488/931/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£3,000.00",
+      "Race Distance:": "2m 1f",
+      "Race Going:": "Soft, Heavy patches",
+      "Horse Age:": "4-6YO",
+      "Horse Sex:": "FILLIES & MARES"
+    },
+    "horses": [
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "The Way It Works (IRE)\nTom O'Brien",
+        "TRAINER/OWNER": "Mark McNiff (Ireland)\nMr Liam Kelly",
+        "DISTANCES/TIMES": "4m 38s",
+        "SP": "13/8"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Dashul (IRE)\nMatt Griffiths",
+        "TRAINER/OWNER": "Jeremy Scott\nOn A Mission",
+        "DISTANCES/TIMES": "4m 38.31s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Hatton Bank (GB)\nRichie McLernon",
+        "TRAINER/OWNER": "Emma Lavelle\nMr G. P. MacIntosh",
+        "DISTANCES/TIMES": "4m 38.48s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Briery Bubbles (GB)\nBen Poste",
+        "TRAINER/OWNER": "Tom Symonds\nThe Mumbo Jumbos",
+        "DISTANCES/TIMES": "4m 42.26s",
+        "SP": "33/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Another Cobbler (FR)\nJake Greenall",
+        "TRAINER/OWNER": "Henry Daly\nMrs A. Timpson",
+        "DISTANCES/TIMES": "4m 43.89s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Sister Suzie (IRE)\nJason Maguire",
+        "TRAINER/OWNER": "Donald McCain\nMr Jon Glews",
+        "DISTANCES/TIMES": "4m 52.19s",
+        "SP": "11/1"
+      }
+    ]
+  }
+]

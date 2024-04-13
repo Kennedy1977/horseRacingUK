@@ -1,0 +1,494 @@
+[
+  {
+    "TIME": "12:50PM",
+    "NAME": "THE WATCH RACING UK ANYWHERE NOVICES' HURDLE RACE (CLASS 3)",
+    "DISTANCE": "2m",
+    "WINNER": "Charmix (FR)",
+    "URL": "result/#!/2015/1699/8127/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£8,300.00",
+      "Race Distance:": "2m",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Alchimix (FR)\nJoe Colliver",
+        "TRAINER/OWNER": "Micky Hammond\nMr I. Barran",
+        "SP": "25/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Charmix (FR)\nNoel Fehily",
+        "TRAINER/OWNER": "Harry Fry\nMr Nicholas Cooper",
+        "DISTANCES/TIMES": "4m 8.4s",
+        "SP": "5/2"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Ennistown (GB)\nBrian Hughes",
+        "TRAINER/OWNER": "John Ferguson\nBloomfields",
+        "DISTANCES/TIMES": "4m 8.64s",
+        "SP": "11/10"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Draytonian (IRE)\nRichard Johnson",
+        "TRAINER/OWNER": "Philip Hobbs\nMrs Diana L. Whateley",
+        "DISTANCES/TIMES": "4m 8.69s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Jethro (IRE)\nWilliam Kennedy",
+        "TRAINER/OWNER": "Brian Ellison\nMr P. J. Martin",
+        "DISTANCES/TIMES": "4m 15.41s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Karisma King (GB)\nSean Quinlan",
+        "TRAINER/OWNER": "Sue Smith\nBroadway Racing Club 15",
+        "DISTANCES/TIMES": "4m 17.29s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Strait Run (IRE)\nFinian O'Toole",
+        "TRAINER/OWNER": "Micky Hammond\nLittlethorpe Park Racing",
+        "DISTANCES/TIMES": "4m 18.39s",
+        "SP": "100/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Par Three (IRE)\nNick Slatter",
+        "TRAINER/OWNER": "Tony Carroll\nProperty Players Partnership",
+        "DISTANCES/TIMES": "4m 23.66s",
+        "SP": "50/1"
+      }
+    ]
+  },
+  {
+    "TIME": "1:25PM",
+    "NAME": "THE bet365.com NOVICES' STEEPLE CHASE (CLASS 4)",
+    "DISTANCE": "3m 45y",
+    "WINNER": "Southfield Royale",
+    "URL": "result/#!/2015/1699/23371/0/",
+    "details": {
+      "Runners:": "6 RUNNERS",
+      "Prize Money:": "£5,800.00",
+      "Race Distance:": "3m 45y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Shabach (IRE)\nTony Kelly\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Mark Walford\nMr Neil Readman",
+        "SP": "200/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Under The Red Sky (IRE)\nColm McCormack\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Kenny Johnson\nMr Robert C. Whitelock",
+        "SP": "100/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Handazan (IRE)\nKielan Woods\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Ben Case\nJohn L Marriott & Albert L Marriott",
+        "SP": "14/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Southfield Royale (GB)\nNoel Fehily\nBHA Performance Figure: 147",
+        "TRAINER/OWNER": "Neil Mulholland\nMrs Angela Yeoman",
+        "DISTANCES/TIMES": "6m 29.8s",
+        "SP": "7/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Zeroeshadesofgrey (IRE)\nTrevor Whelan\nBHA Performance Figure: 130",
+        "TRAINER/OWNER": "Neil King\nMrs J. K. Buckle",
+        "DISTANCES/TIMES": "6m 34.83s",
+        "SP": "11/8"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Beg To Differ (IRE)\nRichard Johnson\nBHA Performance Figure: 118",
+        "TRAINER/OWNER": "Jonjo O'Neill\nMrs John Magnier,Mr D Smith & Mr M Tabor",
+        "DISTANCES/TIMES": "6m 38.26s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Pay The King (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Micky Hammond\nMr S. Paley",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "2:00PM",
+    "NAME": "THE bet365 WEST YORKSHIRE HURDLE RACE (CLASS 1) (Grade 2)",
+    "DISTANCE": "3m 26y",
+    "WINNER": "Kilcooley (IRE)",
+    "URL": "result/#!/2015/1699/8124/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£40,000.00",
+      "Race Distance:": "3m 26y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Goldan Jess (IRE)\nKyle James\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Philip Kirby\nThe Jessies,Colin Fletcher,Brian Cobbett",
+        "SP": "66/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "No Planning (GB)\nSean Quinlan\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Sue Smith\nMrs Jacqueline Conroy",
+        "SP": "10/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Kilcooley (IRE)\nRichard Johnson\nBHA Performance Figure: 161",
+        "TRAINER/OWNER": "Charlie Longsdon\nJ. H. & S. M. Wall",
+        "DISTANCES/TIMES": "6m 08s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Rock On Ruby (IRE)\nNoel Fehily\nBHA Performance Figure: 150",
+        "TRAINER/OWNER": "Harry Fry\nThe Festival Goers",
+        "DISTANCES/TIMES": "6m 11.15s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Aqalim (GB)\nBrian Hughes\nBHA Performance Figure: 141",
+        "TRAINER/OWNER": "John Ferguson\nBloomfields",
+        "DISTANCES/TIMES": "6m 11.34s",
+        "SP": "7/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Grumeti (GB)\nWayne Hutchinson\nBHA Performance Figure: 128",
+        "TRAINER/OWNER": "Alan King\nMcNeill Family",
+        "DISTANCES/TIMES": "6m 15.29s",
+        "SP": "7/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Closing Ceremony (IRE)\nRichie McLernon\nBHA Performance Figure: 129",
+        "TRAINER/OWNER": "Emma Lavelle\nThe High Altitude Partnership",
+        "DISTANCES/TIMES": "6m 17.59s",
+        "SP": "17/2"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "The Druids Nephew (IRE)\nMichael Byrne\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Neil Mulholland\nThe Stonehenge Druids",
+        "DISTANCES/TIMES": "6m 38.79s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Splash of Ginge (GB)\nJamie Bargary\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Nigel Twiston-Davies\nMr J. D. Neild",
+        "DISTANCES/TIMES": "6m 39.5s",
+        "SP": "14/1"
+      }
+    ]
+  },
+  {
+    "TIME": "2:30PM",
+    "NAME": "THE OLBG.com MARES' HURDLE RACE (CLASS 1) (Listed Race)",
+    "DISTANCE": "2m",
+    "WINNER": "Blue Buttons (IRE)",
+    "URL": "result/#!/2015/1699/19856/0/",
+    "details": {
+      "Runners:": "8 RUNNERS",
+      "Prize Money:": "£22,000.00",
+      "Race Distance:": "2m",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Horse Sex:": "FILLIES & MARES"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Roja Dove (IRE)\nJoe Colliver\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "David Thompson\nMr Nick Saint",
+        "SP": "200/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Bantam (IRE)\nRichard Johnson\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Henry Daly\nBrooke Kelly Partnership",
+        "SP": "13/2"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Blue Buttons (IRE)\nNoel Fehily\nBHA Performance Figure: 137",
+        "TRAINER/OWNER": "Harry Fry\nHarry Fry Racing Club",
+        "DISTANCES/TIMES": "4m 1.5s",
+        "SP": "2/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Intense Tango (GB)\nBrian Hughes\nBHA Performance Figure: 138",
+        "TRAINER/OWNER": "K. R. Burke\nCosy Seal Racing Limited",
+        "DISTANCES/TIMES": "4m 2.86s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Midnight Jazz (GB)\nKielan Woods\nBHA Performance Figure: 129",
+        "TRAINER/OWNER": "Ben Case\nExors of the Late Mr D. Allen",
+        "DISTANCES/TIMES": "4m 3.08s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Allez Encore (IRE)\nTom Bellamy\nBHA Performance Figure: 128",
+        "TRAINER/OWNER": "Kim Bailey\nGSTTKPA Charity Partnership",
+        "DISTANCES/TIMES": "4m 3.33s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Last Supper (GB)\nWayne Hutchinson\nBHA Performance Figure: 124",
+        "TRAINER/OWNER": "James Bethell\nMr Robert Gibbons",
+        "DISTANCES/TIMES": "4m 4.49s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Ma Filleule (FR)\nDavid Bass\nBHA Performance Figure: 122",
+        "TRAINER/OWNER": "Nicky Henderson\nMr Simon Munir & Mr Isaac Souede",
+        "DISTANCES/TIMES": "4m 4.64s",
+        "SP": "9/4"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Stephanie Frances (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Dan Skelton\nMiss Mandy Hall",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "3:05PM",
+    "NAME": "THE bet365 CHARLIE HALL STEEPLE CHASE (CLASS 1) (Grade 2)",
+    "DISTANCE": "3m 45y",
+    "WINNER": "Cue Card",
+    "URL": "result/#!/2015/1699/8123/0/",
+    "details": {
+      "Runners:": "7 RUNNERS",
+      "Prize Money:": "£100,000.00",
+      "Race Distance:": "3m 45y",
+      "Race Going:": "Soft",
+      "Horse Age:": "5YO+"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Menorah (IRE)\nRichard Johnson\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Philip Hobbs\nMrs Diana L. Whateley",
+        "SP": "7/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Cue Card (GB)\nPaddy Brennan\nBHA Performance Figure: 157",
+        "TRAINER/OWNER": "Colin Tizzard\nMrs Jean R. Bishop",
+        "DISTANCES/TIMES": "6m 21.4s",
+        "SP": "11/4"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Dynaste (FR)\nConor O'Farrell\nBHA Performance Figure: 153",
+        "TRAINER/OWNER": "David Pipe\nMr A. J. White",
+        "DISTANCES/TIMES": "6m 22.33s",
+        "SP": "3/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Ballynagour (IRE)\nNoel Fehily\nBHA Performance Figure: 152",
+        "TRAINER/OWNER": "David Pipe\nMr Allan Stennett",
+        "DISTANCES/TIMES": "6m 22.43s",
+        "SP": "6/1"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Sam Winner (FR)\nSean Bowen\nBHA Performance Figure: 151",
+        "TRAINER/OWNER": "Paul Nicholls\nMrs Angela Yeoman",
+        "DISTANCES/TIMES": "6m 25.17s",
+        "SP": "12/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Holywell (IRE)\nRichie McLernon\nBHA Performance Figure: 140",
+        "TRAINER/OWNER": "Jonjo O'Neill\nMrs Gay Smith",
+        "DISTANCES/TIMES": "6m 27.26s",
+        "SP": "10/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Many Clouds (IRE)\nLeighton Aspell\nBHA Performance Figure: 143",
+        "TRAINER/OWNER": "Oliver Sherwood\nMr Trevor Hemmings",
+        "DISTANCES/TIMES": "6m 27.61s",
+        "SP": "9/2"
+      }
+    ]
+  },
+  {
+    "TIME": "3:40PM",
+    "NAME": "THE bet365.com STEEPLE CHASE (A NOVICES' LIMITED HANDICAP) (CLASS 3)",
+    "DISTANCE": "1m 7f 36y",
+    "WINNER": "Katachenko (IRE)",
+    "URL": "result/#!/2015/1699/8118/0/",
+    "details": {
+      "Runners:": "5 RUNNERS",
+      "Prize Money:": "£10,000.00",
+      "Race Distance:": "1m 7f 36y",
+      "Race Going:": "Soft",
+      "Horse Age:": "4YO+",
+      "Horse Type:": "NOVICE",
+      "Rating:": "0-140",
+      "Min Weight:": "10st 3lbs",
+      "Weights Raised:": "5lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Kings Bandit (IRE)\nLeighton Aspell\nHandicap Ran Off:132\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Oliver Sherwood\nMrs Diana L. Whateley",
+        "SP": "8/1"
+      },
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Relic Rock (IRE)\nWilliam Kennedy\nHandicap Ran Off:120\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Brian Ellison\nMr P. J. Martin",
+        "SP": "5/2"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Katachenko (IRE)\nWayne Hutchinson\nHandicap Ran Off:128\nBHA Performance Figure: 133",
+        "TRAINER/OWNER": "Donald McCain\nMr Trevor Hemmings",
+        "DISTANCES/TIMES": "3m 58.3s",
+        "SP": "11/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Mon Successeur (FR)\nSean Bowen\nHandicap Ran Off:128\nBHA Performance Figure: 132",
+        "TRAINER/OWNER": "Paul Nicholls\nMr and Mrs J. D. Cotton",
+        "DISTANCES/TIMES": "3m 58.5s",
+        "SP": "4/5"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Vodka Wells (FR)\nJamie Bargary\nHandicap Ran Off:129\nBHA Performance Figure: 124",
+        "TRAINER/OWNER": "Micky Hammond\nMike and Eileen Newbould",
+        "DISTANCES/TIMES": "4m 0.66s",
+        "SP": "20/1"
+      },
+      {
+        "POS": "NR",
+        "HORSE/JOCKEY": "Minella Present (IRE)\nNon Runner",
+        "TRAINER/OWNER": "Neil Mulholland\nMrs Jane Gerard-Pearse",
+        "SP": "--"
+      }
+    ]
+  },
+  {
+    "TIME": "4:10PM",
+    "NAME": "THE RACING UK 1 PRICE 3 DEVICES HANDICAP HURDLE RACE (CLASS 3)",
+    "DISTANCE": "2m 3f 154y",
+    "WINNER": "Billy No Name (IRE)",
+    "URL": "result/#!/2015/1699/8117/0/",
+    "details": {
+      "Runners:": "9 RUNNERS",
+      "Prize Money:": "£8,300.00",
+      "Race Distance:": "2m 3f 154y",
+      "Race Going:": "Soft",
+      "Horse Age:": "3YO+",
+      "Rating:": "0-130",
+      "Min Weight:": "10st 0lbs",
+      "Weights Raised:": "3lbs"
+    },
+    "horses": [
+      {
+        "POS": "DNF",
+        "HORSE/JOCKEY": "Boogie In The Barn (IRE)\nBrian Hughes\nHandicap Ran Off:127\nBHA Performance Figure: 0",
+        "TRAINER/OWNER": "Charlie Longsdon\n--",
+        "SP": "5/1"
+      },
+      {
+        "POS": "1st",
+        "HORSE/JOCKEY": "Billy No Name (IRE)\nPaddy Brennan\nHandicap Ran Off:115\nBHA Performance Figure: 120",
+        "TRAINER/OWNER": "Colin Tizzard\nMrs Jean R. Bishop",
+        "DISTANCES/TIMES": "5m 10.8s",
+        "SP": "9/1"
+      },
+      {
+        "POS": "2nd",
+        "HORSE/JOCKEY": "Muhtaris (IRE)\nLeighton Aspell\nHandicap Ran Off:115\nBHA Performance Figure: 119",
+        "TRAINER/OWNER": "James Evans\nThe Cheltenham Boys Racing Club",
+        "DISTANCES/TIMES": "5m 10.91s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "3rd",
+        "HORSE/JOCKEY": "Sir Ivan (GB)\nNoel Fehily\nHandicap Ran Off:125\nBHA Performance Figure: 128",
+        "TRAINER/OWNER": "Harry Fry\nThe Eyre Family",
+        "DISTANCES/TIMES": "5m 11.07s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "4th",
+        "HORSE/JOCKEY": "Medicine Hat (GB)\nJoe Colliver\nHandicap Ran Off:125\nBHA Performance Figure: 127",
+        "TRAINER/OWNER": "George Moore\nMrs Sarah Pearson",
+        "DISTANCES/TIMES": "5m 11.24s",
+        "SP": "5/1"
+      },
+      {
+        "POS": "5th",
+        "HORSE/JOCKEY": "Champagne At Tara (GB)\nRichard Johnson\nHandicap Ran Off:127\nBHA Performance Figure: 127",
+        "TRAINER/OWNER": "Jonjo O'Neill\nMr John P. McManus",
+        "DISTANCES/TIMES": "5m 11.81s",
+        "SP": "4/1"
+      },
+      {
+        "POS": "6th",
+        "HORSE/JOCKEY": "Midnight Game (GB)\nWilliam Kennedy\nHandicap Ran Off:122\nBHA Performance Figure: 113",
+        "TRAINER/OWNER": "Brian Ellison\nMrs J. A. Martin",
+        "DISTANCES/TIMES": "5m 14.19s",
+        "SP": "25/1"
+      },
+      {
+        "POS": "7th",
+        "HORSE/JOCKEY": "Chebsey Beau (GB)\nDean Pratt\nHandicap Ran Off:127\nBHA Performance Figure: 115",
+        "TRAINER/OWNER": "John Quinn\nKent, Greaves, Dawson",
+        "DISTANCES/TIMES": "5m 15.08s",
+        "SP": "13/2"
+      },
+      {
+        "POS": "8th",
+        "HORSE/JOCKEY": "Ashbrittle (GB)\nTrevor Whelan\nHandicap Ran Off:123\nBHA Performance Figure: 97",
+        "TRAINER/OWNER": "Neil King\nMr J. L. Rowsell",
+        "DISTANCES/TIMES": "5m 19.04s",
+        "SP": "5/1"
+      }
+    ]
+  }
+]
